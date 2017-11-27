@@ -34,27 +34,33 @@
 \contentsline {subsection}{\numberline {2.6.1}Campo elettrico lungo l'asse del dipolo}{13}
 \contentsline {subsection}{\numberline {2.6.2}Potenziale elettrico lungo l'asse del dipolo}{13}
 \contentsline {chapter}{\numberline {3}Magnetostatica}{15}
-\contentsline {section}{\numberline {3.1}Corrente elettrica}{15}
-\contentsline {section}{\numberline {3.2}Forza di Lorentz}{15}
-\contentsline {subsection}{\numberline {3.2.1}Forza tra due fili paralleli percorsi da corrente}{15}
-\contentsline {section}{\numberline {3.3}Legge di Biot-Savart}{16}
-\contentsline {subsection}{\numberline {3.3.1}Tratto di filo rettilineo}{16}
-\contentsline {subsection}{\numberline {3.3.2}Spira circolare}{17}
-\contentsline {section}{\numberline {3.4}Legge di Amp\IeC {\'e}re}{18}
-\contentsline {subsection}{\numberline {3.4.1}Solenoide ideale}{18}
-\contentsline {section}{\numberline {3.5}Legge di Faraday-Lenz}{19}
-\contentsline {subsection}{\numberline {3.5.1}Relazione con induttanza}{19}
+\contentsline {section}{\numberline {3.1}Forza di Lorentz}{15}
+\contentsline {subsection}{\numberline {3.1.1}Forza tra due fili paralleli percorsi da corrente}{15}
+\contentsline {section}{\numberline {3.2}Legge di Biot-Savart}{16}
+\contentsline {subsection}{\numberline {3.2.1}Tratto di filo rettilineo}{16}
+\contentsline {subsection}{\numberline {3.2.2}Spira circolare}{17}
+\contentsline {section}{\numberline {3.3}Legge di Amp\IeC {\'e}re}{18}
+\contentsline {subsection}{\numberline {3.3.1}Solenoide ideale}{18}
+\contentsline {section}{\numberline {3.4}Legge di Faraday-Lenz}{19}
+\contentsline {subsection}{\numberline {3.4.1}Relazione con induttanza}{19}
 \contentsline {chapter}{\numberline {4}Circuiti}{21}
-\contentsline {section}{\numberline {4.1}Resistori}{22}
-\contentsline {subsection}{\numberline {4.1.1}Resistori collegati in parallelo}{22}
-\contentsline {subsection}{\numberline {4.1.2}Resistori collegati in serie}{22}
-\contentsline {section}{\numberline {4.2}Condensatori}{23}
-\contentsline {subsection}{\numberline {4.2.1}Campo elettrico all'interno di un condensatore}{23}
-\contentsline {subsection}{\numberline {4.2.2}Differenza di potenziale sulle armature del condensatore}{23}
-\contentsline {subsection}{\numberline {4.2.3}Capacit\IeC {\`a} di un condensatore piano}{24}
-\contentsline {subsection}{\numberline {4.2.4}Cosa accade all'esterno del condensatore}{24}
-\contentsline {subsection}{\numberline {4.2.5}Carica e scarica del condensatore}{24}
-\contentsline {subsubsection}{Processo di carica}{24}
-\contentsline {subsubsection}{Processo di scarica}{24}
-\contentsline {subsection}{\numberline {4.2.6}Condensatori collegati in parallelo}{25}
-\contentsline {subsection}{\numberline {4.2.7}Condensatori collegati in serie}{25}
+\contentsline {section}{\numberline {4.1}Corrente elettrica}{21}
+\contentsline {subsection}{\numberline {4.1.1}Leggi di Kirchhoff}{21}
+\contentsline {section}{\numberline {4.2}Analisi dei circuiti}{21}
+\contentsline {subsection}{\numberline {4.2.1}Differenza di potenziale nei circuiti}{22}
+\contentsline {subsection}{\numberline {4.2.2}Forza elettromotrice}{22}
+\contentsline {section}{\numberline {4.3}Resistori}{23}
+\contentsline {subsection}{\numberline {4.3.1}Resistori collegati in parallelo}{23}
+\contentsline {subsection}{\numberline {4.3.2}Resistori collegati in serie}{24}
+\contentsline {section}{\numberline {4.4}Condensatori}{24}
+\contentsline {subsection}{\numberline {4.4.1}Campo elettrico all'interno di un condensatore}{24}
+\contentsline {subsection}{\numberline {4.4.2}Differenza di potenziale sulle armature del condensatore}{25}
+\contentsline {subsection}{\numberline {4.4.3}Capacit\IeC {\`a} di un condensatore piano}{25}
+\contentsline {subsection}{\numberline {4.4.4}Cosa accade all'esterno del condensatore}{26}
+\contentsline {subsection}{\numberline {4.4.5}Carica e scarica del condensatore}{26}
+\contentsline {subsubsection}{Processo di carica}{26}
+\contentsline {subsubsection}{Processo di scarica}{26}
+\contentsline {subsection}{\numberline {4.4.6}Condensatori collegati in parallelo}{27}
+\contentsline {subsection}{\numberline {4.4.7}Condensatori collegati in serie}{27}
+\contentsline {section}{\numberline {4.5}Induttori}{28}
+\contentsline {subsection}{\numberline {4.5.1}Induttori nei circuiti}{28}

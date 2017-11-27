@@ -1,4 +1,46 @@
 \chapter{Circuiti}
+
+\section{Corrente elettrica}
+La corrente elettrica $i$ è definita come la quantità di carica che nell'unità di tempo attraversa un elemento di area entro un conduttore.\\
+Il verso della corrente è quello in cui si muovono le cariche positive, anche quando, nella realtà i portatori di carica dovessero essere negativi.
+
+\subsection{Leggi di Kirchhoff}
+\textbf{Prima legge Kirchhoff (ai nodi)}: \textit{In qualunque nodo di un circuito elettrico la corrente totale entrante è uguale alla corrente totale uscente.}\\
+\textbf{Seconda legge Kirchhoff (alle maglie)}: \textit{la somma algebrica di tutte le differnze di potenziale di una maglia è zero.}
+
+\section{Analisi dei circuiti}
+Solitamente lo scopo dell'analisi di un circuito consiste nel trovare la corrente in modulo e verso, dati i valori di f.e.m. e resistenza del circuito.\\
+Attribuire arbitrariamente il segno della corrente: nella maggior parte dei casi siamo in grado di sceglierlo correttamente (per esempio sfruttando i generatori di corrente, in quanto la corrente va dal polo negativo a quello positivo), ma se dovessimo sceglierlo in maniera errata, ciò verrà segnalato dal segno negativo della corrente che otterremo come risultato.\\
+Partendo da un qualunque punto fissato arbitrariamente, percorrere un giro completo della maglia sommando algebricamente le differenze di potenziale che via via si incontrano ai capi di tutti gli elementi, applicando la legge di Kirchhoff alle maglie.
+\begin{esempio}
+	Consideriamo il seguente circuito:
+	\begin{figure}[h!]
+		\centering
+		\includegraphics[scale=0.4]{Pictures/circuito}
+		\caption{Circuito}
+	\end{figure}
+	Partendo dal punto $a$, in cui il potenziale ha valore $V_a$, procediamo in senso orario: incontriamo dapprima il resistore, attraverso il quale il potenziale cade di $\Delta V_R = i\cdot R$, cosicché il potenziale in $b$ risulta $V_b = V_a - i\cdot R$.\\
+	Proseguendo, incontriamo la batteria, ove entriamo dal polo negativo, per cui il potenziale cresce di una quantità pari alla f.e.m. $E$.\\
+	Possiamo quindi scrivere
+	\begin{displaymath}
+		V_a = V_b + E = V_a - i \cdot R + E
+	\end{displaymath}
+	Sfruttando la legge di Kirchhoff alle maglie:
+	\begin{displaymath}\begin{aligned}
+		E - i \cdot R = 0\\
+		i = \frac{E}{R}
+	\end{aligned}\end{displaymath}
+\end{esempio}
+
+\subsection{Differenza di potenziale nei circuiti}
+Per determinare la differenza di potenziale tra due punti qualsiasi di un circuito, si parte da un punto e ci si sposta lungo il circuito verso l'altro punto, sommando algebricamente le variazioni di potenziale incontrate.\\
+Questa somma algebrica è la differenza di potenziale tra i punti.\\\\
+Si può seguire un \textbf{qualunque} cammino tra i due punti lungo il circuito ottenendo lo stesso valore di differenza di potenziale, dato che un aspetto fondamentale del concetto di potenziale è l'indipendenza dal cammino.
+
+\subsection{Forza elettromotrice}
+Per spostare le cariche nei circuiti elettrici è generalmente necessaria una sorgente esterna di energia. Il circuito deve quindi contenere un dispositivo che mantenga una differenza di potenziale tra due punti.\\
+Un qualunque dispositivo che svolga questo compito in un circuito elettrico è detto sorgente di \textbf{forza elettromotrice}. Può essere utile considerare un generatore di f.e.m. come un meccanismo che crea un'elevazione di potenziale, vi \textit{innalza} le cariche, da cui esse \textit{cadono} poi verso \textit{valle} attraverso il resto del circuito.\\\\
+
 \subsection*{Elementi circuitali in parallelo}
 Due o più elementi circuitali collegati in parallelo godono delle seguenti proprietà:
 \begin{itemize}
@@ -173,3 +215,12 @@ Possiamo dimostrare, per induzione, che per $n$ resistori vale:
 \begin{displaymath}
 	\frac{1}{C} = \sum_{i=1}^n \frac{1}{C_i}
 \end{displaymath}
+
+\section{Induttori}
+L'induttore è quell'elemento circuitale che immagazzina energia nel campo magnetico generato dalle sue spire percorse da corrente, proprio come il condensatore accumula energia nel campo elettrico tra le sue armature cariche.\\
+Un induttore è caratterizzato da un'\textbf{induttanza}, una grandezza che dipende dalle proprietà geometriche.\\
+L'induttanza $L$ è definita come la costante di proporzionalità tra la f.e.m. indotta e la derivata temporale della corrente: $$\epsilon_L = L \cdot \frac{di}{dt}$$
+Il verso della f.e.m. indotta è tale da opporsi alla variazione di corrente.
+
+\subsection{Induttori nei circuiti}
+All'istante iniziale l'induttore si comporta come una resistenza di valore infinito, che pian piano si riduce a zero quando la corrente raggiunge il suo valore stazionario.\\
