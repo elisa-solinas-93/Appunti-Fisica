@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2017.11.25)  26 NOV 2017 00:21
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2017.11.25)  27 NOV 2017 20:55
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -34,10 +34,40 @@ File: bk12.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
 \belowcaptionskip=\skip42
 \bibindent=\dimen103
 )
+(/usr/share/texlive/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2010/09/12 v5.6 Page Geometry
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2017/03/15 v3.2 Provides the ifpdf switch
+)
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifvtex.sty
+Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+)
+(/usr/share/texlive/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+\Gm@cnth=\count88
+\Gm@cntv=\count89
+\c@Gm@tempcnt=\count90
+\Gm@bindingoffset=\dimen104
+\Gm@wd@mp=\dimen105
+\Gm@odd@mp=\dimen106
+\Gm@even@mp=\dimen107
+\Gm@layoutwidth=\dimen108
+\Gm@layoutheight=\dimen109
+\Gm@layouthoffset=\dimen110
+\Gm@layoutvoffset=\dimen111
+\Gm@dimlist=\toks15
+)
 (/usr/share/texlive/texmf-dist/tex/latex/base/inputenc.sty
 Package: inputenc 2015/03/17 v1.2c Input encoding file
-\inpenc@prehook=\toks14
-\inpenc@posthook=\toks15
+\inpenc@prehook=\toks16
+\inpenc@posthook=\toks17
 
 (/usr/share/texlive/texmf-dist/tex/latex/base/utf8.def
 File: utf8.def 2017/01/28 v1.1t UTF-8 support for inputenc
@@ -367,16 +397,16 @@ File: babel.def 2017/10/04 3.14 Babel common definitions
 (/usr/share/texlive/texmf-dist/tex/generic/babel/switch.def
 File: switch.def 2017/10/04 3.14 Babel switching mechanism
 )
-\babel@savecnt=\count88
-\U@D=\dimen104
+\babel@savecnt=\count91
+\U@D=\dimen112
 )
-\it@lettering=\count89
-\it@doublequoteactive=\count90
-\it@ISOcompliance=\count91
+\it@lettering=\count92
+\it@doublequoteactive=\count93
+\it@ISOcompliance=\count94
 ))
 (/usr/share/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty
 Package: etoolbox 2017/01/02 v2.4 e-TeX tools for LaTeX (JAW)
-\etb@tempcnta=\count92
+\etb@tempcnta=\count95
 )
 (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
 Package: amsmath 2017/09/02 v2.17a AMS math features
@@ -388,51 +418,51 @@ Package: amstext 2000/06/29 v2.01 AMS text
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty
 File: amsgen.sty 1999/11/30 v2.0 generic functions
-\@emptytoks=\toks16
-\ex@=\dimen105
+\@emptytoks=\toks18
+\ex@=\dimen113
 ))
 (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty
 Package: amsbsy 1999/11/29 v1.2d Bold Symbols
-\pmbraise@=\dimen106
+\pmbraise@=\dimen114
 )
 (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty
 Package: amsopn 2016/03/08 v2.02 operator names
 )
-\inf@bad=\count93
+\inf@bad=\count96
 LaTeX Info: Redefining \frac on input line 213.
-\uproot@=\count94
-\leftroot@=\count95
+\uproot@=\count97
+\leftroot@=\count98
 LaTeX Info: Redefining \overline on input line 375.
-\classnum@=\count96
-\DOTSCASE@=\count97
+\classnum@=\count99
+\DOTSCASE@=\count100
 LaTeX Info: Redefining \ldots on input line 472.
 LaTeX Info: Redefining \dots on input line 475.
 LaTeX Info: Redefining \cdots on input line 596.
 \Mathstrutbox@=\box26
 \strutbox@=\box27
-\big@size=\dimen107
+\big@size=\dimen115
 LaTeX Font Info:    Redeclaring font encoding OML on input line 712.
 LaTeX Font Info:    Redeclaring font encoding OMS on input line 713.
-\macc@depth=\count98
-\c@MaxMatrixCols=\count99
+\macc@depth=\count101
+\c@MaxMatrixCols=\count102
 \dotsspace@=\muskip10
-\c@parentequation=\count100
-\dspbrk@lvl=\count101
-\tag@help=\toks17
-\row@=\count102
-\column@=\count103
-\maxfields@=\count104
-\andhelp@=\toks18
-\eqnshift@=\dimen108
-\alignsep@=\dimen109
-\tagshift@=\dimen110
-\tagwidth@=\dimen111
-\totwidth@=\dimen112
-\lineht@=\dimen113
-\@envbody=\toks19
+\c@parentequation=\count103
+\dspbrk@lvl=\count104
+\tag@help=\toks19
+\row@=\count105
+\column@=\count106
+\maxfields@=\count107
+\andhelp@=\toks20
+\eqnshift@=\dimen116
+\alignsep@=\dimen117
+\tagshift@=\dimen118
+\tagwidth@=\dimen119
+\totwidth@=\dimen120
+\lineht@=\dimen121
+\@envbody=\toks21
 \multlinegap=\skip44
 \multlinetaggap=\skip45
-\mathdisplay@stack=\toks20
+\mathdisplay@stack=\toks22
 LaTeX Info: Redefining \[ on input line 2817.
 LaTeX Info: Redefining \] on input line 2818.
 )
@@ -448,23 +478,19 @@ LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 ))
 (/usr/share/texlive/texmf-dist/tex/latex/amscls/amsthm.sty
 Package: amsthm 2015/03/04 v2.20.2
-\thm@style=\toks21
-\thm@bodyfont=\toks22
-\thm@headfont=\toks23
-\thm@notefont=\toks24
-\thm@headpunct=\toks25
+\thm@style=\toks23
+\thm@bodyfont=\toks24
+\thm@headfont=\toks25
+\thm@notefont=\toks26
+\thm@headpunct=\toks27
 \thm@preskip=\skip46
 \thm@postskip=\skip47
 \thm@headsep=\skip48
-\dth@everypar=\toks26
+\dth@everypar=\toks28
 )
 (/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
 Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
 
-(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
-Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
-\KV@toks@=\toks27
-)
 (/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
 Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
 
@@ -479,16 +505,16 @@ Package graphics Info: Driver file: pdftex.def on input line 99.
 (/usr/share/texlive/texmf-dist/tex/latex/graphics-def/pdftex.def
 File: pdftex.def 2017/06/24 v1.0g Graphics/color driver for pdftex
 ))
-\Gin@req@height=\dimen114
-\Gin@req@width=\dimen115
+\Gin@req@height=\dimen122
+\Gin@req@width=\dimen123
 )
 (/usr/share/texlive/texmf-dist/tex/latex/enumitem/enumitem.sty
 Package: enumitem 2011/09/28 v3.5.2 Customized lists
 \labelindent=\skip49
-\enit@outerparindent=\dimen116
-\enit@toks=\toks28
+\enit@outerparindent=\dimen124
+\enit@toks=\toks29
 \enit@inbox=\box28
-\enitdp@description=\count105
+\enitdp@description=\count108
 )
 (/usr/share/texlive/texmf-dist/tex/latex/pdfpages/pdfpages.sty
 Package: pdfpages 2017/08/14 v0.5k Insert pages of external PDF documents (AM)
@@ -498,15 +524,15 @@ Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
 )
 (/usr/share/texlive/texmf-dist/tex/latex/tools/calc.sty
 Package: calc 2014/10/28 v4.3 Infix arithmetic (KKT,FJ)
-\calc@Acount=\count106
-\calc@Bcount=\count107
-\calc@Adimen=\dimen117
-\calc@Bdimen=\dimen118
+\calc@Acount=\count109
+\calc@Bcount=\count110
+\calc@Adimen=\dimen125
+\calc@Bdimen=\dimen126
 \calc@Askip=\skip50
 \calc@Bskip=\skip51
 LaTeX Info: Redefining \setlength on input line 80.
 LaTeX Info: Redefining \addtolength on input line 81.
-\calc@Ccount=\count108
+\calc@Ccount=\count111
 \calc@Cskip=\skip52
 )
 (/usr/share/texlive/texmf-dist/tex/latex/eso-pic/eso-pic.sty
@@ -520,9 +546,6 @@ Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
 )
 (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
 Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
-)
-(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifpdf.sty
-Package: ifpdf 2017/03/15 v3.2 Provides the ifpdf switch
 ))
 (/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty
 Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
@@ -541,426 +564,103 @@ Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
 Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
 Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
 ))
-\AM@pagewidth=\dimen119
-\AM@pageheight=\dimen120
+\AM@pagewidth=\dimen127
+\AM@pageheight=\dimen128
 
 (/usr/share/texlive/texmf-dist/tex/latex/pdfpages/pppdftex.def
 File: pppdftex.def 2017/08/14 v0.5k Pdfpages driver for pdfTeX (AM)
 )
 \AM@pagebox=\box29
-\AM@global@opts=\toks29
-\AM@toc@title=\toks30
-\c@AM@survey=\count109
+\AM@global@opts=\toks30
+\AM@toc@title=\toks31
+\c@AM@survey=\count112
 \AM@templatesizebox=\box30
 )
-\c@esempio=\count110
+\c@esempio=\count113
+ (./main.aux
+(./Teoria/meccanica.aux) (./Teoria/elettrostatica.aux)
+(./Teoria/magnetostatica.aux) (./Teoria/circuiti.aux))
+\openout1 = `main.aux'.
 
-(/usr/share/texlive/texmf-dist/tex/latex/geometry/geometry.sty
-Package: geometry 2010/09/12 v5.6 Page Geometry
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
 
-(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifvtex.sty
-Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
-Package ifvtex Info: VTeX not detected.
-)
-(/usr/share/texlive/texmf-dist/tex/generic/ifxetex/ifxetex.sty
-Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
-)
-\Gm@cnth=\count111
-\Gm@cntv=\count112
-\c@Gm@tempcnt=\count113
-\Gm@bindingoffset=\dimen121
-\Gm@wd@mp=\dimen122
-\Gm@odd@mp=\dimen123
-\Gm@even@mp=\dimen124
-\Gm@layoutwidth=\dimen125
-\Gm@layoutheight=\dimen126
-\Gm@layouthoffset=\dimen127
-\Gm@layoutvoffset=\dimen128
-\Gm@dimlist=\toks31
-)
-(/usr/share/texlive/texmf-dist/tex/latex/psnfss/avant.sty
-Package: avant 2005/04/12 PSNFSS-v9.2a (SPQR) 
-)
-(/usr/share/texlive/texmf-dist/tex/latex/psnfss/mathptmx.sty
-Package: mathptmx 2005/04/12 PSNFSS-v9.2a Times w/ Math, improved (SPQR, WaS) 
-LaTeX Font Info:    Redeclaring symbol font `operators' on input line 28.
-LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/cmr/m/n --> OT1/ztmcm/m/n on input line 28.
-LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  OT1/cmr/bx/n --> OT1/ztmcm/m/n on input line 28.
-LaTeX Font Info:    Redeclaring symbol font `letters' on input line 29.
-LaTeX Font Info:    Overwriting symbol font `letters' in version `normal'
-(Font)                  OML/cmm/m/it --> OML/ztmcm/m/it on input line 29.
-LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
-(Font)                  OML/cmm/b/it --> OML/ztmcm/m/it on input line 29.
-LaTeX Font Info:    Redeclaring symbol font `symbols' on input line 30.
-LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
-(Font)                  OMS/cmsy/m/n --> OMS/ztmcm/m/n on input line 30.
-LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
-(Font)                  OMS/cmsy/b/n --> OMS/ztmcm/m/n on input line 30.
-LaTeX Font Info:    Redeclaring symbol font `largesymbols' on input line 31.
-LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
-(Font)                  OMX/cmex/m/n --> OMX/ztmcm/m/n on input line 31.
-LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
-(Font)                  OMX/cmex/m/n --> OMX/ztmcm/m/n on input line 31.
-\symbold=\mathgroup6
-\symitalic=\mathgroup7
-LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 34.
-LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  OT1/cmr/bx/n --> OT1/ptm/bx/n on input line 34.
-LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  OT1/cmr/bx/n --> OT1/ptm/bx/n on input line 34.
-LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 35.
-LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  OT1/cmr/m/it --> OT1/ptm/m/it on input line 35.
-LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmr/bx/it --> OT1/ptm/m/it on input line 35.
-LaTeX Info: Redefining \hbar on input line 50.
-)
-(/usr/share/texlive/texmf-dist/tex/latex/microtype/microtype.sty
-Package: microtype 2017/07/07 v2.7 Micro-typographical refinements (RS)
-\MT@toks=\toks32
-\MT@count=\count114
-LaTeX Info: Redefining \textls on input line 789.
-\MT@outer@kern=\dimen129
-LaTeX Info: Redefining \textmicrotypecontext on input line 1334.
-\MT@listname@count=\count115
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: letterpaper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: twoside 
+* h-part:(L,W,R)=(91.04872pt, 432.19756pt, 91.04872pt)
+* v-part:(T,H,B)=(85.35826pt, 624.25346pt, 85.35826pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=432.19756pt
+* \textheight=624.25346pt
+* \oddsidemargin=18.77873pt
+* \evensidemargin=18.77873pt
+* \topmargin=-8.91173pt
+* \headheight=12.0pt
+* \headsep=10.0pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=98.0pt
+* \marginparsep=7.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidetrue
+* \@mparswitchtrue
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-(/usr/share/texlive/texmf-dist/tex/latex/microtype/microtype-pdftex.def
-File: microtype-pdftex.def 2017/07/07 v2.7 Definitions specific to pdftex (RS)
-LaTeX Info: Redefining \lsstyle on input line 912.
-LaTeX Info: Redefining \lslig on input line 912.
-\MT@outer@space=\skip53
-)
-Package microtype Info: Loading configuration file microtype.cfg.
+LaTeX Info: Redefining \it@ocap on input line 22.
+LaTeX Info: Redefining \it@ccap on input line 22.
 
-(/usr/share/texlive/texmf-dist/tex/latex/microtype/microtype.cfg
-File: microtype.cfg 2017/07/07 v2.7 microtype main configuration file (RS)
+File italian.ldf warning: 
+italian.ldf    With OT1 encoding guillemets are poorly faked
+italian.ldf    Use T1 encoding
+italian.ldf    or specify a font with command \CaporaliFrom
+italian.ldf    See the documentation concerning the babel-italian typesetting 
+italian.ldf    on input line 22.
+
+(/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count114
+\scratchdimen=\dimen129
+\scratchbox=\box31
+\nofMPsegments=\count115
+\nofMParguments=\count116
+\everyMPshowfont=\toks32
+\MPscratchCnt=\count117
+\MPscratchDim=\dimen130
+\MPnumerator=\count118
+\makeMPintoPDFobject=\count119
+\everyMPtoPDFconversion=\toks33
+) (/usr/share/texlive/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
 ))
-(./structure.tex (/usr/share/texlive/texmf-dist/tex/latex/titlesec/titlesec.sty
-Package: titlesec 2016/03/21 v2.10.2 Sectioning titles
-\ttl@box=\box31
-\beforetitleunit=\skip54
-\aftertitleunit=\skip55
-\ttl@plus=\dimen130
-\ttl@minus=\dimen131
-\ttl@toksa=\toks33
-\titlewidth=\dimen132
-\titlewidthlast=\dimen133
-\titlewidthfirst=\dimen134
-) (/usr/share/texlive/texmf-dist/tex/latex/lipsum/lipsum.sty
-Package: lipsum 2014/07/27 v1.3 150 paragraphs of Lorem Ipsum dummy text
-\c@lips@count=\count116
-)
-(/usr/share/texlive/texmf-dist/tex/latex/pgf/frontendlayer/tikz.sty
-(/usr/share/texlive/texmf-dist/tex/latex/pgf/basiclayer/pgf.sty
-(/usr/share/texlive/texmf-dist/tex/latex/pgf/utilities/pgfrcs.sty
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfutil-common.tex
-\pgfutil@everybye=\toks34
-\pgfutil@tempdima=\dimen135
-\pgfutil@tempdimb=\dimen136
-
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfutil-common-lists.t
-ex)) (/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfutil-latex.def
-\pgfutil@abb=\box32
-(/usr/share/texlive/texmf-dist/tex/latex/ms/everyshi.sty
-Package: everyshi 2001/05/15 v3.00 EveryShipout Package (MS)
-))
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfrcs.code.tex
-Package: pgfrcs 2015/08/07 v3.0.1a (rcs-revision 1.31)
-))
-Package: pgf 2015/08/07 v3.0.1a (rcs-revision 1.15)
-
-(/usr/share/texlive/texmf-dist/tex/latex/pgf/basiclayer/pgfcore.sty
-(/usr/share/texlive/texmf-dist/tex/latex/pgf/systemlayer/pgfsys.sty
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsys.code.tex
-Package: pgfsys 2014/07/09 v3.0.1a (rcs-revision 1.48)
-
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex
-\pgfkeys@pathtoks=\toks35
-\pgfkeys@temptoks=\toks36
-
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfkeysfiltered.code.t
-ex
-\pgfkeys@tmptoks=\toks37
-))
-\pgf@x=\dimen137
-\pgf@y=\dimen138
-\pgf@xa=\dimen139
-\pgf@ya=\dimen140
-\pgf@xb=\dimen141
-\pgf@yb=\dimen142
-\pgf@xc=\dimen143
-\pgf@yc=\dimen144
-\w@pgf@writea=\write3
-\r@pgf@reada=\read1
-\c@pgf@counta=\count117
-\c@pgf@countb=\count118
-\c@pgf@countc=\count119
-\c@pgf@countd=\count120
-\t@pgf@toka=\toks38
-\t@pgf@tokb=\toks39
-\t@pgf@tokc=\toks40
- (/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgf.cfg
-File: pgf.cfg 2008/05/14  (rcs-revision 1.7)
-)
-Driver file for pgf: pgfsys-pdftex.def
-
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-pdftex.def
-File: pgfsys-pdftex.def 2014/10/11  (rcs-revision 1.35)
-
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-common-pdf.de
-f
-File: pgfsys-common-pdf.def 2013/10/10  (rcs-revision 1.13)
-)))
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsyssoftpath.code.
-tex
-File: pgfsyssoftpath.code.tex 2013/09/09  (rcs-revision 1.9)
-\pgfsyssoftpath@smallbuffer@items=\count121
-\pgfsyssoftpath@bigbuffer@items=\count122
-)
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsysprotocol.code.
-tex
-File: pgfsysprotocol.code.tex 2006/10/16  (rcs-revision 1.4)
-))
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcore.code.tex
-Package: pgfcore 2010/04/11 v3.0.1a (rcs-revision 1.7)
-
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathcalc.code.tex
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathutil.code.tex)
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathparser.code.tex
-\pgfmath@dimen=\dimen145
-\pgfmath@count=\count123
-\pgfmath@box=\box33
-\pgfmath@toks=\toks41
-\pgfmath@stack@operand=\toks42
-\pgfmath@stack@operation=\toks43
-)
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.code.tex
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.basic.code
-.tex)
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.trigonomet
-ric.code.tex)
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.random.cod
-e.tex)
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.comparison
-.code.tex)
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.base.code.
-tex)
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.round.code
-.tex)
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.misc.code.
-tex)
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.integerari
-thmetics.code.tex)))
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfloat.code.tex
-\c@pgfmathroundto@lastzeros=\count124
-))
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepoints.code.te
-x
-File: pgfcorepoints.code.tex 2013/10/07  (rcs-revision 1.27)
-\pgf@picminx=\dimen146
-\pgf@picmaxx=\dimen147
-\pgf@picminy=\dimen148
-\pgf@picmaxy=\dimen149
-\pgf@pathminx=\dimen150
-\pgf@pathmaxx=\dimen151
-\pgf@pathminy=\dimen152
-\pgf@pathmaxy=\dimen153
-\pgf@xx=\dimen154
-\pgf@xy=\dimen155
-\pgf@yx=\dimen156
-\pgf@yy=\dimen157
-\pgf@zx=\dimen158
-\pgf@zy=\dimen159
-)
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathconstruct.
-code.tex
-File: pgfcorepathconstruct.code.tex 2013/10/07  (rcs-revision 1.29)
-\pgf@path@lastx=\dimen160
-\pgf@path@lasty=\dimen161
-)
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathusage.code
-.tex
-File: pgfcorepathusage.code.tex 2014/11/02  (rcs-revision 1.24)
-\pgf@shorten@end@additional=\dimen162
-\pgf@shorten@start@additional=\dimen163
-)
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorescopes.code.te
-x
-File: pgfcorescopes.code.tex 2015/05/08  (rcs-revision 1.46)
-\pgfpic=\box34
-\pgf@hbox=\box35
-\pgf@layerbox@main=\box36
-\pgf@picture@serial@count=\count125
-)
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoregraphicstate.c
-ode.tex
-File: pgfcoregraphicstate.code.tex 2014/11/02  (rcs-revision 1.12)
-\pgflinewidth=\dimen164
-)
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransformation
-s.code.tex
-File: pgfcoretransformations.code.tex 2015/08/07  (rcs-revision 1.20)
-\pgf@pt@x=\dimen165
-\pgf@pt@y=\dimen166
-\pgf@pt@temp=\dimen167
-)
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorequick.code.tex
-File: pgfcorequick.code.tex 2008/10/09  (rcs-revision 1.3)
-)
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreobjects.code.t
-ex
-File: pgfcoreobjects.code.tex 2006/10/11  (rcs-revision 1.2)
-)
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathprocessing
-.code.tex
-File: pgfcorepathprocessing.code.tex 2013/09/09  (rcs-revision 1.9)
-)
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorearrows.code.te
-x
-File: pgfcorearrows.code.tex 2015/05/14  (rcs-revision 1.43)
-\pgfarrowsep=\dimen168
-)
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreshade.code.tex
-File: pgfcoreshade.code.tex 2013/07/15  (rcs-revision 1.15)
-\pgf@max=\dimen169
-\pgf@sys@shading@range@num=\count126
-)
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreimage.code.tex
-File: pgfcoreimage.code.tex 2013/07/15  (rcs-revision 1.18)
-
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreexternal.code.
-tex
-File: pgfcoreexternal.code.tex 2014/07/09  (rcs-revision 1.21)
-\pgfexternal@startupbox=\box37
-))
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorelayers.code.te
-x
-File: pgfcorelayers.code.tex 2013/07/18  (rcs-revision 1.7)
-)
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransparency.c
-ode.tex
-File: pgfcoretransparency.code.tex 2013/09/30  (rcs-revision 1.5)
-)
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepatterns.code.
-tex
-File: pgfcorepatterns.code.tex 2013/11/07  (rcs-revision 1.5)
-)))
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/modules/pgfmoduleshapes.code.tex
-File: pgfmoduleshapes.code.tex 2014/03/21  (rcs-revision 1.35)
-\pgfnodeparttextbox=\box38
-) (/usr/share/texlive/texmf-dist/tex/generic/pgf/modules/pgfmoduleplot.code.tex
-File: pgfmoduleplot.code.tex 2015/08/03  (rcs-revision 1.13)
-)
-(/usr/share/texlive/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-0-65
-.sty
-Package: pgfcomp-version-0-65 2007/07/03 v3.0.1a (rcs-revision 1.7)
-\pgf@nodesepstart=\dimen170
-\pgf@nodesepend=\dimen171
-)
-(/usr/share/texlive/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-1-18
-.sty
-Package: pgfcomp-version-1-18 2007/07/23 v3.0.1a (rcs-revision 1.1)
-)) (/usr/share/texlive/texmf-dist/tex/latex/pgf/utilities/pgffor.sty
-(/usr/share/texlive/texmf-dist/tex/latex/pgf/utilities/pgfkeys.sty
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex))
-(/usr/share/texlive/texmf-dist/tex/latex/pgf/math/pgfmath.sty
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex))
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgffor.code.tex
-Package: pgffor 2013/12/13 v3.0.1a (rcs-revision 1.25)
-
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex)
-\pgffor@iter=\dimen172
-\pgffor@skip=\dimen173
-\pgffor@stack=\toks44
-\pgffor@toks=\toks45
-))
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/tikz.code.tex
-Package: tikz 2015/08/07 v3.0.1a (rcs-revision 1.151)
-
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/pgflibraryplothandlers
-.code.tex
-File: pgflibraryplothandlers.code.tex 2013/08/31 v3.0.1a (rcs-revision 1.20)
-\pgf@plot@mark@count=\count127
-\pgfplotmarksize=\dimen174
-)
-\tikz@lastx=\dimen175
-\tikz@lasty=\dimen176
-\tikz@lastxsaved=\dimen177
-\tikz@lastysaved=\dimen178
-\tikzleveldistance=\dimen179
-\tikzsiblingdistance=\dimen180
-\tikz@figbox=\box39
-\tikz@figbox@bg=\box40
-\tikz@tempbox=\box41
-\tikz@tempbox@bg=\box42
-\tikztreelevel=\count128
-\tikznumberofchildren=\count129
-\tikznumberofcurrentchild=\count130
-\tikz@fig@count=\count131
-
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/modules/pgfmodulematrix.code.tex
-File: pgfmodulematrix.code.tex 2013/09/17  (rcs-revision 1.8)
-\pgfmatrixcurrentrow=\count132
-\pgfmatrixcurrentcolumn=\count133
-\pgf@matrix@numberofcolumns=\count134
-)
-\tikz@expandcount=\count135
-
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
-zlibrarytopaths.code.tex
-File: tikzlibrarytopaths.code.tex 2008/06/17 v3.0.1a (rcs-revision 1.2)
-)))
-(/usr/share/texlive/texmf-dist/tex/latex/booktabs/booktabs.sty
-Package: booktabs 2016/04/27 v1.618033 publication quality tables
-\heavyrulewidth=\dimen181
-\lightrulewidth=\dimen182
-\cmidrulewidth=\dimen183
-\belowrulesep=\dimen184
-\belowbottomsep=\dimen185
-\aboverulesep=\dimen186
-\abovetopsep=\dimen187
-\cmidrulesep=\dimen188
-\cmidrulekern=\dimen189
-\defaultaddspace=\dimen190
-\@cmidla=\count136
-\@cmidlb=\count137
-\@aboverulesep=\dimen191
-\@belowrulesep=\dimen192
-\@thisruleclass=\count138
-\@lastruleclass=\count139
-\@thisrulewidth=\dimen193
-)
-(/usr/share/texlive/texmf-dist/tex/latex/titlesec/titletoc.sty
-Package: titletoc 2011/12/15 v1.6 TOC entries
-\ttl@leftsep=\dimen194
-)
-(/usr/share/texlive/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
-Package: fancyhdr 2017/06/30 v3.9a Extensive control of page headers and footer
-s
-\f@nch@headwidth=\skip56
-\f@nch@O@elh=\skip57
-\f@nch@O@erh=\skip58
-\f@nch@O@olh=\skip59
-\f@nch@O@orh=\skip60
-\f@nch@O@elf=\skip61
-\f@nch@O@erf=\skip62
-\f@nch@O@olf=\skip63
-\f@nch@O@orf=\skip64
-)
-\c@notation=\count140
-\c@dummy=\count141
-\c@problem=\count142
-\c@exerciseT=\count143
-\c@exampleT=\count144
-\c@vocabulary=\count145
-\c@definitionT=\count146
-
-(/usr/share/texlive/texmf-dist/tex/latex/mdframed/mdframed.sty
-Package: mdframed 2013/07/01 1.9b: mdframed
-
 (/usr/share/texlive/texmf-dist/tex/latex/oberdiek/kvoptions.sty
 Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
 
@@ -979,175 +679,6 @@ Package etexcmds Info: Could not find \expanded.
 (etexcmds)             that some package has redefined \expanded.
 (etexcmds)             In the latter case, load this package earlier.
 )))
-(/usr/share/texlive/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
-(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/expl3.sty
-Package: expl3 2017/09/18 L3 programming layer (loader) 
-
-(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/expl3-code.tex
-Package: expl3 2017/09/18 L3 programming layer (code)
-\c_max_int=\count147
-\l_tmpa_int=\count148
-\l_tmpb_int=\count149
-\g_tmpa_int=\count150
-\g_tmpb_int=\count151
-\g__intarray_font_int=\count152
-\g__prg_map_int=\count153
-\c_log_iow=\count154
-\l_iow_line_count_int=\count155
-\l__iow_line_target_int=\count156
-\l__iow_one_indent_int=\count157
-\l__iow_indent_int=\count158
-\c_zero_dim=\dimen195
-\c_max_dim=\dimen196
-\l_tmpa_dim=\dimen197
-\l_tmpb_dim=\dimen198
-\g_tmpa_dim=\dimen199
-\g_tmpb_dim=\dimen256
-\c_zero_skip=\skip65
-\c_max_skip=\skip66
-\l_tmpa_skip=\skip67
-\l_tmpb_skip=\skip68
-\g_tmpa_skip=\skip69
-\g_tmpb_skip=\skip70
-\c_zero_muskip=\muskip11
-\c_max_muskip=\muskip12
-\l_tmpa_muskip=\muskip13
-\l_tmpb_muskip=\muskip14
-\g_tmpa_muskip=\muskip15
-\g_tmpb_muskip=\muskip16
-\l_keys_choice_int=\count159
-\c__fp_leading_shift_int=\count160
-\c__fp_middle_shift_int=\count161
-\c__fp_trailing_shift_int=\count162
-\c__fp_big_leading_shift_int=\count163
-\c__fp_big_middle_shift_int=\count164
-\c__fp_big_trailing_shift_int=\count165
-\c__fp_Bigg_leading_shift_int=\count166
-\c__fp_Bigg_middle_shift_int=\count167
-\c__fp_Bigg_trailing_shift_int=\count168
-\c__fp_rand_size_int=\count169
-\c__fp_rand_four_int=\count170
-\c__fp_rand_eight_int=\count171
-\l__sort_length_int=\count172
-\l__sort_min_int=\count173
-\l__sort_top_int=\count174
-\l__sort_max_int=\count175
-\l__sort_true_max_int=\count176
-\l__sort_block_int=\count177
-\l__sort_begin_int=\count178
-\l__sort_end_int=\count179
-\l__sort_A_int=\count180
-\l__sort_B_int=\count181
-\l__sort_C_int=\count182
-\l__tl_build_start_index_int=\count183
-\l__tl_build_index_int=\count184
-\l__tl_analysis_normal_int=\count185
-\l__tl_analysis_index_int=\count186
-\l__tl_analysis_nesting_int=\count187
-\l__tl_analysis_type_int=\count188
-\l__regex_internal_a_int=\count189
-\l__regex_internal_b_int=\count190
-\l__regex_internal_c_int=\count191
-\l__regex_balance_int=\count192
-\l__regex_group_level_int=\count193
-\l__regex_mode_int=\count194
-\c__regex_cs_in_class_mode_int=\count195
-\c__regex_cs_mode_int=\count196
-\l__regex_catcodes_int=\count197
-\l__regex_default_catcodes_int=\count198
-\c__regex_catcode_D_int=\count199
-\c__regex_catcode_S_int=\count266
-\c__regex_catcode_L_int=\count267
-\c__regex_catcode_O_int=\count268
-\c__regex_catcode_A_int=\count269
-\c__regex_all_catcodes_int=\count270
-\l__regex_show_lines_int=\count271
-\l__regex_min_state_int=\count272
-\l__regex_max_state_int=\count273
-\l__regex_left_state_int=\count274
-\l__regex_right_state_int=\count275
-\l__regex_capturing_group_int=\count276
-\l__regex_min_pos_int=\count277
-\l__regex_max_pos_int=\count278
-\l__regex_curr_pos_int=\count279
-\l__regex_start_pos_int=\count280
-\l__regex_success_pos_int=\count281
-\l__regex_curr_char_int=\count282
-\l__regex_curr_catcode_int=\count283
-\l__regex_last_char_int=\count284
-\l__regex_case_changed_char_int=\count285
-\l__regex_curr_state_int=\count286
-\l__regex_step_int=\count287
-\l__regex_min_active_int=\count288
-\l__regex_max_active_int=\count289
-\l__regex_replacement_csnames_int=\count290
-\l__regex_match_count_int=\count291
-\l__regex_min_submatch_int=\count292
-\l__regex_submatch_int=\count293
-\l__regex_zeroth_submatch_int=\count294
-\g__debug_trace_regex_int=\count295
-\c_empty_box=\box43
-\l_tmpa_box=\box44
-\l_tmpb_box=\box45
-\g_tmpa_box=\box46
-\g_tmpb_box=\box47
-\l__box_top_dim=\dimen257
-\l__box_bottom_dim=\dimen258
-\l__box_left_dim=\dimen259
-\l__box_right_dim=\dimen260
-\l__box_top_new_dim=\dimen261
-\l__box_bottom_new_dim=\dimen262
-\l__box_left_new_dim=\dimen263
-\l__box_right_new_dim=\dimen264
-\l__box_internal_box=\box48
-\l__coffin_internal_box=\box49
-\l__coffin_internal_dim=\dimen265
-\l__coffin_offset_x_dim=\dimen266
-\l__coffin_offset_y_dim=\dimen267
-\l__coffin_x_dim=\dimen268
-\l__coffin_y_dim=\dimen269
-\l__coffin_x_prime_dim=\dimen270
-\l__coffin_y_prime_dim=\dimen271
-\c_empty_coffin=\box50
-\l__coffin_aligned_coffin=\box51
-\l__coffin_aligned_internal_coffin=\box52
-\l_tmpa_coffin=\box53
-\l_tmpb_coffin=\box54
-\l__coffin_display_coffin=\box55
-\l__coffin_display_coord_coffin=\box56
-\l__coffin_display_pole_coffin=\box57
-\l__coffin_display_offset_dim=\dimen272
-\l__coffin_display_x_dim=\dimen273
-\l__coffin_display_y_dim=\dimen274
-\l__coffin_bounding_shift_dim=\dimen275
-\l__coffin_left_corner_dim=\dimen276
-\l__coffin_right_corner_dim=\dimen277
-\l__coffin_bottom_corner_dim=\dimen278
-\l__coffin_top_corner_dim=\dimen279
-\l__coffin_scaled_total_height_dim=\dimen280
-\l__coffin_scaled_width_dim=\dimen281
-)
-(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/l3pdfmode.def
-File: l3pdfmode.def 2017/03/18 v L3 Experimental driver: PDF mode
-\l__driver_color_stack_int=\count296
-\l__driver_tmp_box=\box58
-))
-Package: xparse 2017/09/18 L3 Experimental document command parser
-\l__xparse_current_arg_int=\count297
-\g__xparse_grabber_int=\count298
-\l__xparse_m_args_int=\count299
-\l__xparse_mandatory_args_int=\count300
-\l__xparse_v_nesting_int=\count301
-)
-(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/zref-abspage.sty
-Package: zref-abspage 2016/05/21 v2.26 Module abspage for zref (HO)
-
-(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/zref-base.sty
-Package: zref-base 2016/05/21 v2.26 Module base for zref (HO)
-
-(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
-Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
-)
 (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
 Package: pdftexcmds 2017/03/19 v0.25 Utility functions of pdfTeX for LuaTeX (HO
 )
@@ -1155,286 +686,6 @@ Package pdftexcmds Info: LuaTeX not detected.
 Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
 Package pdftexcmds Info: \pdfdraftmode found.
-)
-(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/auxhook.sty
-Package: auxhook 2016/05/16 v1.4 Hooks for auxiliary files (HO)
-)
-Package zref Info: New property list: main on input line 759.
-Package zref Info: New property: default on input line 760.
-Package zref Info: New property: page on input line 761.
-)
-\c@abspage=\count302
-Package zref Info: New property: abspage on input line 62.
-)
-(/usr/share/texlive/texmf-dist/tex/latex/needspace/needspace.sty
-Package: needspace 2010/09/12 v1.3d reserve vertical space
-)
-\mdf@templength=\skip71
-\c@mdf@globalstyle@cnt=\count303
-\mdf@skipabove@length=\skip72
-\mdf@skipbelow@length=\skip73
-\mdf@leftmargin@length=\skip74
-\mdf@rightmargin@length=\skip75
-\mdf@innerleftmargin@length=\skip76
-\mdf@innerrightmargin@length=\skip77
-\mdf@innertopmargin@length=\skip78
-\mdf@innerbottommargin@length=\skip79
-\mdf@splittopskip@length=\skip80
-\mdf@splitbottomskip@length=\skip81
-\mdf@outermargin@length=\skip82
-\mdf@innermargin@length=\skip83
-\mdf@linewidth@length=\skip84
-\mdf@innerlinewidth@length=\skip85
-\mdf@middlelinewidth@length=\skip86
-\mdf@outerlinewidth@length=\skip87
-\mdf@roundcorner@length=\skip88
-\mdf@footenotedistance@length=\skip89
-\mdf@userdefinedwidth@length=\skip90
-\mdf@needspace@length=\skip91
-\mdf@frametitleaboveskip@length=\skip92
-\mdf@frametitlebelowskip@length=\skip93
-\mdf@frametitlerulewidth@length=\skip94
-\mdf@frametitleleftmargin@length=\skip95
-\mdf@frametitlerightmargin@length=\skip96
-\mdf@shadowsize@length=\skip97
-\mdf@extratopheight@length=\skip98
-\mdf@subtitleabovelinewidth@length=\skip99
-\mdf@subtitlebelowlinewidth@length=\skip100
-\mdf@subtitleaboveskip@length=\skip101
-\mdf@subtitlebelowskip@length=\skip102
-\mdf@subtitleinneraboveskip@length=\skip103
-\mdf@subtitleinnerbelowskip@length=\skip104
-\mdf@subsubtitleabovelinewidth@length=\skip105
-\mdf@subsubtitlebelowlinewidth@length=\skip106
-\mdf@subsubtitleaboveskip@length=\skip107
-\mdf@subsubtitlebelowskip@length=\skip108
-\mdf@subsubtitleinneraboveskip@length=\skip109
-\mdf@subsubtitleinnerbelowskip@length=\skip110
-
-(/usr/share/texlive/texmf-dist/tex/latex/mdframed/md-frame-0.mdf
-File: md-frame-0.mdf 2013/07/01\ 1.9b: md-frame-0
-)
-\mdf@frametitlebox=\box59
-\mdf@footnotebox=\box60
-\mdf@splitbox@one=\box61
-\mdf@splitbox@two=\box62
-\mdf@splitbox@save=\box63
-\mdfsplitboxwidth=\skip111
-\mdfsplitboxtotalwidth=\skip112
-\mdfsplitboxheight=\skip113
-\mdfsplitboxdepth=\skip114
-\mdfsplitboxtotalheight=\skip115
-\mdfframetitleboxwidth=\skip116
-\mdfframetitleboxtotalwidth=\skip117
-\mdfframetitleboxheight=\skip118
-\mdfframetitleboxdepth=\skip119
-\mdfframetitleboxtotalheight=\skip120
-\mdffootnoteboxwidth=\skip121
-\mdffootnoteboxtotalwidth=\skip122
-\mdffootnoteboxheight=\skip123
-\mdffootnoteboxdepth=\skip124
-\mdffootnoteboxtotalheight=\skip125
-\mdftotallinewidth=\skip126
-\mdfboundingboxwidth=\skip127
-\mdfboundingboxtotalwidth=\skip128
-\mdfboundingboxheight=\skip129
-\mdfboundingboxdepth=\skip130
-\mdfboundingboxtotalheight=\skip131
-\mdf@freevspace@length=\skip132
-\mdf@horizontalwidthofbox@length=\skip133
-\mdf@verticalmarginwhole@length=\skip134
-\mdf@horizontalspaceofbox=\skip135
-\mdfsubtitleheight=\skip136
-\mdfsubsubtitleheight=\skip137
-\c@mdfcountframes=\count304
-
-****** mdframed patching \endmdf@trivlist
-
-****** -- success******
-
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \newmdtheoremenv with sig. 'O{} m o m o ' on line 601.
-.................................................
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \mdtheorem with sig. ' O{} m o m o ' on line 701.
-.................................................
-\mdf@envdepth=\count305
-\c@mdf@env@i=\count306
-\c@mdf@env@ii=\count307
-\c@mdf@zref@counter=\count308
-Package zref Info: New property: mdf@pagevalue on input line 895.
-)
-(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty
-Package: hyperref 2017/03/14 v6.85a Hypertext links for LaTeX
-
-(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
-Package: hobsub-hyperref 2016/05/16 v1.14 Bundle oberdiek, subset hyperref (HO)
-
-
-(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/hobsub-generic.sty
-Package: hobsub-generic 2016/05/16 v1.14 Bundle oberdiek, subset generic (HO)
-Package: hobsub 2016/05/16 v1.14 Construct package bundles (HO)
-Package hobsub Info: Skipping package `infwarerr' (already loaded).
-Package hobsub Info: Skipping package `ltxcmds' (already loaded).
-Package hobsub Info: Skipping package `ifluatex' (already loaded).
-Package hobsub Info: Skipping package `ifvtex' (already loaded).
-Package: intcalc 2016/05/16 v1.2 Expandable calculations with integers (HO)
-Package hobsub Info: Skipping package `ifpdf' (already loaded).
-Package hobsub Info: Skipping package `etexcmds' (already loaded).
-Package hobsub Info: Skipping package `kvsetkeys' (already loaded).
-Package hobsub Info: Skipping package `kvdefinekeys' (already loaded).
-Package hobsub Info: Skipping package `pdftexcmds' (already loaded).
-Package: pdfescape 2016/05/16 v1.14 Implements pdfTeX's escape features (HO)
-Package: bigintcalc 2016/05/16 v1.4 Expandable calculations on big integers (HO
-)
-Package: bitset 2016/05/16 v1.2 Handle bit-vector datatype (HO)
-Package: uniquecounter 2016/05/16 v1.3 Provide unlimited unique counter (HO)
-)
-Package hobsub Info: Skipping package `hobsub' (already loaded).
-Package: letltxmacro 2016/05/16 v1.5 Let assignment for LaTeX macros (HO)
-Package: hopatch 2016/05/16 v1.3 Wrapper for package hooks (HO)
-Package: xcolor-patch 2016/05/16 xcolor patch
-Package: atveryend 2016/05/16 v1.9 Hooks at the very end of document (HO)
-Package hobsub Info: Skipping package `atbegshi' (already loaded).
-Package: refcount 2016/05/16 v3.5 Data extraction from label references (HO)
-Package: hycolor 2016/05/16 v1.8 Color options for hyperref/bookmark (HO)
-)
-\@linkdim=\dimen282
-\Hy@linkcounter=\count309
-\Hy@pagecounter=\count310
-
-(/usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def
-File: pd1enc.def 2017/03/14 v6.85a Hyperref: PDFDocEncoding definition (HO)
-Now handling font encoding PD1 ...
-... no UTF-8 mapping file for font encoding PD1
-)
-\Hy@SavedSpaceFactor=\count311
-
-(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/hyperref.cfg
-File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
-)
-Package hyperref Info: Hyper figures OFF on input line 4498.
-Package hyperref Info: Link nesting OFF on input line 4503.
-Package hyperref Info: Hyper index ON on input line 4506.
-Package hyperref Info: Plain pages OFF on input line 4513.
-Package hyperref Info: Backreferencing OFF on input line 4518.
-Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
-Package hyperref Info: Bookmarks ON on input line 4751.
-\c@Hy@tempcnt=\count312
-
-(/usr/share/texlive/texmf-dist/tex/latex/url/url.sty
-\Urlmuskip=\muskip17
-Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
-)
-LaTeX Info: Redefining \url on input line 5104.
-\XeTeXLinkMargin=\dimen283
-\Fld@menulength=\count313
-\Field@Width=\dimen284
-\Fld@charsize=\dimen285
-Package hyperref Info: Hyper figures OFF on input line 6358.
-Package hyperref Info: Link nesting OFF on input line 6363.
-Package hyperref Info: Hyper index ON on input line 6366.
-Package hyperref Info: backreferencing OFF on input line 6373.
-Package hyperref Info: Link coloring OFF on input line 6378.
-Package hyperref Info: Link coloring with OCG OFF on input line 6383.
-Package hyperref Info: PDF/A mode OFF on input line 6388.
-LaTeX Info: Redefining \ref on input line 6428.
-LaTeX Info: Redefining \pageref on input line 6432.
-\Hy@abspage=\count314
-\c@Item=\count315
-\c@Hfootnote=\count316
-)
-
-Package hyperref Message: Driver (autodetected): hpdftex.
-
-(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hpdftex.def
-File: hpdftex.def 2017/03/14 v6.85a Hyperref driver for pdfTeX
-\HyAnn@Count=\count317
-\Fld@listcount=\count318
-\c@bookmark@seq@number=\count319
-
-(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
-Package: rerunfilecheck 2016/05/16 v1.8 Rerun checks for auxiliary files (HO)
-Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
-82.
-)
-\Hy@SectionHShift=\skip138
-)
-
-Package hyperref Warning: Option `backref' has already been used,
-(hyperref)                setting the option has no effect on input line 290.
-
-
-Package hyperref Warning: Option `pagebackref' has already been used,
-(hyperref)                setting the option has no effect on input line 290.
-
-
-Package hyperref Warning: Option `hyperindex' has already been used,
-(hyperref)                setting the option has no effect on input line 290.
-
-Package hyperref Info: Option `colorlinks' set `false' on input line 290.
-Package hyperref Info: Option `breaklinks' set `true' on input line 290.
-
-Package hyperref Warning: Option `bookmarks' has already been used,
-(hyperref)                setting the option has no effect on input line 290.
-
-Package hyperref Info: Option `bookmarksopen' set `false' on input line 290.
-) (./main.aux (./Teoria/meccanica.aux) (./Teoria/elettrostatica.aux)
-(./Teoria/magnetostatica.aux) (./Teoria/circuiti.aux))
-\openout1 = `main.aux'.
-
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
-LaTeX Font Info:    Try loading font information for OT1+ptm on input line 31.
-
-(/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1ptm.fd
-File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
-)
-LaTeX Info: Redefining \it@ocap on input line 31.
-LaTeX Info: Redefining \it@ccap on input line 31.
-
-
-File italian.ldf warning: 
-italian.ldf    With OT1 encoding guillemets are poorly faked
-italian.ldf    Use T1 encoding
-italian.ldf    or specify a font with command \CaporaliFrom
-italian.ldf    See the documentation concerning the babel-italian typesetting 
-italian.ldf    on input line 31.
-
-(/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
-[Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count320
-\scratchdimen=\dimen286
-\scratchbox=\box64
-\nofMPsegments=\count321
-\nofMParguments=\count322
-\everyMPshowfont=\toks46
-\MPscratchCnt=\count323
-\MPscratchDim=\dimen287
-\MPnumerator=\count324
-\makeMPintoPDFobject=\count325
-\everyMPtoPDFconversion=\toks47
-) (/usr/share/texlive/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
-Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
-
-(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/grfext.sty
-Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
 )
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 38.
@@ -1447,7 +698,7 @@ G,.JBIG2,.JB2,.eps]
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
-\AtBeginShipoutBox=\box65
+\AtBeginShipoutBox=\box32
 
 (/usr/share/texlive/texmf-dist/tex/latex/oberdiek/pdflscape.sty
 Package: pdflscape 2016/05/14 v0.11 Display of landscape pages in PDF (HO)
@@ -1457,218 +708,72 @@ Package: lscape 2000/10/22 v3.01 Landscape Pages (DPC)
 )
 Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
 )
-*geometry* driver: auto-detecting
-*geometry* detected driver: pdftex
-*geometry* verbose mode - [ preamble ] result:
-* driver: pdftex
-* paper: letterpaper
-* layout: <same size as paper>
-* layoutoffset:(h,v)=(0.0pt,0.0pt)
-* modes: twoside 
-* h-part:(L,W,R)=(91.04872pt, 432.19756pt, 91.04872pt)
-* v-part:(T,H,B)=(85.35826pt, 624.25346pt, 85.35826pt)
-* \paperwidth=614.295pt
-* \paperheight=794.96999pt
-* \textwidth=432.19756pt
-* \textheight=624.25346pt
-* \oddsidemargin=18.77873pt
-* \evensidemargin=18.77873pt
-* \topmargin=-8.91173pt
-* \headheight=14.5pt
-* \headsep=10.0pt
-* \topskip=12.0pt
-* \footskip=30.0pt
-* \marginparwidth=98.0pt
-* \marginparsep=7.0pt
-* \columnsep=10.0pt
-* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
-* \hoffset=0.0pt
-* \voffset=0.0pt
-* \mag=1000
-* \@twocolumnfalse
-* \@twosidetrue
-* \@mparswitchtrue
-* \@reversemarginfalse
-* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+LaTeX Font Info:    Try loading font information for U+msa on input line 24.
 
-LaTeX Info: Redefining \microtypecontext on input line 31.
-Package microtype Info: Generating PDF output.
-Package microtype Info: Character protrusion enabled (level 2).
-Package microtype Info: Using default protrusion set `alltext'.
-Package microtype Info: Automatic font expansion enabled (level 2),
-(microtype)             stretch: 20, shrink: 20, step: 1, non-selected.
-Package microtype Info: Using default expansion set `basictext'.
-Package microtype Info: No adjustment of tracking.
-Package microtype Info: No adjustment of interword spacing.
-Package microtype Info: No adjustment of character kerning.
-(/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-ptm.cfg
-File: mt-ptm.cfg 2006/04/20 v1.7 microtype config. file: Times (RS)
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-ABD: EveryShipout initializing macros
-Package hyperref Info: Link coloring OFF on input line 31.
+LaTeX Font Info:    Try loading font information for U+msb on input line 24.
 
-(/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
-Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+) [1
 
-(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
-Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
-)
-\c@section@level=\count326
-)
-LaTeX Info: Redefining \ref on input line 31.
-LaTeX Info: Redefining \pageref on input line 31.
-LaTeX Info: Redefining \nameref on input line 31.
 
-(./main.out) (./main.out)
-\@outlinefile=\write4
-\openout4 = `main.out'.
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2
 
-LaTeX Font Info:    Try loading font information for OT1+pag on input line 42.
-
-(/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1pag.fd
-File: ot1pag.fd 2001/06/04 font definitions for OT1/pag.
-)
-Package microtype Info: Loading generic protrusion settings for font family
-(microtype)             `pag' (encoding: OT1).
-(microtype)             For optimal results, create family-specific settings.
-(microtype)             See the microtype manual for details.
-LaTeX Font Info:    Font shape `OT1/pag/bx/n' in size <35> not available
-(Font)              Font shape `OT1/pag/b/n' tried instead on input line 43.
-LaTeX Font Info:    Font shape `OT1/pag/b/n' in size <35> not available
-(Font)              Font shape `OT1/pag/db/n' tried instead on input line 43.
-<Pictures/esahubble.png, id=224, 614.295pt x 794.97pt>
-File: Pictures/esahubble.png Graphic file (type png)
-<use Pictures/esahubble.png>
-Package pdftex.def Info: Pictures/esahubble.png  used on input line 55. on inpu
-t line 55.
-Package pdftex.def Info: Requested size: 767.86685pt x 993.71007pt on input lin
-e 55.
- [1
-
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./Pictures/esahubble.png>]
- [2
-
-]
-<Pictures/head1.png, id=236, 1027.6794pt x 514.0806pt>
-File: Pictures/head1.png Graphic file (type png)
-<use Pictures/head1.png>
-Package pdftex.def Info: Pictures/head1.png  used on input line 55. on input li
-ne 55.
-Package pdftex.def Info: Requested size: 614.295pt x 307.30548pt on input line 
-55.
-LaTeX Font Info:    Font shape `OT1/pag/bx/n' in size <24.88> not available
-(Font)              Font shape `OT1/pag/b/n' tried instead on input line 55.
-LaTeX Font Info:    Font shape `OT1/pag/b/n' in size <24.88> not available
-(Font)              Font shape `OT1/pag/db/n' tried instead on input line 55.
- (./main.toc
-LaTeX Font Info:    Font shape `OT1/pag/bx/n' in size <14.4> not available
-(Font)              Font shape `OT1/pag/b/n' tried instead on input line 3.
-LaTeX Font Info:    Font shape `OT1/pag/b/n' in size <14.4> not available
-(Font)              Font shape `OT1/pag/db/n' tried instead on input line 3.
-LaTeX Font Info:    Font shape `OT1/pag/bx/n' in size <17.28> not available
-(Font)              Font shape `OT1/pag/b/n' tried instead on input line 3.
-LaTeX Font Info:    Font shape `OT1/pag/b/n' in size <17.28> not available
-(Font)              Font shape `OT1/pag/db/n' tried instead on input line 3.
-LaTeX Font Info:    Font shape `OT1/pag/bx/n' in size <12> not available
-(Font)              Font shape `OT1/pag/b/n' tried instead on input line 3.
-LaTeX Font Info:    Font shape `OT1/pag/b/n' in size <12> not available
-(Font)              Font shape `OT1/pag/db/n' tried instead on input line 3.
-
-[3 <./Pictures/head1.png>])
-\tf@toc=\write5
-\openout5 = `main.toc'.
+] (./main.toc [3])
+\tf@toc=\write3
+\openout3 = `main.toc'.
 
  [4]
 \openout2 = `Teoria/meccanica.aux'.
 
- (./Teoria/meccanica.tex
+
+(./Teoria/meccanica.tex
 Capitolo 1.
-\c@ttl@toc@default=\count327
-LaTeX Font Info:    Try loading font information for OT1+ztmcm on input line 4.
-
-(/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1ztmcm.fd
-File: ot1ztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OT1/ztmcm.
-)
-Package microtype Info: Loading generic protrusion settings for font family
-(microtype)             `ztmcm' (encoding: OT1).
-(microtype)             For optimal results, create family-specific settings.
-(microtype)             See the microtype manual for details.
-LaTeX Font Info:    Try loading font information for OML+ztmcm on input line 4.
-
-
-(/usr/share/texlive/texmf-dist/tex/latex/psnfss/omlztmcm.fd
-File: omlztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OML/ztmcm.
-)
-LaTeX Font Info:    Try loading font information for OMS+ztmcm on input line 4.
-
-
-(/usr/share/texlive/texmf-dist/tex/latex/psnfss/omsztmcm.fd
-File: omsztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMS/ztmcm.
-)
-LaTeX Font Info:    Try loading font information for OMX+ztmcm on input line 4.
-
-
-(/usr/share/texlive/texmf-dist/tex/latex/psnfss/omxztmcm.fd
-File: omxztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMX/ztmcm.
-)
-(/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-msa.cfg
-File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
-)
-(/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-msb.cfg
-File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
-)
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 4.
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 4.
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 4.
-<Pictures/vettori.png, id=354, 264.99pt x 264.99pt>
+<Pictures/vettori.png, id=19, 264.99pt x 264.99pt>
 File: Pictures/vettori.png Graphic file (type png)
 <use Pictures/vettori.png>
 Package pdftex.def Info: Pictures/vettori.png  used on input line 11. on input 
 line 11.
 Package pdftex.def Info: Requested size: 105.99411pt x 105.99411pt on input lin
 e 11.
- [5
+[5
 
 
  <./Pictures/vettori.png>]
-LaTeX Font Info:    Font shape `OT1/pag/bx/n' in size <10.95> not available
-(Font)              Font shape `OT1/pag/b/n' tried instead on input line 33.
-LaTeX Font Info:    Font shape `OT1/pag/b/n' in size <10.95> not available
-(Font)              Font shape `OT1/pag/db/n' tried instead on input line 33.
-LaTeX Font Info:    Try loading font information for OMS+ptm on input line 35.
- (/usr/share/texlive/texmf-dist/tex/latex/psnfss/omsptm.fd
-File: omsptm.fd 
-)
-LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <12> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 35.
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 35.
 
-[6]
-<Pictures/esempio1.png, id=375, 708.6475pt x 47.17625pt>
+(/usr/share/texlive/texmf-dist/tex/latex/base/omscmr.fd
+File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 35.
+ [6]
+<Pictures/esempio1.png, id=32, 708.6475pt x 47.17625pt>
 File: Pictures/esempio1.png Graphic file (type png)
 <use Pictures/esempio1.png>
 Package pdftex.def Info: Pictures/esempio1.png  used on input line 119. on inpu
 t line 119.
 Package pdftex.def Info: Requested size: 283.45398pt x 18.87015pt on input line
  119.
-<Pictures/esempio2.png, id=376, 382.42876pt x 47.17625pt>
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<Pictures/esempio2.png, id=33, 382.42876pt x 47.17625pt>
 File: Pictures/esempio2.png Graphic file (type png)
 <use Pictures/esempio2.png>
 Package pdftex.def Info: Pictures/esempio2.png  used on input line 128. on inpu
 t line 128.
 Package pdftex.def Info: Requested size: 152.96878pt x 18.87015pt on input line
  128.
-) [7 <./Pictures/esempio1.png> <./Pictures/esempio2.png>]
+[7]) [8 <./Pictures/esempio1.png> <./Pictures/esempio2.png>]
 \openout2 = `Teoria/elettrostatica.aux'.
 
 
-(./Teoria/elettrostatica.tex [8
-
-
-
-]
+(./Teoria/elettrostatica.tex
 Capitolo 2.
 File: Pictures/esempio1.png Graphic file (type png)
 <use Pictures/esempio1.png>
@@ -1682,42 +787,35 @@ Package pdftex.def Info: Pictures/esempio2.png  used on input line 21. on input
  line 21.
 Package pdftex.def Info: Requested size: 152.96878pt x 18.87015pt on input line
  21.
-[9]
-<Pictures/esempio3.png, id=395, 365.365pt x 497.86pt>
+[9
+
+
+
+]
+<Pictures/esempio3.png, id=49, 365.365pt x 497.86pt>
 File: Pictures/esempio3.png Graphic file (type png)
 <use Pictures/esempio3.png>
 Package pdftex.def Info: Pictures/esempio3.png  used on input line 54. on input
  line 54.
 Package pdftex.def Info: Requested size: 146.1434pt x 199.14047pt on input line
  54.
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-[10]
-<Pictures/esempio4.png, id=400, 301.125pt x 287.0725pt>
+ [10 <./Pictures/esempio3.png>]
+<Pictures/esempio4.png, id=53, 301.125pt x 287.0725pt>
 File: Pictures/esempio4.png Graphic file (type png)
 <use Pictures/esempio4.png>
 Package pdftex.def Info: Pictures/esempio4.png  used on input line 78. on input
  line 78.
 Package pdftex.def Info: Requested size: 150.56212pt x 143.53589pt on input lin
 e 78.
-
-Underfull \vbox (badness 2165) has occurred while \output is active []
-
- [11 <./Pictures/esempio3.png> <./Pictures/esempio4.png>]
-<Pictures/DipoloElettrico.png, id=406, 390.45876pt x 52.195pt>
+ [11 <./Pictures/esempio4.png>]
+<Pictures/DipoloElettrico.png, id=58, 390.45876pt x 52.195pt>
 File: Pictures/DipoloElettrico.png Graphic file (type png)
 <use Pictures/DipoloElettrico.png>
 Package pdftex.def Info: Pictures/DipoloElettrico.png  used on input line 128. 
 on input line 128.
 Package pdftex.def Info: Requested size: 234.27705pt x 31.31723pt on input line
  128.
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-[12] [13 <./Pictures/DipoloElettrico.png>]) [14]
+ [12] [13 <./Pictures/DipoloElettrico.png>]) [14]
 \openout2 = `Teoria/magnetostatica.aux'.
 
  (./Teoria/magnetostatica.tex
@@ -1727,7 +825,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 10--15
 
  []
 
-<Pictures/fili-paralleli-corrente.png, id=421, 420.06938pt x 164.11313pt>
+<Pictures/fili-paralleli-corrente.png, id=71, 420.06938pt x 164.11313pt>
 File: Pictures/fili-paralleli-corrente.png Graphic file (type png)
 <use Pictures/fili-paralleli-corrente.png>
 Package pdftex.def Info: Pictures/fili-paralleli-corrente.png  used on input li
@@ -1742,45 +840,49 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
 ]
-<Pictures/biotSavart.png, id=426, 318.83824pt x 239.12868pt>
+<Pictures/biotSavart.png, id=75, 318.83824pt x 239.12868pt>
 File: Pictures/biotSavart.png Graphic file (type png)
 <use Pictures/biotSavart.png>
 Package pdftex.def Info: Pictures/biotSavart.png  used on input line 61. on inp
 ut line 61.
 Package pdftex.def Info: Requested size: 318.83745pt x 239.12808pt on input lin
 e 61.
+ [16 <./Pictures/fili-paralleli-corrente.png>]
+Underfull \vbox (badness 2134) has occurred while \output is active []
 
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-[16 <./Pictures/fili-paralleli-corrente.png>] [17 <./Pictures/biotSavart.png (P
-NG copy)>]
-<Pictures/solenoide-ampere.png, id=435, 66.71077pt x 48.58284pt>
+ [17 <./Pictures/biotSavart.png (PNG copy)>]
+<Pictures/solenoide-ampere.png, id=83, 66.71077pt x 48.58284pt>
 File: Pictures/solenoide-ampere.png Graphic file (type png)
 <use Pictures/solenoide-ampere.png>
 Package pdftex.def Info: Pictures/solenoide-ampere.png  used on input line 99. 
 on input line 99.
 Package pdftex.def Info: Requested size: 200.13176pt x 145.74815pt on input lin
 e 99.
- [18 <./Pictures/solenoide-ampere.png>]) [19]
+ [18 <./Pictures/solenoide-ampere.png>])
+[19]
 \openout2 = `Teoria/circuiti.aux'.
 
- (./Teoria/circuiti.tex
-[20
+ (./Teoria/circuiti.tex [20
 
 
 
 ]
 Capitolo 4.
-<Pictures/resistori-parallelo.png, id=450, 302.12875pt x 177.66376pt>
+<Pictures/resistori-parallelo.png, id=95, 302.12875pt x 177.66376pt>
 File: Pictures/resistori-parallelo.png Graphic file (type png)
 <use Pictures/resistori-parallelo.png>
 Package pdftex.def Info: Pictures/resistori-parallelo.png  used on input line 2
 3. on input line 23.
 Package pdftex.def Info: Requested size: 151.064pt x 88.83165pt on input line 2
 3.
-[21 <./Pictures/resistori-parallelo.png>]
-<Pictures/resistori-serie.png, id=458, 391.4625pt x 106.3975pt>
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Underfull \vbox (badness 4556) has occurred while \output is active []
+
+ [21]
+<Pictures/resistori-serie.png, id=99, 391.4625pt x 106.3975pt>
 File: Pictures/resistori-serie.png Graphic file (type png)
 <use Pictures/resistori-serie.png>
 Package pdftex.def Info: Pictures/resistori-serie.png  used on input line 39. o
@@ -1788,47 +890,48 @@ n input line 39.
 Package pdftex.def Info: Requested size: 195.73076pt x 53.19861pt on input line
  39.
 
+[22 <./Pictures/resistori-parallelo.png> <./Pictures/resistori-serie.png>]
 Underfull \hbox (badness 10000) in paragraph at lines 58--60
 
  []
 
-[22 <./Pictures/resistori-serie.png>] [23]
-<Pictures/condensatori-parallelo.jpg, id=469, 218.31563pt x 122.70844pt>
+[23] [24]
+<Pictures/condensatori-parallelo.jpg, id=112, 218.31563pt x 122.70844pt>
 File: Pictures/condensatori-parallelo.jpg Graphic file (type jpg)
 <use Pictures/condensatori-parallelo.jpg>
 Package pdftex.def Info: Pictures/condensatori-parallelo.jpg  used on input lin
 e 146. on input line 146.
 Package pdftex.def Info: Requested size: 152.81989pt x 85.89531pt on input line
  146.
-<Pictures/condensatori-serie.jpg, id=470, 307.1475pt x 100.12407pt>
+<Pictures/condensatori-serie.jpg, id=113, 307.1475pt x 100.12407pt>
 File: Pictures/condensatori-serie.jpg Graphic file (type jpg)
 <use Pictures/condensatori-serie.jpg>
 Package pdftex.def Info: Pictures/condensatori-serie.jpg  used on input line 16
 2. on input line 162.
 Package pdftex.def Info: Requested size: 245.71832pt x 80.09935pt on input line
  162.
- [24 <./Pictures/condensatori-parallelo.jpg>]) [25 <./Pictures/condensatori-ser
-ie.jpg>]
+ [25 <./Pictures/condensatori-parallelo.jpg> <./Pictures/condensatori-serie.jpg
+>]) [26]
 
 pdfTeX warning: /usr/bin/pdflatex (file ./temi-esame.pdf): PDF inclusion: found
  PDF version <1.7>, but at most version <1.5> allowed
-<temi-esame.pdf, id=482, pagebox=cropbox, 614.295pt x 794.97pt>
+<temi-esame.pdf, id=121, pagebox=cropbox, 614.295pt x 794.97pt>
 File: temi-esame.pdf Graphic file (type pdf)
 <use temi-esame.pdf>
-Package pdftex.def Info: temi-esame.pdf  used on input line 62. on input line 6
-2.
+Package pdftex.def Info: temi-esame.pdf  used on input line 31. on input line 3
+1.
 Package pdftex.def Info: Requested size: 614.29349pt x 794.96806pt on input lin
-e 62.
+e 31.
 
 
 pdfTeX warning: /usr/bin/pdflatex (file ./temi-esame.pdf): PDF inclusion: found
  PDF version <1.7>, but at most version <1.5> allowed
 File: temi-esame.pdf Graphic file (type pdf)
 <use temi-esame.pdf>
-Package pdftex.def Info: temi-esame.pdf  used on input line 62. on input line 6
-2.
+Package pdftex.def Info: temi-esame.pdf  used on input line 31. on input line 3
+1.
 Package pdftex.def Info: Requested size: 614.29349pt x 794.96806pt on input lin
-e 62.
+e 31.
 
 
 pdfTeX warning: /usr/bin/pdflatex (file ./temi-esame.pdf): PDF inclusion: found
@@ -1837,1437 +940,1427 @@ pdfTeX warning: /usr/bin/pdflatex (file ./temi-esame.pdf): PDF inclusion: found
 
 pdfTeX warning: /usr/bin/pdflatex (file ./temi-esame.pdf): PDF inclusion: found
  PDF version <1.7>, but at most version <1.5> allowed
-<temi-esame.pdf, id=485, page=1, pagebox=cropbox, 614.295pt x 794.97pt>
+<temi-esame.pdf, id=124, page=1, pagebox=cropbox, 614.295pt x 794.97pt>
 File: temi-esame.pdf Graphic file (type pdf)
 <use temi-esame.pdf, page 1>
-Package pdftex.def Info: temi-esame.pdf , page1 used on input line 62. on input
- line 62.
+Package pdftex.def Info: temi-esame.pdf , page1 used on input line 31. on input
+ line 31.
 Package pdftex.def Info: Requested size: 614.29349pt x 794.96806pt on input lin
-e 62.
+e 31.
 File: temi-esame.pdf Graphic file (type pdf)
 <use temi-esame.pdf, page 1>
-Package pdftex.def Info: temi-esame.pdf , page1 used on input line 62. on input
- line 62.
+Package pdftex.def Info: temi-esame.pdf , page1 used on input line 31. on input
+ line 31.
 Package pdftex.def Info: Requested size: 614.58406pt x 795.3441pt on input line
- 62.
+ 31.
 File: temi-esame.pdf Graphic file (type pdf)
 <use temi-esame.pdf, page 1>
-Package pdftex.def Info: temi-esame.pdf , page1 used on input line 62. on input
- line 62.
+Package pdftex.def Info: temi-esame.pdf , page1 used on input line 31. on input
+ line 31.
 Package pdftex.def Info: Requested size: 614.58406pt x 795.3441pt on input line
- 62.
+ 31.
 File: temi-esame.pdf Graphic file (type pdf)
 <use temi-esame.pdf, page 1>
-Package pdftex.def Info: temi-esame.pdf , page1 used on input line 62. on input
- line 62.
+Package pdftex.def Info: temi-esame.pdf , page1 used on input line 31. on input
+ line 31.
 Package pdftex.def Info: Requested size: 614.58406pt x 795.3441pt on input line
- 62.
+ 31.
 File: temi-esame.pdf Graphic file (type pdf)
 <use temi-esame.pdf, page 1>
-Package pdftex.def Info: temi-esame.pdf , page1 used on input line 62. on input
- line 62.
+Package pdftex.def Info: temi-esame.pdf , page1 used on input line 31. on input
+ line 31.
 Package pdftex.def Info: Requested size: 614.58406pt x 795.3441pt on input line
- 62.
-[26
+ 31.
+[27
 
  <./temi-esame.pdf>]
 
 pdfTeX warning: /usr/bin/pdflatex (file ./temi-esame.pdf): PDF inclusion: found
  PDF version <1.7>, but at most version <1.5> allowed
-<temi-esame.pdf, id=544, page=2, pagebox=cropbox, 597.23125pt x 845.1575pt>
+<temi-esame.pdf, id=182, page=2, pagebox=cropbox, 597.23125pt x 845.1575pt>
 File: temi-esame.pdf Graphic file (type pdf)
 <use temi-esame.pdf, page 2>
-Package pdftex.def Info: temi-esame.pdf , page2 used on input line 62. on input
- line 62.
+Package pdftex.def Info: temi-esame.pdf , page2 used on input line 31. on input
+ line 31.
 Package pdftex.def Info: Requested size: 597.51228pt x 845.5552pt on input line
- 62.
+ 31.
 File: temi-esame.pdf Graphic file (type pdf)
 <use temi-esame.pdf, page 2>
-Package pdftex.def Info: temi-esame.pdf , page2 used on input line 62. on input
- line 62.
+Package pdftex.def Info: temi-esame.pdf , page2 used on input line 31. on input
+ line 31.
 Package pdftex.def Info: Requested size: 597.51228pt x 845.5552pt on input line
- 62.
+ 31.
 File: temi-esame.pdf Graphic file (type pdf)
 <use temi-esame.pdf, page 2>
-Package pdftex.def Info: temi-esame.pdf , page2 used on input line 62. on input
- line 62.
+Package pdftex.def Info: temi-esame.pdf , page2 used on input line 31. on input
+ line 31.
 Package pdftex.def Info: Requested size: 597.51228pt x 845.5552pt on input line
- 62.
-[27 <./temi-esame.pdf>]
-
-pdfTeX warning: /usr/bin/pdflatex (file ./temi-esame.pdf): PDF inclusion: found
- PDF version <1.7>, but at most version <1.5> allowed
-<temi-esame.pdf, id=550, page=3, pagebox=cropbox, 597.23125pt x 845.1575pt>
-File: temi-esame.pdf Graphic file (type pdf)
-<use temi-esame.pdf, page 3>
-Package pdftex.def Info: temi-esame.pdf , page3 used on input line 62. on input
- line 62.
-Package pdftex.def Info: Requested size: 597.51228pt x 845.5552pt on input line
- 62.
-File: temi-esame.pdf Graphic file (type pdf)
-<use temi-esame.pdf, page 3>
-Package pdftex.def Info: temi-esame.pdf , page3 used on input line 62. on input
- line 62.
-Package pdftex.def Info: Requested size: 597.51228pt x 845.5552pt on input line
- 62.
-File: temi-esame.pdf Graphic file (type pdf)
-<use temi-esame.pdf, page 3>
-Package pdftex.def Info: temi-esame.pdf , page3 used on input line 62. on input
- line 62.
-Package pdftex.def Info: Requested size: 597.51228pt x 845.5552pt on input line
- 62.
+ 31.
 [28 <./temi-esame.pdf>]
 
 pdfTeX warning: /usr/bin/pdflatex (file ./temi-esame.pdf): PDF inclusion: found
  PDF version <1.7>, but at most version <1.5> allowed
-<temi-esame.pdf, id=556, page=4, pagebox=cropbox, 597.23125pt x 845.1575pt>
+<temi-esame.pdf, id=187, page=3, pagebox=cropbox, 597.23125pt x 845.1575pt>
 File: temi-esame.pdf Graphic file (type pdf)
-<use temi-esame.pdf, page 4>
-Package pdftex.def Info: temi-esame.pdf , page4 used on input line 62. on input
- line 62.
+<use temi-esame.pdf, page 3>
+Package pdftex.def Info: temi-esame.pdf , page3 used on input line 31. on input
+ line 31.
 Package pdftex.def Info: Requested size: 597.51228pt x 845.5552pt on input line
- 62.
+ 31.
 File: temi-esame.pdf Graphic file (type pdf)
-<use temi-esame.pdf, page 4>
-Package pdftex.def Info: temi-esame.pdf , page4 used on input line 62. on input
- line 62.
+<use temi-esame.pdf, page 3>
+Package pdftex.def Info: temi-esame.pdf , page3 used on input line 31. on input
+ line 31.
 Package pdftex.def Info: Requested size: 597.51228pt x 845.5552pt on input line
- 62.
+ 31.
 File: temi-esame.pdf Graphic file (type pdf)
-<use temi-esame.pdf, page 4>
-Package pdftex.def Info: temi-esame.pdf , page4 used on input line 62. on input
- line 62.
+<use temi-esame.pdf, page 3>
+Package pdftex.def Info: temi-esame.pdf , page3 used on input line 31. on input
+ line 31.
 Package pdftex.def Info: Requested size: 597.51228pt x 845.5552pt on input line
- 62.
+ 31.
 [29 <./temi-esame.pdf>]
 
 pdfTeX warning: /usr/bin/pdflatex (file ./temi-esame.pdf): PDF inclusion: found
  PDF version <1.7>, but at most version <1.5> allowed
-<temi-esame.pdf, id=562, page=5, pagebox=cropbox, 597.23125pt x 845.1575pt>
+<temi-esame.pdf, id=192, page=4, pagebox=cropbox, 597.23125pt x 845.1575pt>
 File: temi-esame.pdf Graphic file (type pdf)
-<use temi-esame.pdf, page 5>
-Package pdftex.def Info: temi-esame.pdf , page5 used on input line 62. on input
- line 62.
+<use temi-esame.pdf, page 4>
+Package pdftex.def Info: temi-esame.pdf , page4 used on input line 31. on input
+ line 31.
 Package pdftex.def Info: Requested size: 597.51228pt x 845.5552pt on input line
- 62.
+ 31.
 File: temi-esame.pdf Graphic file (type pdf)
-<use temi-esame.pdf, page 5>
-Package pdftex.def Info: temi-esame.pdf , page5 used on input line 62. on input
- line 62.
+<use temi-esame.pdf, page 4>
+Package pdftex.def Info: temi-esame.pdf , page4 used on input line 31. on input
+ line 31.
 Package pdftex.def Info: Requested size: 597.51228pt x 845.5552pt on input line
- 62.
+ 31.
 File: temi-esame.pdf Graphic file (type pdf)
-<use temi-esame.pdf, page 5>
-Package pdftex.def Info: temi-esame.pdf , page5 used on input line 62. on input
- line 62.
+<use temi-esame.pdf, page 4>
+Package pdftex.def Info: temi-esame.pdf , page4 used on input line 31. on input
+ line 31.
 Package pdftex.def Info: Requested size: 597.51228pt x 845.5552pt on input line
- 62.
+ 31.
 [30 <./temi-esame.pdf>]
 
 pdfTeX warning: /usr/bin/pdflatex (file ./temi-esame.pdf): PDF inclusion: found
  PDF version <1.7>, but at most version <1.5> allowed
-<temi-esame.pdf, id=568, page=6, pagebox=cropbox, 614.295pt x 794.97pt>
+<temi-esame.pdf, id=197, page=5, pagebox=cropbox, 597.23125pt x 845.1575pt>
 File: temi-esame.pdf Graphic file (type pdf)
-<use temi-esame.pdf, page 6>
-Package pdftex.def Info: temi-esame.pdf , page6 used on input line 62. on input
- line 62.
-Package pdftex.def Info: Requested size: 614.58406pt x 795.3441pt on input line
- 62.
+<use temi-esame.pdf, page 5>
+Package pdftex.def Info: temi-esame.pdf , page5 used on input line 31. on input
+ line 31.
+Package pdftex.def Info: Requested size: 597.51228pt x 845.5552pt on input line
+ 31.
 File: temi-esame.pdf Graphic file (type pdf)
-<use temi-esame.pdf, page 6>
-Package pdftex.def Info: temi-esame.pdf , page6 used on input line 62. on input
- line 62.
-Package pdftex.def Info: Requested size: 614.58406pt x 795.3441pt on input line
- 62.
+<use temi-esame.pdf, page 5>
+Package pdftex.def Info: temi-esame.pdf , page5 used on input line 31. on input
+ line 31.
+Package pdftex.def Info: Requested size: 597.51228pt x 845.5552pt on input line
+ 31.
 File: temi-esame.pdf Graphic file (type pdf)
-<use temi-esame.pdf, page 6>
-Package pdftex.def Info: temi-esame.pdf , page6 used on input line 62. on input
- line 62.
-Package pdftex.def Info: Requested size: 614.58406pt x 795.3441pt on input line
- 62.
+<use temi-esame.pdf, page 5>
+Package pdftex.def Info: temi-esame.pdf , page5 used on input line 31. on input
+ line 31.
+Package pdftex.def Info: Requested size: 597.51228pt x 845.5552pt on input line
+ 31.
 [31 <./temi-esame.pdf>]
 
 pdfTeX warning: /usr/bin/pdflatex (file ./temi-esame.pdf): PDF inclusion: found
  PDF version <1.7>, but at most version <1.5> allowed
-<temi-esame.pdf, id=613, page=7, pagebox=cropbox, 597.23125pt x 845.1575pt>
+<temi-esame.pdf, id=203, page=6, pagebox=cropbox, 614.295pt x 794.97pt>
 File: temi-esame.pdf Graphic file (type pdf)
-<use temi-esame.pdf, page 7>
-Package pdftex.def Info: temi-esame.pdf , page7 used on input line 62. on input
- line 62.
-Package pdftex.def Info: Requested size: 597.51228pt x 845.5552pt on input line
- 62.
+<use temi-esame.pdf, page 6>
+Package pdftex.def Info: temi-esame.pdf , page6 used on input line 31. on input
+ line 31.
+Package pdftex.def Info: Requested size: 614.58406pt x 795.3441pt on input line
+ 31.
 File: temi-esame.pdf Graphic file (type pdf)
-<use temi-esame.pdf, page 7>
-Package pdftex.def Info: temi-esame.pdf , page7 used on input line 62. on input
- line 62.
-Package pdftex.def Info: Requested size: 597.51228pt x 845.5552pt on input line
- 62.
+<use temi-esame.pdf, page 6>
+Package pdftex.def Info: temi-esame.pdf , page6 used on input line 31. on input
+ line 31.
+Package pdftex.def Info: Requested size: 614.58406pt x 795.3441pt on input line
+ 31.
 File: temi-esame.pdf Graphic file (type pdf)
-<use temi-esame.pdf, page 7>
-Package pdftex.def Info: temi-esame.pdf , page7 used on input line 62. on input
- line 62.
-Package pdftex.def Info: Requested size: 597.51228pt x 845.5552pt on input line
- 62.
+<use temi-esame.pdf, page 6>
+Package pdftex.def Info: temi-esame.pdf , page6 used on input line 31. on input
+ line 31.
+Package pdftex.def Info: Requested size: 614.58406pt x 795.3441pt on input line
+ 31.
 [32 <./temi-esame.pdf>]
 
 pdfTeX warning: /usr/bin/pdflatex (file ./temi-esame.pdf): PDF inclusion: found
  PDF version <1.7>, but at most version <1.5> allowed
-<temi-esame.pdf, id=619, page=8, pagebox=cropbox, 597.23125pt x 845.1575pt>
+<temi-esame.pdf, id=247, page=7, pagebox=cropbox, 597.23125pt x 845.1575pt>
 File: temi-esame.pdf Graphic file (type pdf)
-<use temi-esame.pdf, page 8>
-Package pdftex.def Info: temi-esame.pdf , page8 used on input line 62. on input
- line 62.
+<use temi-esame.pdf, page 7>
+Package pdftex.def Info: temi-esame.pdf , page7 used on input line 31. on input
+ line 31.
 Package pdftex.def Info: Requested size: 597.51228pt x 845.5552pt on input line
- 62.
+ 31.
 File: temi-esame.pdf Graphic file (type pdf)
-<use temi-esame.pdf, page 8>
-Package pdftex.def Info: temi-esame.pdf , page8 used on input line 62. on input
- line 62.
+<use temi-esame.pdf, page 7>
+Package pdftex.def Info: temi-esame.pdf , page7 used on input line 31. on input
+ line 31.
 Package pdftex.def Info: Requested size: 597.51228pt x 845.5552pt on input line
- 62.
+ 31.
 File: temi-esame.pdf Graphic file (type pdf)
-<use temi-esame.pdf, page 8>
-Package pdftex.def Info: temi-esame.pdf , page8 used on input line 62. on input
- line 62.
+<use temi-esame.pdf, page 7>
+Package pdftex.def Info: temi-esame.pdf , page7 used on input line 31. on input
+ line 31.
 Package pdftex.def Info: Requested size: 597.51228pt x 845.5552pt on input line
- 62.
+ 31.
 [33 <./temi-esame.pdf>]
 
 pdfTeX warning: /usr/bin/pdflatex (file ./temi-esame.pdf): PDF inclusion: found
  PDF version <1.7>, but at most version <1.5> allowed
-<temi-esame.pdf, id=625, page=9, pagebox=cropbox, 597.23125pt x 845.1575pt>
+<temi-esame.pdf, id=252, page=8, pagebox=cropbox, 597.23125pt x 845.1575pt>
 File: temi-esame.pdf Graphic file (type pdf)
-<use temi-esame.pdf, page 9>
-Package pdftex.def Info: temi-esame.pdf , page9 used on input line 62. on input
- line 62.
+<use temi-esame.pdf, page 8>
+Package pdftex.def Info: temi-esame.pdf , page8 used on input line 31. on input
+ line 31.
 Package pdftex.def Info: Requested size: 597.51228pt x 845.5552pt on input line
- 62.
+ 31.
 File: temi-esame.pdf Graphic file (type pdf)
-<use temi-esame.pdf, page 9>
-Package pdftex.def Info: temi-esame.pdf , page9 used on input line 62. on input
- line 62.
+<use temi-esame.pdf, page 8>
+Package pdftex.def Info: temi-esame.pdf , page8 used on input line 31. on input
+ line 31.
 Package pdftex.def Info: Requested size: 597.51228pt x 845.5552pt on input line
- 62.
+ 31.
 File: temi-esame.pdf Graphic file (type pdf)
-<use temi-esame.pdf, page 9>
-Package pdftex.def Info: temi-esame.pdf , page9 used on input line 62. on input
- line 62.
+<use temi-esame.pdf, page 8>
+Package pdftex.def Info: temi-esame.pdf , page8 used on input line 31. on input
+ line 31.
 Package pdftex.def Info: Requested size: 597.51228pt x 845.5552pt on input line
- 62.
+ 31.
 [34 <./temi-esame.pdf>]
 
 pdfTeX warning: /usr/bin/pdflatex (file ./temi-esame.pdf): PDF inclusion: found
  PDF version <1.7>, but at most version <1.5> allowed
-<temi-esame.pdf, id=631, page=10, pagebox=cropbox, 614.295pt x 794.97pt>
+<temi-esame.pdf, id=257, page=9, pagebox=cropbox, 597.23125pt x 845.1575pt>
 File: temi-esame.pdf Graphic file (type pdf)
-<use temi-esame.pdf, page 10>
-Package pdftex.def Info: temi-esame.pdf , page10 used on input line 62. on inpu
-t line 62.
-Package pdftex.def Info: Requested size: 614.58406pt x 795.3441pt on input line
- 62.
+<use temi-esame.pdf, page 9>
+Package pdftex.def Info: temi-esame.pdf , page9 used on input line 31. on input
+ line 31.
+Package pdftex.def Info: Requested size: 597.51228pt x 845.5552pt on input line
+ 31.
 File: temi-esame.pdf Graphic file (type pdf)
-<use temi-esame.pdf, page 10>
-Package pdftex.def Info: temi-esame.pdf , page10 used on input line 62. on inpu
-t line 62.
-Package pdftex.def Info: Requested size: 614.58406pt x 795.3441pt on input line
- 62.
+<use temi-esame.pdf, page 9>
+Package pdftex.def Info: temi-esame.pdf , page9 used on input line 31. on input
+ line 31.
+Package pdftex.def Info: Requested size: 597.51228pt x 845.5552pt on input line
+ 31.
 File: temi-esame.pdf Graphic file (type pdf)
-<use temi-esame.pdf, page 10>
-Package pdftex.def Info: temi-esame.pdf , page10 used on input line 62. on inpu
-t line 62.
-Package pdftex.def Info: Requested size: 614.58406pt x 795.3441pt on input line
- 62.
+<use temi-esame.pdf, page 9>
+Package pdftex.def Info: temi-esame.pdf , page9 used on input line 31. on input
+ line 31.
+Package pdftex.def Info: Requested size: 597.51228pt x 845.5552pt on input line
+ 31.
 [35 <./temi-esame.pdf>]
 
 pdfTeX warning: /usr/bin/pdflatex (file ./temi-esame.pdf): PDF inclusion: found
  PDF version <1.7>, but at most version <1.5> allowed
-<temi-esame.pdf, id=681, page=11, pagebox=cropbox, 597.23125pt x 845.1575pt>
+<temi-esame.pdf, id=262, page=10, pagebox=cropbox, 614.295pt x 794.97pt>
 File: temi-esame.pdf Graphic file (type pdf)
-<use temi-esame.pdf, page 11>
-Package pdftex.def Info: temi-esame.pdf , page11 used on input line 62. on inpu
-t line 62.
-Package pdftex.def Info: Requested size: 597.51228pt x 845.5552pt on input line
- 62.
+<use temi-esame.pdf, page 10>
+Package pdftex.def Info: temi-esame.pdf , page10 used on input line 31. on inpu
+t line 31.
+Package pdftex.def Info: Requested size: 614.58406pt x 795.3441pt on input line
+ 31.
 File: temi-esame.pdf Graphic file (type pdf)
-<use temi-esame.pdf, page 11>
-Package pdftex.def Info: temi-esame.pdf , page11 used on input line 62. on inpu
-t line 62.
-Package pdftex.def Info: Requested size: 597.51228pt x 845.5552pt on input line
- 62.
+<use temi-esame.pdf, page 10>
+Package pdftex.def Info: temi-esame.pdf , page10 used on input line 31. on inpu
+t line 31.
+Package pdftex.def Info: Requested size: 614.58406pt x 795.3441pt on input line
+ 31.
 File: temi-esame.pdf Graphic file (type pdf)
-<use temi-esame.pdf, page 11>
-Package pdftex.def Info: temi-esame.pdf , page11 used on input line 62. on inpu
-t line 62.
-Package pdftex.def Info: Requested size: 597.51228pt x 845.5552pt on input line
- 62.
+<use temi-esame.pdf, page 10>
+Package pdftex.def Info: temi-esame.pdf , page10 used on input line 31. on inpu
+t line 31.
+Package pdftex.def Info: Requested size: 614.58406pt x 795.3441pt on input line
+ 31.
 [36 <./temi-esame.pdf>]
 
 pdfTeX warning: /usr/bin/pdflatex (file ./temi-esame.pdf): PDF inclusion: found
  PDF version <1.7>, but at most version <1.5> allowed
-<temi-esame.pdf, id=687, page=12, pagebox=cropbox, 597.23125pt x 845.1575pt>
+<temi-esame.pdf, id=310, page=11, pagebox=cropbox, 597.23125pt x 845.1575pt>
 File: temi-esame.pdf Graphic file (type pdf)
-<use temi-esame.pdf, page 12>
-Package pdftex.def Info: temi-esame.pdf , page12 used on input line 62. on inpu
-t line 62.
+<use temi-esame.pdf, page 11>
+Package pdftex.def Info: temi-esame.pdf , page11 used on input line 31. on inpu
+t line 31.
 Package pdftex.def Info: Requested size: 597.51228pt x 845.5552pt on input line
- 62.
+ 31.
 File: temi-esame.pdf Graphic file (type pdf)
-<use temi-esame.pdf, page 12>
-Package pdftex.def Info: temi-esame.pdf , page12 used on input line 62. on inpu
-t line 62.
+<use temi-esame.pdf, page 11>
+Package pdftex.def Info: temi-esame.pdf , page11 used on input line 31. on inpu
+t line 31.
 Package pdftex.def Info: Requested size: 597.51228pt x 845.5552pt on input line
- 62.
+ 31.
 File: temi-esame.pdf Graphic file (type pdf)
-<use temi-esame.pdf, page 12>
-Package pdftex.def Info: temi-esame.pdf , page12 used on input line 62. on inpu
-t line 62.
+<use temi-esame.pdf, page 11>
+Package pdftex.def Info: temi-esame.pdf , page11 used on input line 31. on inpu
+t line 31.
 Package pdftex.def Info: Requested size: 597.51228pt x 845.5552pt on input line
- 62.
+ 31.
 [37 <./temi-esame.pdf>]
 
 pdfTeX warning: /usr/bin/pdflatex (file ./temi-esame.pdf): PDF inclusion: found
  PDF version <1.7>, but at most version <1.5> allowed
-<temi-esame.pdf, id=694, page=13, pagebox=cropbox, 597.23125pt x 845.1575pt>
+<temi-esame.pdf, id=316, page=12, pagebox=cropbox, 597.23125pt x 845.1575pt>
 File: temi-esame.pdf Graphic file (type pdf)
-<use temi-esame.pdf, page 13>
-Package pdftex.def Info: temi-esame.pdf , page13 used on input line 62. on inpu
-t line 62.
+<use temi-esame.pdf, page 12>
+Package pdftex.def Info: temi-esame.pdf , page12 used on input line 31. on inpu
+t line 31.
 Package pdftex.def Info: Requested size: 597.51228pt x 845.5552pt on input line
- 62.
+ 31.
 File: temi-esame.pdf Graphic file (type pdf)
-<use temi-esame.pdf, page 13>
-Package pdftex.def Info: temi-esame.pdf , page13 used on input line 62. on inpu
-t line 62.
+<use temi-esame.pdf, page 12>
+Package pdftex.def Info: temi-esame.pdf , page12 used on input line 31. on inpu
+t line 31.
 Package pdftex.def Info: Requested size: 597.51228pt x 845.5552pt on input line
- 62.
+ 31.
 File: temi-esame.pdf Graphic file (type pdf)
-<use temi-esame.pdf, page 13>
-Package pdftex.def Info: temi-esame.pdf , page13 used on input line 62. on inpu
-t line 62.
+<use temi-esame.pdf, page 12>
+Package pdftex.def Info: temi-esame.pdf , page12 used on input line 31. on inpu
+t line 31.
 Package pdftex.def Info: Requested size: 597.51228pt x 845.5552pt on input line
- 62.
+ 31.
 [38 <./temi-esame.pdf>]
 
 pdfTeX warning: /usr/bin/pdflatex (file ./temi-esame.pdf): PDF inclusion: found
  PDF version <1.7>, but at most version <1.5> allowed
-<temi-esame.pdf, id=700, page=14, pagebox=cropbox, 597.23125pt x 845.1575pt>
+<temi-esame.pdf, id=321, page=13, pagebox=cropbox, 597.23125pt x 845.1575pt>
 File: temi-esame.pdf Graphic file (type pdf)
-<use temi-esame.pdf, page 14>
-Package pdftex.def Info: temi-esame.pdf , page14 used on input line 62. on inpu
-t line 62.
+<use temi-esame.pdf, page 13>
+Package pdftex.def Info: temi-esame.pdf , page13 used on input line 31. on inpu
+t line 31.
 Package pdftex.def Info: Requested size: 597.51228pt x 845.5552pt on input line
- 62.
+ 31.
 File: temi-esame.pdf Graphic file (type pdf)
-<use temi-esame.pdf, page 14>
-Package pdftex.def Info: temi-esame.pdf , page14 used on input line 62. on inpu
-t line 62.
+<use temi-esame.pdf, page 13>
+Package pdftex.def Info: temi-esame.pdf , page13 used on input line 31. on inpu
+t line 31.
 Package pdftex.def Info: Requested size: 597.51228pt x 845.5552pt on input line
- 62.
+ 31.
 File: temi-esame.pdf Graphic file (type pdf)
-<use temi-esame.pdf, page 14>
-Package pdftex.def Info: temi-esame.pdf , page14 used on input line 62. on inpu
-t line 62.
+<use temi-esame.pdf, page 13>
+Package pdftex.def Info: temi-esame.pdf , page13 used on input line 31. on inpu
+t line 31.
 Package pdftex.def Info: Requested size: 597.51228pt x 845.5552pt on input line
- 62.
+ 31.
 [39 <./temi-esame.pdf>]
 
 pdfTeX warning: /usr/bin/pdflatex (file ./temi-esame.pdf): PDF inclusion: found
  PDF version <1.7>, but at most version <1.5> allowed
-<temi-esame.pdf, id=706, page=15, pagebox=cropbox, 614.295pt x 794.97pt>
+<temi-esame.pdf, id=326, page=14, pagebox=cropbox, 597.23125pt x 845.1575pt>
 File: temi-esame.pdf Graphic file (type pdf)
-<use temi-esame.pdf, page 15>
-Package pdftex.def Info: temi-esame.pdf , page15 used on input line 62. on inpu
-t line 62.
-Package pdftex.def Info: Requested size: 614.58406pt x 795.3441pt on input line
- 62.
+<use temi-esame.pdf, page 14>
+Package pdftex.def Info: temi-esame.pdf , page14 used on input line 31. on inpu
+t line 31.
+Package pdftex.def Info: Requested size: 597.51228pt x 845.5552pt on input line
+ 31.
 File: temi-esame.pdf Graphic file (type pdf)
-<use temi-esame.pdf, page 15>
-Package pdftex.def Info: temi-esame.pdf , page15 used on input line 62. on inpu
-t line 62.
-Package pdftex.def Info: Requested size: 614.58406pt x 795.3441pt on input line
- 62.
+<use temi-esame.pdf, page 14>
+Package pdftex.def Info: temi-esame.pdf , page14 used on input line 31. on inpu
+t line 31.
+Package pdftex.def Info: Requested size: 597.51228pt x 845.5552pt on input line
+ 31.
 File: temi-esame.pdf Graphic file (type pdf)
-<use temi-esame.pdf, page 15>
-Package pdftex.def Info: temi-esame.pdf , page15 used on input line 62. on inpu
-t line 62.
-Package pdftex.def Info: Requested size: 614.58406pt x 795.3441pt on input line
- 62.
+<use temi-esame.pdf, page 14>
+Package pdftex.def Info: temi-esame.pdf , page14 used on input line 31. on inpu
+t line 31.
+Package pdftex.def Info: Requested size: 597.51228pt x 845.5552pt on input line
+ 31.
 [40 <./temi-esame.pdf>]
 
 pdfTeX warning: /usr/bin/pdflatex (file ./temi-esame.pdf): PDF inclusion: found
  PDF version <1.7>, but at most version <1.5> allowed
-<temi-esame.pdf, id=766, page=16, pagebox=cropbox, 597.23125pt x 845.1575pt>
+<temi-esame.pdf, id=331, page=15, pagebox=cropbox, 614.295pt x 794.97pt>
 File: temi-esame.pdf Graphic file (type pdf)
-<use temi-esame.pdf, page 16>
-Package pdftex.def Info: temi-esame.pdf , page16 used on input line 62. on inpu
-t line 62.
-Package pdftex.def Info: Requested size: 597.51228pt x 845.5552pt on input line
- 62.
+<use temi-esame.pdf, page 15>
+Package pdftex.def Info: temi-esame.pdf , page15 used on input line 31. on inpu
+t line 31.
+Package pdftex.def Info: Requested size: 614.58406pt x 795.3441pt on input line
+ 31.
 File: temi-esame.pdf Graphic file (type pdf)
-<use temi-esame.pdf, page 16>
-Package pdftex.def Info: temi-esame.pdf , page16 used on input line 62. on inpu
-t line 62.
-Package pdftex.def Info: Requested size: 597.51228pt x 845.5552pt on input line
- 62.
+<use temi-esame.pdf, page 15>
+Package pdftex.def Info: temi-esame.pdf , page15 used on input line 31. on inpu
+t line 31.
+Package pdftex.def Info: Requested size: 614.58406pt x 795.3441pt on input line
+ 31.
 File: temi-esame.pdf Graphic file (type pdf)
-<use temi-esame.pdf, page 16>
-Package pdftex.def Info: temi-esame.pdf , page16 used on input line 62. on inpu
-t line 62.
-Package pdftex.def Info: Requested size: 597.51228pt x 845.5552pt on input line
- 62.
+<use temi-esame.pdf, page 15>
+Package pdftex.def Info: temi-esame.pdf , page15 used on input line 31. on inpu
+t line 31.
+Package pdftex.def Info: Requested size: 614.58406pt x 795.3441pt on input line
+ 31.
 [41 <./temi-esame.pdf>]
 
 pdfTeX warning: /usr/bin/pdflatex (file ./temi-esame.pdf): PDF inclusion: found
  PDF version <1.7>, but at most version <1.5> allowed
-<temi-esame.pdf, id=772, page=17, pagebox=cropbox, 597.23125pt x 845.1575pt>
+<temi-esame.pdf, id=391, page=16, pagebox=cropbox, 597.23125pt x 845.1575pt>
 File: temi-esame.pdf Graphic file (type pdf)
-<use temi-esame.pdf, page 17>
-Package pdftex.def Info: temi-esame.pdf , page17 used on input line 62. on inpu
-t line 62.
+<use temi-esame.pdf, page 16>
+Package pdftex.def Info: temi-esame.pdf , page16 used on input line 31. on inpu
+t line 31.
 Package pdftex.def Info: Requested size: 597.51228pt x 845.5552pt on input line
- 62.
+ 31.
 File: temi-esame.pdf Graphic file (type pdf)
-<use temi-esame.pdf, page 17>
-Package pdftex.def Info: temi-esame.pdf , page17 used on input line 62. on inpu
-t line 62.
+<use temi-esame.pdf, page 16>
+Package pdftex.def Info: temi-esame.pdf , page16 used on input line 31. on inpu
+t line 31.
 Package pdftex.def Info: Requested size: 597.51228pt x 845.5552pt on input line
- 62.
+ 31.
 File: temi-esame.pdf Graphic file (type pdf)
-<use temi-esame.pdf, page 17>
-Package pdftex.def Info: temi-esame.pdf , page17 used on input line 62. on inpu
-t line 62.
+<use temi-esame.pdf, page 16>
+Package pdftex.def Info: temi-esame.pdf , page16 used on input line 31. on inpu
+t line 31.
 Package pdftex.def Info: Requested size: 597.51228pt x 845.5552pt on input line
- 62.
+ 31.
 [42 <./temi-esame.pdf>]
 
 pdfTeX warning: /usr/bin/pdflatex (file ./temi-esame.pdf): PDF inclusion: found
  PDF version <1.7>, but at most version <1.5> allowed
-<temi-esame.pdf, id=779, page=18, pagebox=cropbox, 597.23125pt x 845.1575pt>
+<temi-esame.pdf, id=396, page=17, pagebox=cropbox, 597.23125pt x 845.1575pt>
 File: temi-esame.pdf Graphic file (type pdf)
-<use temi-esame.pdf, page 18>
-Package pdftex.def Info: temi-esame.pdf , page18 used on input line 62. on inpu
-t line 62.
+<use temi-esame.pdf, page 17>
+Package pdftex.def Info: temi-esame.pdf , page17 used on input line 31. on inpu
+t line 31.
 Package pdftex.def Info: Requested size: 597.51228pt x 845.5552pt on input line
- 62.
+ 31.
 File: temi-esame.pdf Graphic file (type pdf)
-<use temi-esame.pdf, page 18>
-Package pdftex.def Info: temi-esame.pdf , page18 used on input line 62. on inpu
-t line 62.
+<use temi-esame.pdf, page 17>
+Package pdftex.def Info: temi-esame.pdf , page17 used on input line 31. on inpu
+t line 31.
 Package pdftex.def Info: Requested size: 597.51228pt x 845.5552pt on input line
- 62.
+ 31.
 File: temi-esame.pdf Graphic file (type pdf)
-<use temi-esame.pdf, page 18>
-Package pdftex.def Info: temi-esame.pdf , page18 used on input line 62. on inpu
-t line 62.
+<use temi-esame.pdf, page 17>
+Package pdftex.def Info: temi-esame.pdf , page17 used on input line 31. on inpu
+t line 31.
 Package pdftex.def Info: Requested size: 597.51228pt x 845.5552pt on input line
- 62.
+ 31.
 [43 <./temi-esame.pdf>]
 
 pdfTeX warning: /usr/bin/pdflatex (file ./temi-esame.pdf): PDF inclusion: found
  PDF version <1.7>, but at most version <1.5> allowed
-<temi-esame.pdf, id=786, page=19, pagebox=cropbox, 614.295pt x 794.97pt>
+<temi-esame.pdf, id=402, page=18, pagebox=cropbox, 597.23125pt x 845.1575pt>
 File: temi-esame.pdf Graphic file (type pdf)
-<use temi-esame.pdf, page 19>
-Package pdftex.def Info: temi-esame.pdf , page19 used on input line 62. on inpu
-t line 62.
-Package pdftex.def Info: Requested size: 614.58406pt x 795.3441pt on input line
- 62.
+<use temi-esame.pdf, page 18>
+Package pdftex.def Info: temi-esame.pdf , page18 used on input line 31. on inpu
+t line 31.
+Package pdftex.def Info: Requested size: 597.51228pt x 845.5552pt on input line
+ 31.
 File: temi-esame.pdf Graphic file (type pdf)
-<use temi-esame.pdf, page 19>
-Package pdftex.def Info: temi-esame.pdf , page19 used on input line 62. on inpu
-t line 62.
-Package pdftex.def Info: Requested size: 614.58406pt x 795.3441pt on input line
- 62.
+<use temi-esame.pdf, page 18>
+Package pdftex.def Info: temi-esame.pdf , page18 used on input line 31. on inpu
+t line 31.
+Package pdftex.def Info: Requested size: 597.51228pt x 845.5552pt on input line
+ 31.
 File: temi-esame.pdf Graphic file (type pdf)
-<use temi-esame.pdf, page 19>
-Package pdftex.def Info: temi-esame.pdf , page19 used on input line 62. on inpu
-t line 62.
-Package pdftex.def Info: Requested size: 614.58406pt x 795.3441pt on input line
- 62.
+<use temi-esame.pdf, page 18>
+Package pdftex.def Info: temi-esame.pdf , page18 used on input line 31. on inpu
+t line 31.
+Package pdftex.def Info: Requested size: 597.51228pt x 845.5552pt on input line
+ 31.
 [44 <./temi-esame.pdf>]
 
 pdfTeX warning: /usr/bin/pdflatex (file ./temi-esame.pdf): PDF inclusion: found
  PDF version <1.7>, but at most version <1.5> allowed
-<temi-esame.pdf, id=840, page=20, pagebox=cropbox, 597.23125pt x 845.1575pt>
+<temi-esame.pdf, id=407, page=19, pagebox=cropbox, 614.295pt x 794.97pt>
 File: temi-esame.pdf Graphic file (type pdf)
-<use temi-esame.pdf, page 20>
-Package pdftex.def Info: temi-esame.pdf , page20 used on input line 62. on inpu
-t line 62.
-Package pdftex.def Info: Requested size: 597.51228pt x 845.5552pt on input line
- 62.
+<use temi-esame.pdf, page 19>
+Package pdftex.def Info: temi-esame.pdf , page19 used on input line 31. on inpu
+t line 31.
+Package pdftex.def Info: Requested size: 614.58406pt x 795.3441pt on input line
+ 31.
 File: temi-esame.pdf Graphic file (type pdf)
-<use temi-esame.pdf, page 20>
-Package pdftex.def Info: temi-esame.pdf , page20 used on input line 62. on inpu
-t line 62.
-Package pdftex.def Info: Requested size: 597.51228pt x 845.5552pt on input line
- 62.
+<use temi-esame.pdf, page 19>
+Package pdftex.def Info: temi-esame.pdf , page19 used on input line 31. on inpu
+t line 31.
+Package pdftex.def Info: Requested size: 614.58406pt x 795.3441pt on input line
+ 31.
 File: temi-esame.pdf Graphic file (type pdf)
-<use temi-esame.pdf, page 20>
-Package pdftex.def Info: temi-esame.pdf , page20 used on input line 62. on inpu
-t line 62.
-Package pdftex.def Info: Requested size: 597.51228pt x 845.5552pt on input line
- 62.
+<use temi-esame.pdf, page 19>
+Package pdftex.def Info: temi-esame.pdf , page19 used on input line 31. on inpu
+t line 31.
+Package pdftex.def Info: Requested size: 614.58406pt x 795.3441pt on input line
+ 31.
 [45 <./temi-esame.pdf>]
 
 pdfTeX warning: /usr/bin/pdflatex (file ./temi-esame.pdf): PDF inclusion: found
  PDF version <1.7>, but at most version <1.5> allowed
-<temi-esame.pdf, id=846, page=21, pagebox=cropbox, 597.23125pt x 845.1575pt>
+<temi-esame.pdf, id=460, page=20, pagebox=cropbox, 597.23125pt x 845.1575pt>
 File: temi-esame.pdf Graphic file (type pdf)
-<use temi-esame.pdf, page 21>
-Package pdftex.def Info: temi-esame.pdf , page21 used on input line 62. on inpu
-t line 62.
+<use temi-esame.pdf, page 20>
+Package pdftex.def Info: temi-esame.pdf , page20 used on input line 31. on inpu
+t line 31.
 Package pdftex.def Info: Requested size: 597.51228pt x 845.5552pt on input line
- 62.
+ 31.
 File: temi-esame.pdf Graphic file (type pdf)
-<use temi-esame.pdf, page 21>
-Package pdftex.def Info: temi-esame.pdf , page21 used on input line 62. on inpu
-t line 62.
+<use temi-esame.pdf, page 20>
+Package pdftex.def Info: temi-esame.pdf , page20 used on input line 31. on inpu
+t line 31.
 Package pdftex.def Info: Requested size: 597.51228pt x 845.5552pt on input line
- 62.
+ 31.
 File: temi-esame.pdf Graphic file (type pdf)
-<use temi-esame.pdf, page 21>
-Package pdftex.def Info: temi-esame.pdf , page21 used on input line 62. on inpu
-t line 62.
+<use temi-esame.pdf, page 20>
+Package pdftex.def Info: temi-esame.pdf , page20 used on input line 31. on inpu
+t line 31.
 Package pdftex.def Info: Requested size: 597.51228pt x 845.5552pt on input line
- 62.
+ 31.
 [46 <./temi-esame.pdf>]
 
 pdfTeX warning: /usr/bin/pdflatex (file ./temi-esame.pdf): PDF inclusion: found
  PDF version <1.7>, but at most version <1.5> allowed
-<temi-esame.pdf, id=852, page=22, pagebox=cropbox, 597.23125pt x 845.1575pt>
+<temi-esame.pdf, id=465, page=21, pagebox=cropbox, 597.23125pt x 845.1575pt>
 File: temi-esame.pdf Graphic file (type pdf)
-<use temi-esame.pdf, page 22>
-Package pdftex.def Info: temi-esame.pdf , page22 used on input line 62. on inpu
-t line 62.
+<use temi-esame.pdf, page 21>
+Package pdftex.def Info: temi-esame.pdf , page21 used on input line 31. on inpu
+t line 31.
 Package pdftex.def Info: Requested size: 597.51228pt x 845.5552pt on input line
- 62.
+ 31.
 File: temi-esame.pdf Graphic file (type pdf)
-<use temi-esame.pdf, page 22>
-Package pdftex.def Info: temi-esame.pdf , page22 used on input line 62. on inpu
-t line 62.
+<use temi-esame.pdf, page 21>
+Package pdftex.def Info: temi-esame.pdf , page21 used on input line 31. on inpu
+t line 31.
 Package pdftex.def Info: Requested size: 597.51228pt x 845.5552pt on input line
- 62.
+ 31.
 File: temi-esame.pdf Graphic file (type pdf)
-<use temi-esame.pdf, page 22>
-Package pdftex.def Info: temi-esame.pdf , page22 used on input line 62. on inpu
-t line 62.
+<use temi-esame.pdf, page 21>
+Package pdftex.def Info: temi-esame.pdf , page21 used on input line 31. on inpu
+t line 31.
 Package pdftex.def Info: Requested size: 597.51228pt x 845.5552pt on input line
- 62.
+ 31.
 [47 <./temi-esame.pdf>]
 
 pdfTeX warning: /usr/bin/pdflatex (file ./temi-esame.pdf): PDF inclusion: found
  PDF version <1.7>, but at most version <1.5> allowed
-<temi-esame.pdf, id=858, page=23, pagebox=cropbox, 597.23125pt x 845.1575pt>
+<temi-esame.pdf, id=470, page=22, pagebox=cropbox, 597.23125pt x 845.1575pt>
 File: temi-esame.pdf Graphic file (type pdf)
-<use temi-esame.pdf, page 23>
-Package pdftex.def Info: temi-esame.pdf , page23 used on input line 62. on inpu
-t line 62.
+<use temi-esame.pdf, page 22>
+Package pdftex.def Info: temi-esame.pdf , page22 used on input line 31. on inpu
+t line 31.
 Package pdftex.def Info: Requested size: 597.51228pt x 845.5552pt on input line
- 62.
+ 31.
 File: temi-esame.pdf Graphic file (type pdf)
-<use temi-esame.pdf, page 23>
-Package pdftex.def Info: temi-esame.pdf , page23 used on input line 62. on inpu
-t line 62.
+<use temi-esame.pdf, page 22>
+Package pdftex.def Info: temi-esame.pdf , page22 used on input line 31. on inpu
+t line 31.
 Package pdftex.def Info: Requested size: 597.51228pt x 845.5552pt on input line
- 62.
+ 31.
 File: temi-esame.pdf Graphic file (type pdf)
-<use temi-esame.pdf, page 23>
-Package pdftex.def Info: temi-esame.pdf , page23 used on input line 62. on inpu
-t line 62.
+<use temi-esame.pdf, page 22>
+Package pdftex.def Info: temi-esame.pdf , page22 used on input line 31. on inpu
+t line 31.
 Package pdftex.def Info: Requested size: 597.51228pt x 845.5552pt on input line
- 62.
+ 31.
 [48 <./temi-esame.pdf>]
 
 pdfTeX warning: /usr/bin/pdflatex (file ./temi-esame.pdf): PDF inclusion: found
  PDF version <1.7>, but at most version <1.5> allowed
-<temi-esame.pdf, id=864, page=24, pagebox=cropbox, 614.295pt x 794.97pt>
+<temi-esame.pdf, id=475, page=23, pagebox=cropbox, 597.23125pt x 845.1575pt>
 File: temi-esame.pdf Graphic file (type pdf)
-<use temi-esame.pdf, page 24>
-Package pdftex.def Info: temi-esame.pdf , page24 used on input line 62. on inpu
-t line 62.
-Package pdftex.def Info: Requested size: 614.58406pt x 795.3441pt on input line
- 62.
+<use temi-esame.pdf, page 23>
+Package pdftex.def Info: temi-esame.pdf , page23 used on input line 31. on inpu
+t line 31.
+Package pdftex.def Info: Requested size: 597.51228pt x 845.5552pt on input line
+ 31.
 File: temi-esame.pdf Graphic file (type pdf)
-<use temi-esame.pdf, page 24>
-Package pdftex.def Info: temi-esame.pdf , page24 used on input line 62. on inpu
-t line 62.
-Package pdftex.def Info: Requested size: 614.58406pt x 795.3441pt on input line
- 62.
+<use temi-esame.pdf, page 23>
+Package pdftex.def Info: temi-esame.pdf , page23 used on input line 31. on inpu
+t line 31.
+Package pdftex.def Info: Requested size: 597.51228pt x 845.5552pt on input line
+ 31.
 File: temi-esame.pdf Graphic file (type pdf)
-<use temi-esame.pdf, page 24>
-Package pdftex.def Info: temi-esame.pdf , page24 used on input line 62. on inpu
-t line 62.
-Package pdftex.def Info: Requested size: 614.58406pt x 795.3441pt on input line
- 62.
+<use temi-esame.pdf, page 23>
+Package pdftex.def Info: temi-esame.pdf , page23 used on input line 31. on inpu
+t line 31.
+Package pdftex.def Info: Requested size: 597.51228pt x 845.5552pt on input line
+ 31.
 [49 <./temi-esame.pdf>]
 
 pdfTeX warning: /usr/bin/pdflatex (file ./temi-esame.pdf): PDF inclusion: found
  PDF version <1.7>, but at most version <1.5> allowed
-<temi-esame.pdf, id=900, page=25, pagebox=cropbox, 597.23125pt x 845.1575pt>
+<temi-esame.pdf, id=481, page=24, pagebox=cropbox, 614.295pt x 794.97pt>
 File: temi-esame.pdf Graphic file (type pdf)
-<use temi-esame.pdf, page 25>
-Package pdftex.def Info: temi-esame.pdf , page25 used on input line 62. on inpu
-t line 62.
-Package pdftex.def Info: Requested size: 597.51228pt x 845.5552pt on input line
- 62.
+<use temi-esame.pdf, page 24>
+Package pdftex.def Info: temi-esame.pdf , page24 used on input line 31. on inpu
+t line 31.
+Package pdftex.def Info: Requested size: 614.58406pt x 795.3441pt on input line
+ 31.
 File: temi-esame.pdf Graphic file (type pdf)
-<use temi-esame.pdf, page 25>
-Package pdftex.def Info: temi-esame.pdf , page25 used on input line 62. on inpu
-t line 62.
-Package pdftex.def Info: Requested size: 597.51228pt x 845.5552pt on input line
- 62.
+<use temi-esame.pdf, page 24>
+Package pdftex.def Info: temi-esame.pdf , page24 used on input line 31. on inpu
+t line 31.
+Package pdftex.def Info: Requested size: 614.58406pt x 795.3441pt on input line
+ 31.
 File: temi-esame.pdf Graphic file (type pdf)
-<use temi-esame.pdf, page 25>
-Package pdftex.def Info: temi-esame.pdf , page25 used on input line 62. on inpu
-t line 62.
-Package pdftex.def Info: Requested size: 597.51228pt x 845.5552pt on input line
- 62.
+<use temi-esame.pdf, page 24>
+Package pdftex.def Info: temi-esame.pdf , page24 used on input line 31. on inpu
+t line 31.
+Package pdftex.def Info: Requested size: 614.58406pt x 795.3441pt on input line
+ 31.
 [50 <./temi-esame.pdf>]
 
 pdfTeX warning: /usr/bin/pdflatex (file ./temi-esame.pdf): PDF inclusion: found
  PDF version <1.7>, but at most version <1.5> allowed
-<temi-esame.pdf, id=906, page=26, pagebox=cropbox, 597.23125pt x 845.1575pt>
+<temi-esame.pdf, id=516, page=25, pagebox=cropbox, 597.23125pt x 845.1575pt>
 File: temi-esame.pdf Graphic file (type pdf)
-<use temi-esame.pdf, page 26>
-Package pdftex.def Info: temi-esame.pdf , page26 used on input line 62. on inpu
-t line 62.
+<use temi-esame.pdf, page 25>
+Package pdftex.def Info: temi-esame.pdf , page25 used on input line 31. on inpu
+t line 31.
 Package pdftex.def Info: Requested size: 597.51228pt x 845.5552pt on input line
- 62.
+ 31.
 File: temi-esame.pdf Graphic file (type pdf)
-<use temi-esame.pdf, page 26>
-Package pdftex.def Info: temi-esame.pdf , page26 used on input line 62. on inpu
-t line 62.
+<use temi-esame.pdf, page 25>
+Package pdftex.def Info: temi-esame.pdf , page25 used on input line 31. on inpu
+t line 31.
 Package pdftex.def Info: Requested size: 597.51228pt x 845.5552pt on input line
- 62.
+ 31.
 File: temi-esame.pdf Graphic file (type pdf)
-<use temi-esame.pdf, page 26>
-Package pdftex.def Info: temi-esame.pdf , page26 used on input line 62. on inpu
-t line 62.
+<use temi-esame.pdf, page 25>
+Package pdftex.def Info: temi-esame.pdf , page25 used on input line 31. on inpu
+t line 31.
 Package pdftex.def Info: Requested size: 597.51228pt x 845.5552pt on input line
- 62.
+ 31.
 [51 <./temi-esame.pdf>]
 
 pdfTeX warning: /usr/bin/pdflatex (file ./temi-esame.pdf): PDF inclusion: found
  PDF version <1.7>, but at most version <1.5> allowed
-<temi-esame.pdf, id=912, page=27, pagebox=cropbox, 597.23125pt x 845.1575pt>
+<temi-esame.pdf, id=521, page=26, pagebox=cropbox, 597.23125pt x 845.1575pt>
 File: temi-esame.pdf Graphic file (type pdf)
-<use temi-esame.pdf, page 27>
-Package pdftex.def Info: temi-esame.pdf , page27 used on input line 62. on inpu
-t line 62.
+<use temi-esame.pdf, page 26>
+Package pdftex.def Info: temi-esame.pdf , page26 used on input line 31. on inpu
+t line 31.
 Package pdftex.def Info: Requested size: 597.51228pt x 845.5552pt on input line
- 62.
+ 31.
 File: temi-esame.pdf Graphic file (type pdf)
-<use temi-esame.pdf, page 27>
-Package pdftex.def Info: temi-esame.pdf , page27 used on input line 62. on inpu
-t line 62.
+<use temi-esame.pdf, page 26>
+Package pdftex.def Info: temi-esame.pdf , page26 used on input line 31. on inpu
+t line 31.
 Package pdftex.def Info: Requested size: 597.51228pt x 845.5552pt on input line
- 62.
+ 31.
 File: temi-esame.pdf Graphic file (type pdf)
-<use temi-esame.pdf, page 27>
-Package pdftex.def Info: temi-esame.pdf , page27 used on input line 62. on inpu
-t line 62.
+<use temi-esame.pdf, page 26>
+Package pdftex.def Info: temi-esame.pdf , page26 used on input line 31. on inpu
+t line 31.
 Package pdftex.def Info: Requested size: 597.51228pt x 845.5552pt on input line
- 62.
+ 31.
 [52 <./temi-esame.pdf>]
 
 pdfTeX warning: /usr/bin/pdflatex (file ./temi-esame.pdf): PDF inclusion: found
  PDF version <1.7>, but at most version <1.5> allowed
-<temi-esame.pdf, id=918, page=28, pagebox=cropbox, 614.295pt x 794.97pt>
+<temi-esame.pdf, id=526, page=27, pagebox=cropbox, 597.23125pt x 845.1575pt>
 File: temi-esame.pdf Graphic file (type pdf)
-<use temi-esame.pdf, page 28>
-Package pdftex.def Info: temi-esame.pdf , page28 used on input line 62. on inpu
-t line 62.
-Package pdftex.def Info: Requested size: 614.58406pt x 795.3441pt on input line
- 62.
+<use temi-esame.pdf, page 27>
+Package pdftex.def Info: temi-esame.pdf , page27 used on input line 31. on inpu
+t line 31.
+Package pdftex.def Info: Requested size: 597.51228pt x 845.5552pt on input line
+ 31.
 File: temi-esame.pdf Graphic file (type pdf)
-<use temi-esame.pdf, page 28>
-Package pdftex.def Info: temi-esame.pdf , page28 used on input line 62. on inpu
-t line 62.
-Package pdftex.def Info: Requested size: 614.58406pt x 795.3441pt on input line
- 62.
+<use temi-esame.pdf, page 27>
+Package pdftex.def Info: temi-esame.pdf , page27 used on input line 31. on inpu
+t line 31.
+Package pdftex.def Info: Requested size: 597.51228pt x 845.5552pt on input line
+ 31.
 File: temi-esame.pdf Graphic file (type pdf)
-<use temi-esame.pdf, page 28>
-Package pdftex.def Info: temi-esame.pdf , page28 used on input line 62. on inpu
-t line 62.
-Package pdftex.def Info: Requested size: 614.58406pt x 795.3441pt on input line
- 62.
+<use temi-esame.pdf, page 27>
+Package pdftex.def Info: temi-esame.pdf , page27 used on input line 31. on inpu
+t line 31.
+Package pdftex.def Info: Requested size: 597.51228pt x 845.5552pt on input line
+ 31.
 [53 <./temi-esame.pdf>]
 
 pdfTeX warning: /usr/bin/pdflatex (file ./temi-esame.pdf): PDF inclusion: found
  PDF version <1.7>, but at most version <1.5> allowed
-<temi-esame.pdf, id=967, page=29, pagebox=cropbox, 597.23125pt x 845.1575pt>
+<temi-esame.pdf, id=531, page=28, pagebox=cropbox, 614.295pt x 794.97pt>
 File: temi-esame.pdf Graphic file (type pdf)
-<use temi-esame.pdf, page 29>
-Package pdftex.def Info: temi-esame.pdf , page29 used on input line 62. on inpu
-t line 62.
-Package pdftex.def Info: Requested size: 597.51228pt x 845.5552pt on input line
- 62.
+<use temi-esame.pdf, page 28>
+Package pdftex.def Info: temi-esame.pdf , page28 used on input line 31. on inpu
+t line 31.
+Package pdftex.def Info: Requested size: 614.58406pt x 795.3441pt on input line
+ 31.
 File: temi-esame.pdf Graphic file (type pdf)
-<use temi-esame.pdf, page 29>
-Package pdftex.def Info: temi-esame.pdf , page29 used on input line 62. on inpu
-t line 62.
-Package pdftex.def Info: Requested size: 597.51228pt x 845.5552pt on input line
- 62.
+<use temi-esame.pdf, page 28>
+Package pdftex.def Info: temi-esame.pdf , page28 used on input line 31. on inpu
+t line 31.
+Package pdftex.def Info: Requested size: 614.58406pt x 795.3441pt on input line
+ 31.
 File: temi-esame.pdf Graphic file (type pdf)
-<use temi-esame.pdf, page 29>
-Package pdftex.def Info: temi-esame.pdf , page29 used on input line 62. on inpu
-t line 62.
-Package pdftex.def Info: Requested size: 597.51228pt x 845.5552pt on input line
- 62.
+<use temi-esame.pdf, page 28>
+Package pdftex.def Info: temi-esame.pdf , page28 used on input line 31. on inpu
+t line 31.
+Package pdftex.def Info: Requested size: 614.58406pt x 795.3441pt on input line
+ 31.
 [54 <./temi-esame.pdf>]
 
 pdfTeX warning: /usr/bin/pdflatex (file ./temi-esame.pdf): PDF inclusion: found
  PDF version <1.7>, but at most version <1.5> allowed
-<temi-esame.pdf, id=973, page=30, pagebox=cropbox, 597.23125pt x 845.1575pt>
+<temi-esame.pdf, id=578, page=29, pagebox=cropbox, 597.23125pt x 845.1575pt>
 File: temi-esame.pdf Graphic file (type pdf)
-<use temi-esame.pdf, page 30>
-Package pdftex.def Info: temi-esame.pdf , page30 used on input line 62. on inpu
-t line 62.
+<use temi-esame.pdf, page 29>
+Package pdftex.def Info: temi-esame.pdf , page29 used on input line 31. on inpu
+t line 31.
 Package pdftex.def Info: Requested size: 597.51228pt x 845.5552pt on input line
- 62.
+ 31.
 File: temi-esame.pdf Graphic file (type pdf)
-<use temi-esame.pdf, page 30>
-Package pdftex.def Info: temi-esame.pdf , page30 used on input line 62. on inpu
-t line 62.
+<use temi-esame.pdf, page 29>
+Package pdftex.def Info: temi-esame.pdf , page29 used on input line 31. on inpu
+t line 31.
 Package pdftex.def Info: Requested size: 597.51228pt x 845.5552pt on input line
- 62.
+ 31.
 File: temi-esame.pdf Graphic file (type pdf)
-<use temi-esame.pdf, page 30>
-Package pdftex.def Info: temi-esame.pdf , page30 used on input line 62. on inpu
-t line 62.
+<use temi-esame.pdf, page 29>
+Package pdftex.def Info: temi-esame.pdf , page29 used on input line 31. on inpu
+t line 31.
 Package pdftex.def Info: Requested size: 597.51228pt x 845.5552pt on input line
- 62.
+ 31.
 [55 <./temi-esame.pdf>]
 
 pdfTeX warning: /usr/bin/pdflatex (file ./temi-esame.pdf): PDF inclusion: found
  PDF version <1.7>, but at most version <1.5> allowed
-<temi-esame.pdf, id=980, page=31, pagebox=cropbox, 597.23125pt x 845.1575pt>
+<temi-esame.pdf, id=584, page=30, pagebox=cropbox, 597.23125pt x 845.1575pt>
 File: temi-esame.pdf Graphic file (type pdf)
-<use temi-esame.pdf, page 31>
-Package pdftex.def Info: temi-esame.pdf , page31 used on input line 62. on inpu
-t line 62.
+<use temi-esame.pdf, page 30>
+Package pdftex.def Info: temi-esame.pdf , page30 used on input line 31. on inpu
+t line 31.
 Package pdftex.def Info: Requested size: 597.51228pt x 845.5552pt on input line
- 62.
+ 31.
 File: temi-esame.pdf Graphic file (type pdf)
-<use temi-esame.pdf, page 31>
-Package pdftex.def Info: temi-esame.pdf , page31 used on input line 62. on inpu
-t line 62.
+<use temi-esame.pdf, page 30>
+Package pdftex.def Info: temi-esame.pdf , page30 used on input line 31. on inpu
+t line 31.
 Package pdftex.def Info: Requested size: 597.51228pt x 845.5552pt on input line
- 62.
+ 31.
 File: temi-esame.pdf Graphic file (type pdf)
-<use temi-esame.pdf, page 31>
-Package pdftex.def Info: temi-esame.pdf , page31 used on input line 62. on inpu
-t line 62.
+<use temi-esame.pdf, page 30>
+Package pdftex.def Info: temi-esame.pdf , page30 used on input line 31. on inpu
+t line 31.
 Package pdftex.def Info: Requested size: 597.51228pt x 845.5552pt on input line
- 62.
+ 31.
 [56 <./temi-esame.pdf>]
 
 pdfTeX warning: /usr/bin/pdflatex (file ./temi-esame.pdf): PDF inclusion: found
  PDF version <1.7>, but at most version <1.5> allowed
-<temi-esame.pdf, id=986, page=32, pagebox=cropbox, 597.23125pt x 845.1575pt>
+<temi-esame.pdf, id=589, page=31, pagebox=cropbox, 597.23125pt x 845.1575pt>
 File: temi-esame.pdf Graphic file (type pdf)
-<use temi-esame.pdf, page 32>
-Package pdftex.def Info: temi-esame.pdf , page32 used on input line 62. on inpu
-t line 62.
+<use temi-esame.pdf, page 31>
+Package pdftex.def Info: temi-esame.pdf , page31 used on input line 31. on inpu
+t line 31.
 Package pdftex.def Info: Requested size: 597.51228pt x 845.5552pt on input line
- 62.
+ 31.
 File: temi-esame.pdf Graphic file (type pdf)
-<use temi-esame.pdf, page 32>
-Package pdftex.def Info: temi-esame.pdf , page32 used on input line 62. on inpu
-t line 62.
+<use temi-esame.pdf, page 31>
+Package pdftex.def Info: temi-esame.pdf , page31 used on input line 31. on inpu
+t line 31.
 Package pdftex.def Info: Requested size: 597.51228pt x 845.5552pt on input line
- 62.
+ 31.
 File: temi-esame.pdf Graphic file (type pdf)
-<use temi-esame.pdf, page 32>
-Package pdftex.def Info: temi-esame.pdf , page32 used on input line 62. on inpu
-t line 62.
+<use temi-esame.pdf, page 31>
+Package pdftex.def Info: temi-esame.pdf , page31 used on input line 31. on inpu
+t line 31.
 Package pdftex.def Info: Requested size: 597.51228pt x 845.5552pt on input line
- 62.
+ 31.
 [57 <./temi-esame.pdf>]
 
 pdfTeX warning: /usr/bin/pdflatex (file ./temi-esame.pdf): PDF inclusion: found
  PDF version <1.7>, but at most version <1.5> allowed
-<temi-esame.pdf, id=992, page=33, pagebox=cropbox, 614.295pt x 794.97pt>
+<temi-esame.pdf, id=594, page=32, pagebox=cropbox, 597.23125pt x 845.1575pt>
 File: temi-esame.pdf Graphic file (type pdf)
-<use temi-esame.pdf, page 33>
-Package pdftex.def Info: temi-esame.pdf , page33 used on input line 62. on inpu
-t line 62.
-Package pdftex.def Info: Requested size: 614.58406pt x 795.3441pt on input line
- 62.
+<use temi-esame.pdf, page 32>
+Package pdftex.def Info: temi-esame.pdf , page32 used on input line 31. on inpu
+t line 31.
+Package pdftex.def Info: Requested size: 597.51228pt x 845.5552pt on input line
+ 31.
 File: temi-esame.pdf Graphic file (type pdf)
-<use temi-esame.pdf, page 33>
-Package pdftex.def Info: temi-esame.pdf , page33 used on input line 62. on inpu
-t line 62.
-Package pdftex.def Info: Requested size: 614.58406pt x 795.3441pt on input line
- 62.
+<use temi-esame.pdf, page 32>
+Package pdftex.def Info: temi-esame.pdf , page32 used on input line 31. on inpu
+t line 31.
+Package pdftex.def Info: Requested size: 597.51228pt x 845.5552pt on input line
+ 31.
 File: temi-esame.pdf Graphic file (type pdf)
-<use temi-esame.pdf, page 33>
-Package pdftex.def Info: temi-esame.pdf , page33 used on input line 62. on inpu
-t line 62.
-Package pdftex.def Info: Requested size: 614.58406pt x 795.3441pt on input line
- 62.
+<use temi-esame.pdf, page 32>
+Package pdftex.def Info: temi-esame.pdf , page32 used on input line 31. on inpu
+t line 31.
+Package pdftex.def Info: Requested size: 597.51228pt x 845.5552pt on input line
+ 31.
 [58 <./temi-esame.pdf>]
 
 pdfTeX warning: /usr/bin/pdflatex (file ./temi-esame.pdf): PDF inclusion: found
  PDF version <1.7>, but at most version <1.5> allowed
-<temi-esame.pdf, id=1033, page=34, pagebox=cropbox, 597.23125pt x 845.1575pt>
+<temi-esame.pdf, id=599, page=33, pagebox=cropbox, 614.295pt x 794.97pt>
 File: temi-esame.pdf Graphic file (type pdf)
-<use temi-esame.pdf, page 34>
-Package pdftex.def Info: temi-esame.pdf , page34 used on input line 62. on inpu
-t line 62.
-Package pdftex.def Info: Requested size: 597.51228pt x 845.5552pt on input line
- 62.
+<use temi-esame.pdf, page 33>
+Package pdftex.def Info: temi-esame.pdf , page33 used on input line 31. on inpu
+t line 31.
+Package pdftex.def Info: Requested size: 614.58406pt x 795.3441pt on input line
+ 31.
 File: temi-esame.pdf Graphic file (type pdf)
-<use temi-esame.pdf, page 34>
-Package pdftex.def Info: temi-esame.pdf , page34 used on input line 62. on inpu
-t line 62.
-Package pdftex.def Info: Requested size: 597.51228pt x 845.5552pt on input line
- 62.
+<use temi-esame.pdf, page 33>
+Package pdftex.def Info: temi-esame.pdf , page33 used on input line 31. on inpu
+t line 31.
+Package pdftex.def Info: Requested size: 614.58406pt x 795.3441pt on input line
+ 31.
 File: temi-esame.pdf Graphic file (type pdf)
-<use temi-esame.pdf, page 34>
-Package pdftex.def Info: temi-esame.pdf , page34 used on input line 62. on inpu
-t line 62.
-Package pdftex.def Info: Requested size: 597.51228pt x 845.5552pt on input line
- 62.
+<use temi-esame.pdf, page 33>
+Package pdftex.def Info: temi-esame.pdf , page33 used on input line 31. on inpu
+t line 31.
+Package pdftex.def Info: Requested size: 614.58406pt x 795.3441pt on input line
+ 31.
 [59 <./temi-esame.pdf>]
 
 pdfTeX warning: /usr/bin/pdflatex (file ./temi-esame.pdf): PDF inclusion: found
  PDF version <1.7>, but at most version <1.5> allowed
-<temi-esame.pdf, id=1039, page=35, pagebox=cropbox, 597.23125pt x 845.1575pt>
+<temi-esame.pdf, id=639, page=34, pagebox=cropbox, 597.23125pt x 845.1575pt>
 File: temi-esame.pdf Graphic file (type pdf)
-<use temi-esame.pdf, page 35>
-Package pdftex.def Info: temi-esame.pdf , page35 used on input line 62. on inpu
-t line 62.
+<use temi-esame.pdf, page 34>
+Package pdftex.def Info: temi-esame.pdf , page34 used on input line 31. on inpu
+t line 31.
 Package pdftex.def Info: Requested size: 597.51228pt x 845.5552pt on input line
- 62.
+ 31.
 File: temi-esame.pdf Graphic file (type pdf)
-<use temi-esame.pdf, page 35>
-Package pdftex.def Info: temi-esame.pdf , page35 used on input line 62. on inpu
-t line 62.
+<use temi-esame.pdf, page 34>
+Package pdftex.def Info: temi-esame.pdf , page34 used on input line 31. on inpu
+t line 31.
 Package pdftex.def Info: Requested size: 597.51228pt x 845.5552pt on input line
- 62.
+ 31.
 File: temi-esame.pdf Graphic file (type pdf)
-<use temi-esame.pdf, page 35>
-Package pdftex.def Info: temi-esame.pdf , page35 used on input line 62. on inpu
-t line 62.
+<use temi-esame.pdf, page 34>
+Package pdftex.def Info: temi-esame.pdf , page34 used on input line 31. on inpu
+t line 31.
 Package pdftex.def Info: Requested size: 597.51228pt x 845.5552pt on input line
- 62.
+ 31.
 [60 <./temi-esame.pdf>]
 
 pdfTeX warning: /usr/bin/pdflatex (file ./temi-esame.pdf): PDF inclusion: found
  PDF version <1.7>, but at most version <1.5> allowed
-<temi-esame.pdf, id=1045, page=36, pagebox=cropbox, 597.23125pt x 845.1575pt>
+<temi-esame.pdf, id=645, page=35, pagebox=cropbox, 597.23125pt x 845.1575pt>
 File: temi-esame.pdf Graphic file (type pdf)
-<use temi-esame.pdf, page 36>
-Package pdftex.def Info: temi-esame.pdf , page36 used on input line 62. on inpu
-t line 62.
+<use temi-esame.pdf, page 35>
+Package pdftex.def Info: temi-esame.pdf , page35 used on input line 31. on inpu
+t line 31.
 Package pdftex.def Info: Requested size: 597.51228pt x 845.5552pt on input line
- 62.
+ 31.
 File: temi-esame.pdf Graphic file (type pdf)
-<use temi-esame.pdf, page 36>
-Package pdftex.def Info: temi-esame.pdf , page36 used on input line 62. on inpu
-t line 62.
+<use temi-esame.pdf, page 35>
+Package pdftex.def Info: temi-esame.pdf , page35 used on input line 31. on inpu
+t line 31.
 Package pdftex.def Info: Requested size: 597.51228pt x 845.5552pt on input line
- 62.
+ 31.
 File: temi-esame.pdf Graphic file (type pdf)
-<use temi-esame.pdf, page 36>
-Package pdftex.def Info: temi-esame.pdf , page36 used on input line 62. on inpu
-t line 62.
+<use temi-esame.pdf, page 35>
+Package pdftex.def Info: temi-esame.pdf , page35 used on input line 31. on inpu
+t line 31.
 Package pdftex.def Info: Requested size: 597.51228pt x 845.5552pt on input line
- 62.
+ 31.
 [61 <./temi-esame.pdf>]
 
 pdfTeX warning: /usr/bin/pdflatex (file ./temi-esame.pdf): PDF inclusion: found
  PDF version <1.7>, but at most version <1.5> allowed
-<temi-esame.pdf, id=1052, page=37, pagebox=cropbox, 597.23125pt x 845.1575pt>
+<temi-esame.pdf, id=651, page=36, pagebox=cropbox, 597.23125pt x 845.1575pt>
 File: temi-esame.pdf Graphic file (type pdf)
-<use temi-esame.pdf, page 37>
-Package pdftex.def Info: temi-esame.pdf , page37 used on input line 62. on inpu
-t line 62.
+<use temi-esame.pdf, page 36>
+Package pdftex.def Info: temi-esame.pdf , page36 used on input line 31. on inpu
+t line 31.
 Package pdftex.def Info: Requested size: 597.51228pt x 845.5552pt on input line
- 62.
+ 31.
 File: temi-esame.pdf Graphic file (type pdf)
-<use temi-esame.pdf, page 37>
-Package pdftex.def Info: temi-esame.pdf , page37 used on input line 62. on inpu
-t line 62.
+<use temi-esame.pdf, page 36>
+Package pdftex.def Info: temi-esame.pdf , page36 used on input line 31. on inpu
+t line 31.
 Package pdftex.def Info: Requested size: 597.51228pt x 845.5552pt on input line
- 62.
+ 31.
 File: temi-esame.pdf Graphic file (type pdf)
-<use temi-esame.pdf, page 37>
-Package pdftex.def Info: temi-esame.pdf , page37 used on input line 62. on inpu
-t line 62.
+<use temi-esame.pdf, page 36>
+Package pdftex.def Info: temi-esame.pdf , page36 used on input line 31. on inpu
+t line 31.
 Package pdftex.def Info: Requested size: 597.51228pt x 845.5552pt on input line
- 62.
+ 31.
 [62 <./temi-esame.pdf>]
 
 pdfTeX warning: /usr/bin/pdflatex (file ./temi-esame.pdf): PDF inclusion: found
  PDF version <1.7>, but at most version <1.5> allowed
-<temi-esame.pdf, id=1058, page=38, pagebox=cropbox, 614.295pt x 794.97pt>
+<temi-esame.pdf, id=656, page=37, pagebox=cropbox, 597.23125pt x 845.1575pt>
 File: temi-esame.pdf Graphic file (type pdf)
-<use temi-esame.pdf, page 38>
-Package pdftex.def Info: temi-esame.pdf , page38 used on input line 62. on inpu
-t line 62.
-Package pdftex.def Info: Requested size: 614.58406pt x 795.3441pt on input line
- 62.
+<use temi-esame.pdf, page 37>
+Package pdftex.def Info: temi-esame.pdf , page37 used on input line 31. on inpu
+t line 31.
+Package pdftex.def Info: Requested size: 597.51228pt x 845.5552pt on input line
+ 31.
 File: temi-esame.pdf Graphic file (type pdf)
-<use temi-esame.pdf, page 38>
-Package pdftex.def Info: temi-esame.pdf , page38 used on input line 62. on inpu
-t line 62.
-Package pdftex.def Info: Requested size: 614.58406pt x 795.3441pt on input line
- 62.
+<use temi-esame.pdf, page 37>
+Package pdftex.def Info: temi-esame.pdf , page37 used on input line 31. on inpu
+t line 31.
+Package pdftex.def Info: Requested size: 597.51228pt x 845.5552pt on input line
+ 31.
 File: temi-esame.pdf Graphic file (type pdf)
-<use temi-esame.pdf, page 38>
-Package pdftex.def Info: temi-esame.pdf , page38 used on input line 62. on inpu
-t line 62.
-Package pdftex.def Info: Requested size: 614.58406pt x 795.3441pt on input line
- 62.
+<use temi-esame.pdf, page 37>
+Package pdftex.def Info: temi-esame.pdf , page37 used on input line 31. on inpu
+t line 31.
+Package pdftex.def Info: Requested size: 597.51228pt x 845.5552pt on input line
+ 31.
 [63 <./temi-esame.pdf>]
 
 pdfTeX warning: /usr/bin/pdflatex (file ./temi-esame.pdf): PDF inclusion: found
  PDF version <1.7>, but at most version <1.5> allowed
-<temi-esame.pdf, id=1100, page=39, pagebox=cropbox, 597.23125pt x 845.1575pt>
+<temi-esame.pdf, id=661, page=38, pagebox=cropbox, 614.295pt x 794.97pt>
 File: temi-esame.pdf Graphic file (type pdf)
-<use temi-esame.pdf, page 39>
-Package pdftex.def Info: temi-esame.pdf , page39 used on input line 62. on inpu
-t line 62.
-Package pdftex.def Info: Requested size: 597.51228pt x 845.5552pt on input line
- 62.
+<use temi-esame.pdf, page 38>
+Package pdftex.def Info: temi-esame.pdf , page38 used on input line 31. on inpu
+t line 31.
+Package pdftex.def Info: Requested size: 614.58406pt x 795.3441pt on input line
+ 31.
 File: temi-esame.pdf Graphic file (type pdf)
-<use temi-esame.pdf, page 39>
-Package pdftex.def Info: temi-esame.pdf , page39 used on input line 62. on inpu
-t line 62.
-Package pdftex.def Info: Requested size: 597.51228pt x 845.5552pt on input line
- 62.
+<use temi-esame.pdf, page 38>
+Package pdftex.def Info: temi-esame.pdf , page38 used on input line 31. on inpu
+t line 31.
+Package pdftex.def Info: Requested size: 614.58406pt x 795.3441pt on input line
+ 31.
 File: temi-esame.pdf Graphic file (type pdf)
-<use temi-esame.pdf, page 39>
-Package pdftex.def Info: temi-esame.pdf , page39 used on input line 62. on inpu
-t line 62.
-Package pdftex.def Info: Requested size: 597.51228pt x 845.5552pt on input line
- 62.
+<use temi-esame.pdf, page 38>
+Package pdftex.def Info: temi-esame.pdf , page38 used on input line 31. on inpu
+t line 31.
+Package pdftex.def Info: Requested size: 614.58406pt x 795.3441pt on input line
+ 31.
 [64 <./temi-esame.pdf>]
 
 pdfTeX warning: /usr/bin/pdflatex (file ./temi-esame.pdf): PDF inclusion: found
  PDF version <1.7>, but at most version <1.5> allowed
-<temi-esame.pdf, id=1106, page=40, pagebox=cropbox, 597.23125pt x 845.1575pt>
+<temi-esame.pdf, id=701, page=39, pagebox=cropbox, 597.23125pt x 845.1575pt>
 File: temi-esame.pdf Graphic file (type pdf)
-<use temi-esame.pdf, page 40>
-Package pdftex.def Info: temi-esame.pdf , page40 used on input line 62. on inpu
-t line 62.
+<use temi-esame.pdf, page 39>
+Package pdftex.def Info: temi-esame.pdf , page39 used on input line 31. on inpu
+t line 31.
 Package pdftex.def Info: Requested size: 597.51228pt x 845.5552pt on input line
- 62.
+ 31.
 File: temi-esame.pdf Graphic file (type pdf)
-<use temi-esame.pdf, page 40>
-Package pdftex.def Info: temi-esame.pdf , page40 used on input line 62. on inpu
-t line 62.
+<use temi-esame.pdf, page 39>
+Package pdftex.def Info: temi-esame.pdf , page39 used on input line 31. on inpu
+t line 31.
 Package pdftex.def Info: Requested size: 597.51228pt x 845.5552pt on input line
- 62.
+ 31.
 File: temi-esame.pdf Graphic file (type pdf)
-<use temi-esame.pdf, page 40>
-Package pdftex.def Info: temi-esame.pdf , page40 used on input line 62. on inpu
-t line 62.
+<use temi-esame.pdf, page 39>
+Package pdftex.def Info: temi-esame.pdf , page39 used on input line 31. on inpu
+t line 31.
 Package pdftex.def Info: Requested size: 597.51228pt x 845.5552pt on input line
- 62.
+ 31.
 [65 <./temi-esame.pdf>]
 
 pdfTeX warning: /usr/bin/pdflatex (file ./temi-esame.pdf): PDF inclusion: found
  PDF version <1.7>, but at most version <1.5> allowed
-<temi-esame.pdf, id=1112, page=41, pagebox=cropbox, 597.23125pt x 845.1575pt>
+<temi-esame.pdf, id=706, page=40, pagebox=cropbox, 597.23125pt x 845.1575pt>
 File: temi-esame.pdf Graphic file (type pdf)
-<use temi-esame.pdf, page 41>
-Package pdftex.def Info: temi-esame.pdf , page41 used on input line 62. on inpu
-t line 62.
+<use temi-esame.pdf, page 40>
+Package pdftex.def Info: temi-esame.pdf , page40 used on input line 31. on inpu
+t line 31.
 Package pdftex.def Info: Requested size: 597.51228pt x 845.5552pt on input line
- 62.
+ 31.
 File: temi-esame.pdf Graphic file (type pdf)
-<use temi-esame.pdf, page 41>
-Package pdftex.def Info: temi-esame.pdf , page41 used on input line 62. on inpu
-t line 62.
+<use temi-esame.pdf, page 40>
+Package pdftex.def Info: temi-esame.pdf , page40 used on input line 31. on inpu
+t line 31.
 Package pdftex.def Info: Requested size: 597.51228pt x 845.5552pt on input line
- 62.
+ 31.
 File: temi-esame.pdf Graphic file (type pdf)
-<use temi-esame.pdf, page 41>
-Package pdftex.def Info: temi-esame.pdf , page41 used on input line 62. on inpu
-t line 62.
+<use temi-esame.pdf, page 40>
+Package pdftex.def Info: temi-esame.pdf , page40 used on input line 31. on inpu
+t line 31.
 Package pdftex.def Info: Requested size: 597.51228pt x 845.5552pt on input line
- 62.
+ 31.
 [66 <./temi-esame.pdf>]
 
 pdfTeX warning: /usr/bin/pdflatex (file ./temi-esame.pdf): PDF inclusion: found
  PDF version <1.7>, but at most version <1.5> allowed
-<temi-esame.pdf, id=1118, page=42, pagebox=cropbox, 597.23125pt x 845.1575pt>
+<temi-esame.pdf, id=711, page=41, pagebox=cropbox, 597.23125pt x 845.1575pt>
 File: temi-esame.pdf Graphic file (type pdf)
-<use temi-esame.pdf, page 42>
-Package pdftex.def Info: temi-esame.pdf , page42 used on input line 62. on inpu
-t line 62.
+<use temi-esame.pdf, page 41>
+Package pdftex.def Info: temi-esame.pdf , page41 used on input line 31. on inpu
+t line 31.
 Package pdftex.def Info: Requested size: 597.51228pt x 845.5552pt on input line
- 62.
+ 31.
 File: temi-esame.pdf Graphic file (type pdf)
-<use temi-esame.pdf, page 42>
-Package pdftex.def Info: temi-esame.pdf , page42 used on input line 62. on inpu
-t line 62.
+<use temi-esame.pdf, page 41>
+Package pdftex.def Info: temi-esame.pdf , page41 used on input line 31. on inpu
+t line 31.
 Package pdftex.def Info: Requested size: 597.51228pt x 845.5552pt on input line
- 62.
+ 31.
 File: temi-esame.pdf Graphic file (type pdf)
-<use temi-esame.pdf, page 42>
-Package pdftex.def Info: temi-esame.pdf , page42 used on input line 62. on inpu
-t line 62.
+<use temi-esame.pdf, page 41>
+Package pdftex.def Info: temi-esame.pdf , page41 used on input line 31. on inpu
+t line 31.
 Package pdftex.def Info: Requested size: 597.51228pt x 845.5552pt on input line
- 62.
+ 31.
 [67 <./temi-esame.pdf>]
 
 pdfTeX warning: /usr/bin/pdflatex (file ./temi-esame.pdf): PDF inclusion: found
  PDF version <1.7>, but at most version <1.5> allowed
-<temi-esame.pdf, id=1125, page=43, pagebox=cropbox, 614.295pt x 794.97pt>
+<temi-esame.pdf, id=717, page=42, pagebox=cropbox, 597.23125pt x 845.1575pt>
 File: temi-esame.pdf Graphic file (type pdf)
-<use temi-esame.pdf, page 43>
-Package pdftex.def Info: temi-esame.pdf , page43 used on input line 62. on inpu
-t line 62.
-Package pdftex.def Info: Requested size: 614.58406pt x 795.3441pt on input line
- 62.
+<use temi-esame.pdf, page 42>
+Package pdftex.def Info: temi-esame.pdf , page42 used on input line 31. on inpu
+t line 31.
+Package pdftex.def Info: Requested size: 597.51228pt x 845.5552pt on input line
+ 31.
 File: temi-esame.pdf Graphic file (type pdf)
-<use temi-esame.pdf, page 43>
-Package pdftex.def Info: temi-esame.pdf , page43 used on input line 62. on inpu
-t line 62.
-Package pdftex.def Info: Requested size: 614.58406pt x 795.3441pt on input line
- 62.
+<use temi-esame.pdf, page 42>
+Package pdftex.def Info: temi-esame.pdf , page42 used on input line 31. on inpu
+t line 31.
+Package pdftex.def Info: Requested size: 597.51228pt x 845.5552pt on input line
+ 31.
 File: temi-esame.pdf Graphic file (type pdf)
-<use temi-esame.pdf, page 43>
-Package pdftex.def Info: temi-esame.pdf , page43 used on input line 62. on inpu
-t line 62.
-Package pdftex.def Info: Requested size: 614.58406pt x 795.3441pt on input line
- 62.
+<use temi-esame.pdf, page 42>
+Package pdftex.def Info: temi-esame.pdf , page42 used on input line 31. on inpu
+t line 31.
+Package pdftex.def Info: Requested size: 597.51228pt x 845.5552pt on input line
+ 31.
 [68 <./temi-esame.pdf>]
 
 pdfTeX warning: /usr/bin/pdflatex (file ./temi-esame.pdf): PDF inclusion: found
  PDF version <1.7>, but at most version <1.5> allowed
-<temi-esame.pdf, id=1166, page=44, pagebox=cropbox, 597.23125pt x 845.1575pt>
+<temi-esame.pdf, id=722, page=43, pagebox=cropbox, 614.295pt x 794.97pt>
 File: temi-esame.pdf Graphic file (type pdf)
-<use temi-esame.pdf, page 44>
-Package pdftex.def Info: temi-esame.pdf , page44 used on input line 62. on inpu
-t line 62.
-Package pdftex.def Info: Requested size: 597.51228pt x 845.5552pt on input line
- 62.
+<use temi-esame.pdf, page 43>
+Package pdftex.def Info: temi-esame.pdf , page43 used on input line 31. on inpu
+t line 31.
+Package pdftex.def Info: Requested size: 614.58406pt x 795.3441pt on input line
+ 31.
 File: temi-esame.pdf Graphic file (type pdf)
-<use temi-esame.pdf, page 44>
-Package pdftex.def Info: temi-esame.pdf , page44 used on input line 62. on inpu
-t line 62.
-Package pdftex.def Info: Requested size: 597.51228pt x 845.5552pt on input line
- 62.
+<use temi-esame.pdf, page 43>
+Package pdftex.def Info: temi-esame.pdf , page43 used on input line 31. on inpu
+t line 31.
+Package pdftex.def Info: Requested size: 614.58406pt x 795.3441pt on input line
+ 31.
 File: temi-esame.pdf Graphic file (type pdf)
-<use temi-esame.pdf, page 44>
-Package pdftex.def Info: temi-esame.pdf , page44 used on input line 62. on inpu
-t line 62.
-Package pdftex.def Info: Requested size: 597.51228pt x 845.5552pt on input line
- 62.
+<use temi-esame.pdf, page 43>
+Package pdftex.def Info: temi-esame.pdf , page43 used on input line 31. on inpu
+t line 31.
+Package pdftex.def Info: Requested size: 614.58406pt x 795.3441pt on input line
+ 31.
 [69 <./temi-esame.pdf>]
 
 pdfTeX warning: /usr/bin/pdflatex (file ./temi-esame.pdf): PDF inclusion: found
  PDF version <1.7>, but at most version <1.5> allowed
-<temi-esame.pdf, id=1172, page=45, pagebox=cropbox, 597.23125pt x 845.1575pt>
+<temi-esame.pdf, id=762, page=44, pagebox=cropbox, 597.23125pt x 845.1575pt>
 File: temi-esame.pdf Graphic file (type pdf)
-<use temi-esame.pdf, page 45>
-Package pdftex.def Info: temi-esame.pdf , page45 used on input line 62. on inpu
-t line 62.
+<use temi-esame.pdf, page 44>
+Package pdftex.def Info: temi-esame.pdf , page44 used on input line 31. on inpu
+t line 31.
 Package pdftex.def Info: Requested size: 597.51228pt x 845.5552pt on input line
- 62.
+ 31.
 File: temi-esame.pdf Graphic file (type pdf)
-<use temi-esame.pdf, page 45>
-Package pdftex.def Info: temi-esame.pdf , page45 used on input line 62. on inpu
-t line 62.
+<use temi-esame.pdf, page 44>
+Package pdftex.def Info: temi-esame.pdf , page44 used on input line 31. on inpu
+t line 31.
 Package pdftex.def Info: Requested size: 597.51228pt x 845.5552pt on input line
- 62.
+ 31.
 File: temi-esame.pdf Graphic file (type pdf)
-<use temi-esame.pdf, page 45>
-Package pdftex.def Info: temi-esame.pdf , page45 used on input line 62. on inpu
-t line 62.
+<use temi-esame.pdf, page 44>
+Package pdftex.def Info: temi-esame.pdf , page44 used on input line 31. on inpu
+t line 31.
 Package pdftex.def Info: Requested size: 597.51228pt x 845.5552pt on input line
- 62.
+ 31.
 [70 <./temi-esame.pdf>]
 
 pdfTeX warning: /usr/bin/pdflatex (file ./temi-esame.pdf): PDF inclusion: found
  PDF version <1.7>, but at most version <1.5> allowed
-<temi-esame.pdf, id=1178, page=46, pagebox=cropbox, 597.23125pt x 845.1575pt>
+<temi-esame.pdf, id=767, page=45, pagebox=cropbox, 597.23125pt x 845.1575pt>
 File: temi-esame.pdf Graphic file (type pdf)
-<use temi-esame.pdf, page 46>
-Package pdftex.def Info: temi-esame.pdf , page46 used on input line 62. on inpu
-t line 62.
+<use temi-esame.pdf, page 45>
+Package pdftex.def Info: temi-esame.pdf , page45 used on input line 31. on inpu
+t line 31.
 Package pdftex.def Info: Requested size: 597.51228pt x 845.5552pt on input line
- 62.
+ 31.
 File: temi-esame.pdf Graphic file (type pdf)
-<use temi-esame.pdf, page 46>
-Package pdftex.def Info: temi-esame.pdf , page46 used on input line 62. on inpu
-t line 62.
+<use temi-esame.pdf, page 45>
+Package pdftex.def Info: temi-esame.pdf , page45 used on input line 31. on inpu
+t line 31.
 Package pdftex.def Info: Requested size: 597.51228pt x 845.5552pt on input line
- 62.
+ 31.
 File: temi-esame.pdf Graphic file (type pdf)
-<use temi-esame.pdf, page 46>
-Package pdftex.def Info: temi-esame.pdf , page46 used on input line 62. on inpu
-t line 62.
+<use temi-esame.pdf, page 45>
+Package pdftex.def Info: temi-esame.pdf , page45 used on input line 31. on inpu
+t line 31.
 Package pdftex.def Info: Requested size: 597.51228pt x 845.5552pt on input line
- 62.
+ 31.
 [71 <./temi-esame.pdf>]
 
 pdfTeX warning: /usr/bin/pdflatex (file ./temi-esame.pdf): PDF inclusion: found
  PDF version <1.7>, but at most version <1.5> allowed
-<temi-esame.pdf, id=1184, page=47, pagebox=cropbox, 597.23125pt x 845.1575pt>
+<temi-esame.pdf, id=772, page=46, pagebox=cropbox, 597.23125pt x 845.1575pt>
 File: temi-esame.pdf Graphic file (type pdf)
-<use temi-esame.pdf, page 47>
-Package pdftex.def Info: temi-esame.pdf , page47 used on input line 62. on inpu
-t line 62.
+<use temi-esame.pdf, page 46>
+Package pdftex.def Info: temi-esame.pdf , page46 used on input line 31. on inpu
+t line 31.
 Package pdftex.def Info: Requested size: 597.51228pt x 845.5552pt on input line
- 62.
+ 31.
 File: temi-esame.pdf Graphic file (type pdf)
-<use temi-esame.pdf, page 47>
-Package pdftex.def Info: temi-esame.pdf , page47 used on input line 62. on inpu
-t line 62.
+<use temi-esame.pdf, page 46>
+Package pdftex.def Info: temi-esame.pdf , page46 used on input line 31. on inpu
+t line 31.
 Package pdftex.def Info: Requested size: 597.51228pt x 845.5552pt on input line
- 62.
+ 31.
 File: temi-esame.pdf Graphic file (type pdf)
-<use temi-esame.pdf, page 47>
-Package pdftex.def Info: temi-esame.pdf , page47 used on input line 62. on inpu
-t line 62.
+<use temi-esame.pdf, page 46>
+Package pdftex.def Info: temi-esame.pdf , page46 used on input line 31. on inpu
+t line 31.
 Package pdftex.def Info: Requested size: 597.51228pt x 845.5552pt on input line
- 62.
+ 31.
 [72 <./temi-esame.pdf>]
 
 pdfTeX warning: /usr/bin/pdflatex (file ./temi-esame.pdf): PDF inclusion: found
  PDF version <1.7>, but at most version <1.5> allowed
-<temi-esame.pdf, id=1190, page=48, pagebox=cropbox, 597.23125pt x 845.1575pt>
+<temi-esame.pdf, id=777, page=47, pagebox=cropbox, 597.23125pt x 845.1575pt>
 File: temi-esame.pdf Graphic file (type pdf)
-<use temi-esame.pdf, page 48>
-Package pdftex.def Info: temi-esame.pdf , page48 used on input line 62. on inpu
-t line 62.
+<use temi-esame.pdf, page 47>
+Package pdftex.def Info: temi-esame.pdf , page47 used on input line 31. on inpu
+t line 31.
 Package pdftex.def Info: Requested size: 597.51228pt x 845.5552pt on input line
- 62.
+ 31.
 File: temi-esame.pdf Graphic file (type pdf)
-<use temi-esame.pdf, page 48>
-Package pdftex.def Info: temi-esame.pdf , page48 used on input line 62. on inpu
-t line 62.
+<use temi-esame.pdf, page 47>
+Package pdftex.def Info: temi-esame.pdf , page47 used on input line 31. on inpu
+t line 31.
 Package pdftex.def Info: Requested size: 597.51228pt x 845.5552pt on input line
- 62.
+ 31.
 File: temi-esame.pdf Graphic file (type pdf)
-<use temi-esame.pdf, page 48>
-Package pdftex.def Info: temi-esame.pdf , page48 used on input line 62. on inpu
-t line 62.
+<use temi-esame.pdf, page 47>
+Package pdftex.def Info: temi-esame.pdf , page47 used on input line 31. on inpu
+t line 31.
 Package pdftex.def Info: Requested size: 597.51228pt x 845.5552pt on input line
- 62.
+ 31.
 [73 <./temi-esame.pdf>]
 
 pdfTeX warning: /usr/bin/pdflatex (file ./temi-esame.pdf): PDF inclusion: found
  PDF version <1.7>, but at most version <1.5> allowed
-<temi-esame.pdf, id=1197, page=49, pagebox=cropbox, 614.295pt x 794.97pt>
+<temi-esame.pdf, id=783, page=48, pagebox=cropbox, 597.23125pt x 845.1575pt>
 File: temi-esame.pdf Graphic file (type pdf)
-<use temi-esame.pdf, page 49>
-Package pdftex.def Info: temi-esame.pdf , page49 used on input line 62. on inpu
-t line 62.
-Package pdftex.def Info: Requested size: 614.58406pt x 795.3441pt on input line
- 62.
+<use temi-esame.pdf, page 48>
+Package pdftex.def Info: temi-esame.pdf , page48 used on input line 31. on inpu
+t line 31.
+Package pdftex.def Info: Requested size: 597.51228pt x 845.5552pt on input line
+ 31.
 File: temi-esame.pdf Graphic file (type pdf)
-<use temi-esame.pdf, page 49>
-Package pdftex.def Info: temi-esame.pdf , page49 used on input line 62. on inpu
-t line 62.
-Package pdftex.def Info: Requested size: 614.58406pt x 795.3441pt on input line
- 62.
+<use temi-esame.pdf, page 48>
+Package pdftex.def Info: temi-esame.pdf , page48 used on input line 31. on inpu
+t line 31.
+Package pdftex.def Info: Requested size: 597.51228pt x 845.5552pt on input line
+ 31.
 File: temi-esame.pdf Graphic file (type pdf)
-<use temi-esame.pdf, page 49>
-Package pdftex.def Info: temi-esame.pdf , page49 used on input line 62. on inpu
-t line 62.
-Package pdftex.def Info: Requested size: 614.58406pt x 795.3441pt on input line
- 62.
+<use temi-esame.pdf, page 48>
+Package pdftex.def Info: temi-esame.pdf , page48 used on input line 31. on inpu
+t line 31.
+Package pdftex.def Info: Requested size: 597.51228pt x 845.5552pt on input line
+ 31.
 [74 <./temi-esame.pdf>]
 
 pdfTeX warning: /usr/bin/pdflatex (file ./temi-esame.pdf): PDF inclusion: found
  PDF version <1.7>, but at most version <1.5> allowed
-<temi-esame.pdf, id=1238, page=50, pagebox=cropbox, 597.23125pt x 845.1575pt>
+<temi-esame.pdf, id=788, page=49, pagebox=cropbox, 614.295pt x 794.97pt>
 File: temi-esame.pdf Graphic file (type pdf)
-<use temi-esame.pdf, page 50>
-Package pdftex.def Info: temi-esame.pdf , page50 used on input line 62. on inpu
-t line 62.
-Package pdftex.def Info: Requested size: 597.51228pt x 845.5552pt on input line
- 62.
+<use temi-esame.pdf, page 49>
+Package pdftex.def Info: temi-esame.pdf , page49 used on input line 31. on inpu
+t line 31.
+Package pdftex.def Info: Requested size: 614.58406pt x 795.3441pt on input line
+ 31.
 File: temi-esame.pdf Graphic file (type pdf)
-<use temi-esame.pdf, page 50>
-Package pdftex.def Info: temi-esame.pdf , page50 used on input line 62. on inpu
-t line 62.
-Package pdftex.def Info: Requested size: 597.51228pt x 845.5552pt on input line
- 62.
+<use temi-esame.pdf, page 49>
+Package pdftex.def Info: temi-esame.pdf , page49 used on input line 31. on inpu
+t line 31.
+Package pdftex.def Info: Requested size: 614.58406pt x 795.3441pt on input line
+ 31.
 File: temi-esame.pdf Graphic file (type pdf)
-<use temi-esame.pdf, page 50>
-Package pdftex.def Info: temi-esame.pdf , page50 used on input line 62. on inpu
-t line 62.
-Package pdftex.def Info: Requested size: 597.51228pt x 845.5552pt on input line
- 62.
+<use temi-esame.pdf, page 49>
+Package pdftex.def Info: temi-esame.pdf , page49 used on input line 31. on inpu
+t line 31.
+Package pdftex.def Info: Requested size: 614.58406pt x 795.3441pt on input line
+ 31.
 [75 <./temi-esame.pdf>]
 
 pdfTeX warning: /usr/bin/pdflatex (file ./temi-esame.pdf): PDF inclusion: found
  PDF version <1.7>, but at most version <1.5> allowed
-<temi-esame.pdf, id=1244, page=51, pagebox=cropbox, 597.23125pt x 845.1575pt>
+<temi-esame.pdf, id=828, page=50, pagebox=cropbox, 597.23125pt x 845.1575pt>
 File: temi-esame.pdf Graphic file (type pdf)
-<use temi-esame.pdf, page 51>
-Package pdftex.def Info: temi-esame.pdf , page51 used on input line 62. on inpu
-t line 62.
+<use temi-esame.pdf, page 50>
+Package pdftex.def Info: temi-esame.pdf , page50 used on input line 31. on inpu
+t line 31.
 Package pdftex.def Info: Requested size: 597.51228pt x 845.5552pt on input line
- 62.
+ 31.
 File: temi-esame.pdf Graphic file (type pdf)
-<use temi-esame.pdf, page 51>
-Package pdftex.def Info: temi-esame.pdf , page51 used on input line 62. on inpu
-t line 62.
+<use temi-esame.pdf, page 50>
+Package pdftex.def Info: temi-esame.pdf , page50 used on input line 31. on inpu
+t line 31.
 Package pdftex.def Info: Requested size: 597.51228pt x 845.5552pt on input line
- 62.
+ 31.
 File: temi-esame.pdf Graphic file (type pdf)
-<use temi-esame.pdf, page 51>
-Package pdftex.def Info: temi-esame.pdf , page51 used on input line 62. on inpu
-t line 62.
+<use temi-esame.pdf, page 50>
+Package pdftex.def Info: temi-esame.pdf , page50 used on input line 31. on inpu
+t line 31.
 Package pdftex.def Info: Requested size: 597.51228pt x 845.5552pt on input line
- 62.
+ 31.
 [76 <./temi-esame.pdf>]
 
 pdfTeX warning: /usr/bin/pdflatex (file ./temi-esame.pdf): PDF inclusion: found
  PDF version <1.7>, but at most version <1.5> allowed
-<temi-esame.pdf, id=1250, page=52, pagebox=cropbox, 597.23125pt x 845.1575pt>
+<temi-esame.pdf, id=833, page=51, pagebox=cropbox, 597.23125pt x 845.1575pt>
 File: temi-esame.pdf Graphic file (type pdf)
-<use temi-esame.pdf, page 52>
-Package pdftex.def Info: temi-esame.pdf , page52 used on input line 62. on inpu
-t line 62.
+<use temi-esame.pdf, page 51>
+Package pdftex.def Info: temi-esame.pdf , page51 used on input line 31. on inpu
+t line 31.
 Package pdftex.def Info: Requested size: 597.51228pt x 845.5552pt on input line
- 62.
+ 31.
 File: temi-esame.pdf Graphic file (type pdf)
-<use temi-esame.pdf, page 52>
-Package pdftex.def Info: temi-esame.pdf , page52 used on input line 62. on inpu
-t line 62.
+<use temi-esame.pdf, page 51>
+Package pdftex.def Info: temi-esame.pdf , page51 used on input line 31. on inpu
+t line 31.
 Package pdftex.def Info: Requested size: 597.51228pt x 845.5552pt on input line
- 62.
+ 31.
 File: temi-esame.pdf Graphic file (type pdf)
-<use temi-esame.pdf, page 52>
-Package pdftex.def Info: temi-esame.pdf , page52 used on input line 62. on inpu
-t line 62.
+<use temi-esame.pdf, page 51>
+Package pdftex.def Info: temi-esame.pdf , page51 used on input line 31. on inpu
+t line 31.
 Package pdftex.def Info: Requested size: 597.51228pt x 845.5552pt on input line
- 62.
+ 31.
 [77 <./temi-esame.pdf>]
 
 pdfTeX warning: /usr/bin/pdflatex (file ./temi-esame.pdf): PDF inclusion: found
  PDF version <1.7>, but at most version <1.5> allowed
-<temi-esame.pdf, id=1256, page=53, pagebox=cropbox, 597.23125pt x 845.1575pt>
+<temi-esame.pdf, id=838, page=52, pagebox=cropbox, 597.23125pt x 845.1575pt>
 File: temi-esame.pdf Graphic file (type pdf)
-<use temi-esame.pdf, page 53>
-Package pdftex.def Info: temi-esame.pdf , page53 used on input line 62. on inpu
-t line 62.
+<use temi-esame.pdf, page 52>
+Package pdftex.def Info: temi-esame.pdf , page52 used on input line 31. on inpu
+t line 31.
 Package pdftex.def Info: Requested size: 597.51228pt x 845.5552pt on input line
- 62.
+ 31.
 File: temi-esame.pdf Graphic file (type pdf)
-<use temi-esame.pdf, page 53>
-Package pdftex.def Info: temi-esame.pdf , page53 used on input line 62. on inpu
-t line 62.
+<use temi-esame.pdf, page 52>
+Package pdftex.def Info: temi-esame.pdf , page52 used on input line 31. on inpu
+t line 31.
 Package pdftex.def Info: Requested size: 597.51228pt x 845.5552pt on input line
- 62.
+ 31.
 File: temi-esame.pdf Graphic file (type pdf)
-<use temi-esame.pdf, page 53>
-Package pdftex.def Info: temi-esame.pdf , page53 used on input line 62. on inpu
-t line 62.
+<use temi-esame.pdf, page 52>
+Package pdftex.def Info: temi-esame.pdf , page52 used on input line 31. on inpu
+t line 31.
 Package pdftex.def Info: Requested size: 597.51228pt x 845.5552pt on input line
- 62.
+ 31.
 [78 <./temi-esame.pdf>]
 
 pdfTeX warning: /usr/bin/pdflatex (file ./temi-esame.pdf): PDF inclusion: found
  PDF version <1.7>, but at most version <1.5> allowed
-<temi-esame.pdf, id=1262, page=54, pagebox=cropbox, 614.295pt x 794.97pt>
+<temi-esame.pdf, id=843, page=53, pagebox=cropbox, 597.23125pt x 845.1575pt>
 File: temi-esame.pdf Graphic file (type pdf)
-<use temi-esame.pdf, page 54>
-Package pdftex.def Info: temi-esame.pdf , page54 used on input line 62. on inpu
-t line 62.
-Package pdftex.def Info: Requested size: 614.58406pt x 795.3441pt on input line
- 62.
+<use temi-esame.pdf, page 53>
+Package pdftex.def Info: temi-esame.pdf , page53 used on input line 31. on inpu
+t line 31.
+Package pdftex.def Info: Requested size: 597.51228pt x 845.5552pt on input line
+ 31.
 File: temi-esame.pdf Graphic file (type pdf)
-<use temi-esame.pdf, page 54>
-Package pdftex.def Info: temi-esame.pdf , page54 used on input line 62. on inpu
-t line 62.
-Package pdftex.def Info: Requested size: 614.58406pt x 795.3441pt on input line
- 62.
+<use temi-esame.pdf, page 53>
+Package pdftex.def Info: temi-esame.pdf , page53 used on input line 31. on inpu
+t line 31.
+Package pdftex.def Info: Requested size: 597.51228pt x 845.5552pt on input line
+ 31.
 File: temi-esame.pdf Graphic file (type pdf)
-<use temi-esame.pdf, page 54>
-Package pdftex.def Info: temi-esame.pdf , page54 used on input line 62. on inpu
-t line 62.
-Package pdftex.def Info: Requested size: 614.58406pt x 795.3441pt on input line
- 62.
+<use temi-esame.pdf, page 53>
+Package pdftex.def Info: temi-esame.pdf , page53 used on input line 31. on inpu
+t line 31.
+Package pdftex.def Info: Requested size: 597.51228pt x 845.5552pt on input line
+ 31.
 [79 <./temi-esame.pdf>]
 
 pdfTeX warning: /usr/bin/pdflatex (file ./temi-esame.pdf): PDF inclusion: found
  PDF version <1.7>, but at most version <1.5> allowed
-<temi-esame.pdf, id=1307, page=55, pagebox=cropbox, 597.23125pt x 845.1575pt>
+<temi-esame.pdf, id=849, page=54, pagebox=cropbox, 614.295pt x 794.97pt>
 File: temi-esame.pdf Graphic file (type pdf)
-<use temi-esame.pdf, page 55>
-Package pdftex.def Info: temi-esame.pdf , page55 used on input line 62. on inpu
-t line 62.
-Package pdftex.def Info: Requested size: 597.51228pt x 845.5552pt on input line
- 62.
+<use temi-esame.pdf, page 54>
+Package pdftex.def Info: temi-esame.pdf , page54 used on input line 31. on inpu
+t line 31.
+Package pdftex.def Info: Requested size: 614.58406pt x 795.3441pt on input line
+ 31.
 File: temi-esame.pdf Graphic file (type pdf)
-<use temi-esame.pdf, page 55>
-Package pdftex.def Info: temi-esame.pdf , page55 used on input line 62. on inpu
-t line 62.
-Package pdftex.def Info: Requested size: 597.51228pt x 845.5552pt on input line
- 62.
+<use temi-esame.pdf, page 54>
+Package pdftex.def Info: temi-esame.pdf , page54 used on input line 31. on inpu
+t line 31.
+Package pdftex.def Info: Requested size: 614.58406pt x 795.3441pt on input line
+ 31.
 File: temi-esame.pdf Graphic file (type pdf)
-<use temi-esame.pdf, page 55>
-Package pdftex.def Info: temi-esame.pdf , page55 used on input line 62. on inpu
-t line 62.
-Package pdftex.def Info: Requested size: 597.51228pt x 845.5552pt on input line
- 62.
+<use temi-esame.pdf, page 54>
+Package pdftex.def Info: temi-esame.pdf , page54 used on input line 31. on inpu
+t line 31.
+Package pdftex.def Info: Requested size: 614.58406pt x 795.3441pt on input line
+ 31.
 [80 <./temi-esame.pdf>]
 
 pdfTeX warning: /usr/bin/pdflatex (file ./temi-esame.pdf): PDF inclusion: found
  PDF version <1.7>, but at most version <1.5> allowed
-<temi-esame.pdf, id=1313, page=56, pagebox=cropbox, 597.23125pt x 845.1575pt>
+<temi-esame.pdf, id=892, page=55, pagebox=cropbox, 597.23125pt x 845.1575pt>
 File: temi-esame.pdf Graphic file (type pdf)
-<use temi-esame.pdf, page 56>
-Package pdftex.def Info: temi-esame.pdf , page56 used on input line 62. on inpu
-t line 62.
+<use temi-esame.pdf, page 55>
+Package pdftex.def Info: temi-esame.pdf , page55 used on input line 31. on inpu
+t line 31.
 Package pdftex.def Info: Requested size: 597.51228pt x 845.5552pt on input line
- 62.
+ 31.
 File: temi-esame.pdf Graphic file (type pdf)
-<use temi-esame.pdf, page 56>
-Package pdftex.def Info: temi-esame.pdf , page56 used on input line 62. on inpu
-t line 62.
+<use temi-esame.pdf, page 55>
+Package pdftex.def Info: temi-esame.pdf , page55 used on input line 31. on inpu
+t line 31.
 Package pdftex.def Info: Requested size: 597.51228pt x 845.5552pt on input line
- 62.
+ 31.
 File: temi-esame.pdf Graphic file (type pdf)
-<use temi-esame.pdf, page 56>
-Package pdftex.def Info: temi-esame.pdf , page56 used on input line 62. on inpu
-t line 62.
+<use temi-esame.pdf, page 55>
+Package pdftex.def Info: temi-esame.pdf , page55 used on input line 31. on inpu
+t line 31.
 Package pdftex.def Info: Requested size: 597.51228pt x 845.5552pt on input line
- 62.
+ 31.
 [81 <./temi-esame.pdf>]
 
 pdfTeX warning: /usr/bin/pdflatex (file ./temi-esame.pdf): PDF inclusion: found
  PDF version <1.7>, but at most version <1.5> allowed
-<temi-esame.pdf, id=1319, page=57, pagebox=cropbox, 597.23125pt x 845.1575pt>
+<temi-esame.pdf, id=897, page=56, pagebox=cropbox, 597.23125pt x 845.1575pt>
 File: temi-esame.pdf Graphic file (type pdf)
-<use temi-esame.pdf, page 57>
-Package pdftex.def Info: temi-esame.pdf , page57 used on input line 62. on inpu
-t line 62.
+<use temi-esame.pdf, page 56>
+Package pdftex.def Info: temi-esame.pdf , page56 used on input line 31. on inpu
+t line 31.
 Package pdftex.def Info: Requested size: 597.51228pt x 845.5552pt on input line
- 62.
+ 31.
 File: temi-esame.pdf Graphic file (type pdf)
-<use temi-esame.pdf, page 57>
-Package pdftex.def Info: temi-esame.pdf , page57 used on input line 62. on inpu
-t line 62.
+<use temi-esame.pdf, page 56>
+Package pdftex.def Info: temi-esame.pdf , page56 used on input line 31. on inpu
+t line 31.
 Package pdftex.def Info: Requested size: 597.51228pt x 845.5552pt on input line
- 62.
+ 31.
 File: temi-esame.pdf Graphic file (type pdf)
-<use temi-esame.pdf, page 57>
-Package pdftex.def Info: temi-esame.pdf , page57 used on input line 62. on inpu
-t line 62.
+<use temi-esame.pdf, page 56>
+Package pdftex.def Info: temi-esame.pdf , page56 used on input line 31. on inpu
+t line 31.
 Package pdftex.def Info: Requested size: 597.51228pt x 845.5552pt on input line
- 62.
+ 31.
 [82 <./temi-esame.pdf>]
 
 pdfTeX warning: /usr/bin/pdflatex (file ./temi-esame.pdf): PDF inclusion: found
  PDF version <1.7>, but at most version <1.5> allowed
-<temi-esame.pdf, id=1325, page=58, pagebox=cropbox, 614.295pt x 794.97pt>
+<temi-esame.pdf, id=902, page=57, pagebox=cropbox, 597.23125pt x 845.1575pt>
 File: temi-esame.pdf Graphic file (type pdf)
-<use temi-esame.pdf, page 58>
-Package pdftex.def Info: temi-esame.pdf , page58 used on input line 62. on inpu
-t line 62.
-Package pdftex.def Info: Requested size: 614.58406pt x 795.3441pt on input line
- 62.
+<use temi-esame.pdf, page 57>
+Package pdftex.def Info: temi-esame.pdf , page57 used on input line 31. on inpu
+t line 31.
+Package pdftex.def Info: Requested size: 597.51228pt x 845.5552pt on input line
+ 31.
 File: temi-esame.pdf Graphic file (type pdf)
-<use temi-esame.pdf, page 58>
-Package pdftex.def Info: temi-esame.pdf , page58 used on input line 62. on inpu
-t line 62.
-Package pdftex.def Info: Requested size: 614.58406pt x 795.3441pt on input line
- 62.
+<use temi-esame.pdf, page 57>
+Package pdftex.def Info: temi-esame.pdf , page57 used on input line 31. on inpu
+t line 31.
+Package pdftex.def Info: Requested size: 597.51228pt x 845.5552pt on input line
+ 31.
 File: temi-esame.pdf Graphic file (type pdf)
-<use temi-esame.pdf, page 58>
-Package pdftex.def Info: temi-esame.pdf , page58 used on input line 62. on inpu
-t line 62.
-Package pdftex.def Info: Requested size: 614.58406pt x 795.3441pt on input line
- 62.
+<use temi-esame.pdf, page 57>
+Package pdftex.def Info: temi-esame.pdf , page57 used on input line 31. on inpu
+t line 31.
+Package pdftex.def Info: Requested size: 597.51228pt x 845.5552pt on input line
+ 31.
 [83 <./temi-esame.pdf>]
 
 pdfTeX warning: /usr/bin/pdflatex (file ./temi-esame.pdf): PDF inclusion: found
  PDF version <1.7>, but at most version <1.5> allowed
-<temi-esame.pdf, id=1383, page=59, pagebox=cropbox, 597.23125pt x 845.1575pt>
+<temi-esame.pdf, id=907, page=58, pagebox=cropbox, 614.295pt x 794.97pt>
 File: temi-esame.pdf Graphic file (type pdf)
-<use temi-esame.pdf, page 59>
-Package pdftex.def Info: temi-esame.pdf , page59 used on input line 62. on inpu
-t line 62.
-Package pdftex.def Info: Requested size: 597.51228pt x 845.5552pt on input line
- 62.
+<use temi-esame.pdf, page 58>
+Package pdftex.def Info: temi-esame.pdf , page58 used on input line 31. on inpu
+t line 31.
+Package pdftex.def Info: Requested size: 614.58406pt x 795.3441pt on input line
+ 31.
 File: temi-esame.pdf Graphic file (type pdf)
-<use temi-esame.pdf, page 59>
-Package pdftex.def Info: temi-esame.pdf , page59 used on input line 62. on inpu
-t line 62.
-Package pdftex.def Info: Requested size: 597.51228pt x 845.5552pt on input line
- 62.
+<use temi-esame.pdf, page 58>
+Package pdftex.def Info: temi-esame.pdf , page58 used on input line 31. on inpu
+t line 31.
+Package pdftex.def Info: Requested size: 614.58406pt x 795.3441pt on input line
+ 31.
 File: temi-esame.pdf Graphic file (type pdf)
-<use temi-esame.pdf, page 59>
-Package pdftex.def Info: temi-esame.pdf , page59 used on input line 62. on inpu
-t line 62.
-Package pdftex.def Info: Requested size: 597.51228pt x 845.5552pt on input line
- 62.
+<use temi-esame.pdf, page 58>
+Package pdftex.def Info: temi-esame.pdf , page58 used on input line 31. on inpu
+t line 31.
+Package pdftex.def Info: Requested size: 614.58406pt x 795.3441pt on input line
+ 31.
 [84 <./temi-esame.pdf>]
 
 pdfTeX warning: /usr/bin/pdflatex (file ./temi-esame.pdf): PDF inclusion: found
  PDF version <1.7>, but at most version <1.5> allowed
-<temi-esame.pdf, id=1389, page=60, pagebox=cropbox, 597.23125pt x 845.1575pt>
+<temi-esame.pdf, id=964, page=59, pagebox=cropbox, 597.23125pt x 845.1575pt>
 File: temi-esame.pdf Graphic file (type pdf)
-<use temi-esame.pdf, page 60>
-Package pdftex.def Info: temi-esame.pdf , page60 used on input line 62. on inpu
-t line 62.
+<use temi-esame.pdf, page 59>
+Package pdftex.def Info: temi-esame.pdf , page59 used on input line 31. on inpu
+t line 31.
 Package pdftex.def Info: Requested size: 597.51228pt x 845.5552pt on input line
- 62.
+ 31.
 File: temi-esame.pdf Graphic file (type pdf)
-<use temi-esame.pdf, page 60>
-Package pdftex.def Info: temi-esame.pdf , page60 used on input line 62. on inpu
-t line 62.
+<use temi-esame.pdf, page 59>
+Package pdftex.def Info: temi-esame.pdf , page59 used on input line 31. on inpu
+t line 31.
 Package pdftex.def Info: Requested size: 597.51228pt x 845.5552pt on input line
- 62.
+ 31.
 File: temi-esame.pdf Graphic file (type pdf)
-<use temi-esame.pdf, page 60>
-Package pdftex.def Info: temi-esame.pdf , page60 used on input line 62. on inpu
-t line 62.
+<use temi-esame.pdf, page 59>
+Package pdftex.def Info: temi-esame.pdf , page59 used on input line 31. on inpu
+t line 31.
 Package pdftex.def Info: Requested size: 597.51228pt x 845.5552pt on input line
- 62.
+ 31.
 [85 <./temi-esame.pdf>]
-\tf@ptc=\write6
-\openout6 = `main.ptc'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 64.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 64.
- (./main.aux (./Teoria/meccanica.aux)
+pdfTeX warning: /usr/bin/pdflatex (file ./temi-esame.pdf): PDF inclusion: found
+ PDF version <1.7>, but at most version <1.5> allowed
+<temi-esame.pdf, id=970, page=60, pagebox=cropbox, 597.23125pt x 845.1575pt>
+File: temi-esame.pdf Graphic file (type pdf)
+<use temi-esame.pdf, page 60>
+Package pdftex.def Info: temi-esame.pdf , page60 used on input line 31. on inpu
+t line 31.
+Package pdftex.def Info: Requested size: 597.51228pt x 845.5552pt on input line
+ 31.
+File: temi-esame.pdf Graphic file (type pdf)
+<use temi-esame.pdf, page 60>
+Package pdftex.def Info: temi-esame.pdf , page60 used on input line 31. on inpu
+t line 31.
+Package pdftex.def Info: Requested size: 597.51228pt x 845.5552pt on input line
+ 31.
+File: temi-esame.pdf Graphic file (type pdf)
+<use temi-esame.pdf, page 60>
+Package pdftex.def Info: temi-esame.pdf , page60 used on input line 31. on inpu
+t line 31.
+Package pdftex.def Info: Requested size: 597.51228pt x 845.5552pt on input line
+ 31.
+[86 <./temi-esame.pdf>] (./main.aux (./Teoria/meccanica.aux)
 (./Teoria/elettrostatica.aux) (./Teoria/magnetostatica.aux)
-(./Teoria/circuiti.aux))
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 64.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 64.
-Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 059C921DACFA7618D8EA50FB8E9CEEAA;4089.
- ) 
+(./Teoria/circuiti.aux)) ) 
 Here is how much of TeX's memory you used:
- 30353 strings out of 492990
- 568304 string characters out of 6135004
- 768986 words of memory out of 5000000
- 33115 multiletter control sequences out of 15000+600000
- 579611 words of font info for 162 fonts, out of 8000000 for 9000
+ 5960 strings out of 492990
+ 84159 string characters out of 6135004
+ 168566 words of memory out of 5000000
+ 9347 multiletter control sequences out of 15000+600000
+ 13708 words of font info for 52 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 57i,18n,57p,10507b,1114s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texliv
-e/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/share/texlive/texm
-f-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texlive/texmf-dist
-/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/fonts
-/type1/public/amsfonts/cm/cmmi8.pfb></usr/share/texlive/texmf-dist/fonts/type1/
-public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/
-amsfonts/cm/cmr6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts
-/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy
-10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
-</usr/share/texlive/texmf-dist/fonts/type1/urw/avantgar/uagd8a.pfb></usr/share/
-texlive/texmf-dist/fonts/type1/urw/avantgar/uagk8a.pfb></usr/share/texlive/texm
-f-dist/fonts/type1/urw/symbol/usyr.pfb></usr/share/texlive/texmf-dist/fonts/typ
-e1/urw/symbol/usyr.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utm
-b8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/s
-hare/texlive/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on main.pdf (85 pages, 40779451 bytes).
+ 41i,18n,46p,789b,443s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/share/texlive/texmf-dist/fonts/type1/public/ams
+fonts/cm/cmbx10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/
+cm/cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cme
+x10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pf
+b></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></us
+r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/share
+/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/share/texliv
+e/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf
+-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/f
+onts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texlive/texmf-dist/fonts/ty
+pe1/public/amsfonts/cm/cmr6.pfb></usr/share/texlive/texmf-dist/fonts/type1/publ
+ic/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfo
+nts/cm/cmsl12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm
+/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6
+.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></
+usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb>
+Output written on main.pdf (86 pages, 33285017 bytes).
 PDF statistics:
- 1472 PDF objects out of 1728 (max. 8388607)
- 1085 compressed objects within 11 object streams
- 148 named destinations out of 1000 (max. 500000)
- 32067 words of extra memory for PDF output out of 35830 (max. 10000000)
+ 1021 PDF objects out of 1200 (max. 8388607)
+ 692 compressed objects within 7 object streams
+ 0 named destinations out of 1000 (max. 500000)
+ 381 words of extra memory for PDF output out of 10000 (max. 10000000)
 
