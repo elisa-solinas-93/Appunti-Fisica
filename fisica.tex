@@ -1,0 +1,29 @@
+\documentclass[12pt,fleqn]{report} 
+\usepackage[top=2cm,bottom=2cm,left=2cm,right=2cm,headsep=10pt,letterpaper]{geometry}
+\usepackage[utf8]{inputenc}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{amsthm}
+\usepackage{graphicx}
+\usepackage{enumitem}
+\usepackage{pdfpages}
+\renewcommand{\familydefault}{\sfdefault}
+\newtheorem{esempio}{Esempio}
+
+\title{Appunti di Fisica}
+\author{Elisa Solinas}
+\date{Aggiornato il \today}
+
+\begin{document}
+
+\maketitle
+\tableofcontents
+
+\include{meccanica}
+\include{elettrostatica}
+\include{magnetostatica}
+\include{circuiti}
+%\includepdf[pages={1-60}]{temi-esame.pdf}
+\includepdf[pages={1-2}]{formulario.pdf}
+
+\end{document}

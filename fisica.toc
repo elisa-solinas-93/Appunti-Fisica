@@ -1,0 +1,63 @@
+\contentsline {chapter}{\numberline {1}Meccanica}{3}
+\contentsline {section}{\numberline {1.1}Calcolo vettoriale}{3}
+\contentsline {subsection}{\numberline {1.1.1}Modulo di un vettore}{3}
+\contentsline {subsection}{\numberline {1.1.2}Somma di due vettori}{3}
+\contentsline {subsection}{\numberline {1.1.3}Differenza di due vettori}{3}
+\contentsline {subsection}{\numberline {1.1.4}Prodotto scalare di due vettori}{3}
+\contentsline {subsubsection}{Osservazioni}{4}
+\contentsline {subsection}{\numberline {1.1.5}Prodotto vettoriale di due vettori}{4}
+\contentsline {subsubsection}{Osservazioni}{4}
+\contentsline {subsection}{\numberline {1.1.6}Calcolo di un vettore che collega due punti}{4}
+\contentsline {section}{\numberline {1.2}Equazioni del moto}{4}
+\contentsline {subsection}{\numberline {1.2.1}Moto rettilineo uniforme}{4}
+\contentsline {subsection}{\numberline {1.2.2}Moto rettilineo uniformemente accelerato}{4}
+\contentsline {subsection}{\numberline {1.2.3}Moto circolare uniforme}{5}
+\contentsline {section}{\numberline {1.3}Leggi di Newton}{5}
+\contentsline {subsection}{\numberline {1.3.1}Prima legge di Newton}{5}
+\contentsline {subsection}{\numberline {1.3.2}Seconda legge di Newton}{5}
+\contentsline {subsection}{\numberline {1.3.3}Terza legge di Newton}{5}
+\contentsline {chapter}{\numberline {2}Elettrostatica}{6}
+\contentsline {section}{\numberline {2.1}Legge di Coulomb}{6}
+\contentsline {section}{\numberline {2.2}Principio di sovrapposizione}{6}
+\contentsline {section}{\numberline {2.3}Campo elettrico}{7}
+\contentsline {section}{\numberline {2.4}Teorema di Gauss per il campo elettrico}{7}
+\contentsline {subsection}{\numberline {2.4.1}Distribuzione lineare}{7}
+\contentsline {subsection}{\numberline {2.4.2}Distribuzione piana}{8}
+\contentsline {section}{\numberline {2.5}Energia elettrica}{9}
+\contentsline {subsection}{\numberline {2.5.1}La forza elettrica \IeC {\`e} conservativa}{9}
+\contentsline {subsection}{\numberline {2.5.2}Energia potenziale elettrica}{9}
+\contentsline {subsection}{\numberline {2.5.3}Potenziale elettrico}{10}
+\contentsline {section}{\numberline {2.6}Dipolo elettrico}{10}
+\contentsline {subsection}{\numberline {2.6.1}Campo elettrico lungo l'asse del dipolo}{11}
+\contentsline {subsection}{\numberline {2.6.2}Potenziale elettrico lungo l'asse del dipolo}{11}
+\contentsline {chapter}{\numberline {3}Magnetostatica}{12}
+\contentsline {section}{\numberline {3.1}Forza di Lorentz}{12}
+\contentsline {subsection}{\numberline {3.1.1}Forza tra due fili paralleli percorsi da corrente}{12}
+\contentsline {section}{\numberline {3.2}Legge di Biot-Savart}{13}
+\contentsline {subsection}{\numberline {3.2.1}Spira circolare}{13}
+\contentsline {section}{\numberline {3.3}Legge di Amp\IeC {\'e}re}{14}
+\contentsline {subsection}{\numberline {3.3.1}Solenoide ideale}{14}
+\contentsline {section}{\numberline {3.4}Legge di Faraday-Lenz}{15}
+\contentsline {subsection}{\numberline {3.4.1}Relazione con induttanza}{15}
+\contentsline {chapter}{\numberline {4}Circuiti}{16}
+\contentsline {section}{\numberline {4.1}Corrente elettrica}{16}
+\contentsline {subsection}{\numberline {4.1.1}Leggi di Kirchhoff}{16}
+\contentsline {section}{\numberline {4.2}Analisi dei circuiti}{16}
+\contentsline {subsection}{\numberline {4.2.1}Differenza di potenziale nei circuiti}{17}
+\contentsline {subsection}{\numberline {4.2.2}Forza elettromotrice}{17}
+\contentsline {section}{\numberline {4.3}Determinazione di circuiti equivalenti}{17}
+\contentsline {section}{\numberline {4.4}Resistori}{18}
+\contentsline {subsection}{\numberline {4.4.1}Resistori collegati in parallelo}{18}
+\contentsline {subsection}{\numberline {4.4.2}Resistori collegati in serie}{18}
+\contentsline {section}{\numberline {4.5}Condensatori}{19}
+\contentsline {subsection}{\numberline {4.5.1}Campo elettrico all'interno di un condensatore}{19}
+\contentsline {subsection}{\numberline {4.5.2}Differenza di potenziale sulle armature del condensatore}{19}
+\contentsline {subsection}{\numberline {4.5.3}Capacit\IeC {\`a} di un condensatore piano}{20}
+\contentsline {subsection}{\numberline {4.5.4}Cosa accade all'esterno del condensatore}{20}
+\contentsline {subsection}{\numberline {4.5.5}Carica e scarica del condensatore}{20}
+\contentsline {subsubsection}{Processo di carica}{20}
+\contentsline {subsubsection}{Processo di scarica}{20}
+\contentsline {subsection}{\numberline {4.5.6}Condensatori collegati in parallelo}{21}
+\contentsline {subsection}{\numberline {4.5.7}Condensatori collegati in serie}{21}
+\contentsline {section}{\numberline {4.6}Induttori}{22}
+\contentsline {subsection}{\numberline {4.6.1}Induttori nei circuiti}{22}
